@@ -1,0 +1,6473 @@
+[
+  {
+    "id": "14_holy_helpers",
+    "title": "14 Holy Helpers",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 8
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "14 Holy Helpers"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "30_day_novena_to_st_joseph",
+    "title": "30 Day Novena to St Joseph",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 17
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 19
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "St Joseph",
+      "30 Day Novena to St Joseph"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "54_day_rosary",
+    "title": "54 Day Rosary",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 20
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 13
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Rosary",
+      "54 Day Rosary"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "all_saints",
+    "title": "All Saints",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 23
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 1
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "All Saints"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "angelic_warfare_confraternity",
+    "title": "Angelic Warfare Confraternity",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 19
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 28
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Angelic Warfare Confraternity"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "annunciation",
+    "title": "Annunciation",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 16
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 25
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Annunciation"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "assumption",
+    "title": "Assumption",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 6
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 15
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Assumption"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "bl_fr_michael_mcgivney",
+    "title": "Bl Fr Michael McGivney",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 4
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 13
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "Bl Fr Michael McGivney"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "bl_miguel_agustin_pro",
+    "title": "Bl Miguel Agustin Pro",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 14
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 23
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "Bl Miguel Agustin Pro"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "blessed_francis_xavier_seelos",
+    "title": "Blessed Francis Xavier Seelos",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 26
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 5
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "Blessed Francis Xavier Seelos"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "blessed_solanus_casey",
+    "title": "Blessed Solanus Casey",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 21
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 30
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "Blessed Solanus Casey"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "blessed_stanley_rother",
+    "title": "Blessed Stanley Rother",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 19
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 28
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "Blessed Stanley Rother"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "cardinal_burke_our_lady_of_guadalupe",
+    "title": "Cardinal Burke Our Lady of Guadalupe",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 12
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 12
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Cardinal Burke Our Lady of Guadalupe"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "christ_the_king",
+    "title": "Christ the King",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 14
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 23
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Christ the King"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "corpus_christi",
+    "title": "Corpus Christi",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 22
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Corpus Christi"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "divine_mercy",
+    "title": "Divine Mercy",
+    "startRule": {
+      "type": "anchor",
+      "anchor": "good_friday"
+    },
+    "feastRule": {
+      "type": "anchor",
+      "anchor": "divine_mercy_sunday"
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Divine Mercy"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "election",
+    "title": "Election",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 27
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 5
+    },
+    "category": "Intention",
+    "tags": [
+      "Novena",
+      "Intention",
+      "Election"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "election_consecration_54_day",
+    "title": "Election Consecration 54 Day",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 12
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 5
+    },
+    "category": "Intention",
+    "tags": [
+      "Novena",
+      "Intention",
+      "Election",
+      "Election Consecration 54 Day"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "english_martyrs",
+    "title": "English Martyrs",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 25
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 4
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "English Martyrs"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "epiphany_magi",
+    "title": "Epiphany Magi",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 28
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 6
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Epiphany Magi"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "fulton_sheen",
+    "title": "Fulton Sheen",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 9
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Fulton Sheen"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "guardian_angel",
+    "title": "Guardian Angel",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 23
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 2
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Guardian Angel"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "holy_cloak_of_st_joseph",
+    "title": "Holy Cloak of St Joseph",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 1
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 1
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "St Joseph",
+      "Holy Cloak of St Joseph"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "holy_cross",
+    "title": "Holy Cross",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 5
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 14
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Holy Cross"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "holy_face_of_jesus",
+    "title": "Holy Face of Jesus",
+    "startRule": {
+      "type": "relative",
+      "anchor": "shrove_tuesday",
+      "offsetDays": -10,
+      "weekday": 0
+    },
+    "feastRule": {
+      "type": "anchor",
+      "anchor": "shrove_tuesday"
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Holy Face of Jesus"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "holy_family",
+    "title": "Holy Family",
+    "startRule": {
+      "type": "before_feast",
+      "daysBefore": 9
+    },
+    "feastRule": {
+      "type": "anchor",
+      "anchor": "holy_family"
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Holy Family"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "holy_innocents",
+    "title": "Holy Innocents",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 19
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 28
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Holy Innocents"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "holy_name_of_jesus",
+    "title": "Holy Name of Jesus",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 25
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 3
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Holy Name of Jesus"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "holy_souls_in_purgatory",
+    "title": "Holy Souls in Purgatory",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 24
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 2
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Holy Souls in Purgatory"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "immaculate_conception",
+    "title": "Immaculate Conception",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 29
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 8
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Immaculate Conception"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "immaculate_heart_of_mary",
+    "title": "Immaculate Heart of Mary",
+    "startRule": {
+      "type": "nth_weekday_after",
+      "anchor": "pentecost",
+      "weekday": 5,
+      "n": 2
+    },
+    "feastRule": {
+      "type": "nth_weekday_after",
+      "anchor": "pentecost",
+      "weekday": 6,
+      "n": 3
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Immaculate Heart of Mary"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "impossible_requests_annunciation",
+    "title": "Impossible Requests Annunciation",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 25
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 25
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Impossible Requests Annunciation"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "infant_of_prague",
+    "title": "Infant of Prague",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 5
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 14
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Infant of Prague"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "mary_help_of_christians",
+    "title": "Mary, Help of Christians",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 15
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 24
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Mary, Help of Christians"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "mary_queen_of_the_apostles",
+    "title": "Mary, Queen of the Apostles",
+    "startRule": {
+      "type": "relative",
+      "anchor": "easter",
+      "offsetDays": 32
+    },
+    "feastRule": {
+      "type": "nth_weekday_after",
+      "anchor": "ascension_thursday",
+      "weekday": 6,
+      "n": 1
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Mary, Queen of the Apostles"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "mary_undoer_of_knots",
+    "title": "Mary, Undoer of Knots",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 8
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 17
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Mary, Undoer of Knots"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "miraculous_medal",
+    "title": "Miraculous Medal",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 18
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 27
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Miraculous Medal"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "nativity_of_mary",
+    "title": "Nativity of Mary",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Nativity of Mary"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "north_american_martyrs",
+    "title": "North American Martyrs",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 10
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 19
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "North American Martyrs"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "novena_for_fertility_to_conceive",
+    "title": "Novena for Fertility to Conceive",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 6
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 15
+    },
+    "category": "Intention",
+    "tags": [
+      "Novena",
+      "Intention",
+      "Fertility",
+      "Novena for Fertility to Conceive"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "novena_for_popes_repose_and_new_pope",
+    "title": "Novena for Pope's Repose and New Pope",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 23
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 13
+    },
+    "category": "Intention",
+    "tags": [
+      "Novena",
+      "Intention",
+      "Novena for Pope's Repose and New Pope"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "novena_to_the_divine_infant_king",
+    "title": "Novena to the Divine Infant King",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 17
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 26
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Novena to the Divine Infant King"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "novena_to_the_holy_spirit",
+    "title": "Novena to the Holy Spirit",
+    "startRule": {
+      "type": "relative",
+      "anchor": "pentecost",
+      "offsetDays": -10
+    },
+    "feastRule": {
+      "type": "anchor",
+      "anchor": "pentecost"
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Holy Spirit",
+      "Novena to the Holy Spirit"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "one_year_st_bridget_of_sweden",
+    "title": "One Year St. Bridget of Sweden",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 23
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 23
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "One Year St. Bridget of Sweden"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_champion",
+    "title": "Our Lady of Champion",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 9
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Champion"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_charity",
+    "title": "Our Lady of Charity",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Charity"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_czestochowa",
+    "title": "Our Lady of Czestochowa",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 17
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 26
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Czestochowa"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_fatima",
+    "title": "Our Lady of Fatima",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 4
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 13
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Fatima"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_good_counsel",
+    "title": "Our Lady of Good Counsel",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 17
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 26
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Good Counsel"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_good_health",
+    "title": "Our Lady of Good Health",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Good Health"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_good_success",
+    "title": "Our Lady of Good Success",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 24
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 2
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Good Success"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_graces",
+    "title": "Our Lady of Graces",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 29
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 7
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Graces"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_guadalupe",
+    "title": "Our Lady of Guadalupe",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 3
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 12
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Guadalupe"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_hope",
+    "title": "Our Lady of Hope",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 8
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 17
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Hope"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_knock",
+    "title": "Our Lady of Knock",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 8
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 17
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Knock"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_la_leche",
+    "title": "Our Lady of La Leche",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 2
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 11
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of La Leche"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_la_salette",
+    "title": "Our Lady of La Salette",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 10
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 19
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of La Salette"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_lourdes",
+    "title": "Our Lady of Lourdes",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 2
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 11
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Lourdes"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_monte_berico",
+    "title": "Our Lady of Monte Berico",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 13
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 22
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Monte Berico"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_mt_carmel",
+    "title": "Our Lady of Mt. Carmel",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 7
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 16
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Mt. Carmel"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_peace",
+    "title": "Our Lady of Peace",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 9
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Peace"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_perpetual_help",
+    "title": "Our Lady of Perpetual Help",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 18
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 27
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Perpetual Help"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_sorrows",
+    "title": "Our Lady of Sorrows",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 6
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 15
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Sorrows"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_the_rosary",
+    "title": "Our Lady of the Rosary",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 28
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 7
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Rosary",
+      "Our Lady of the Rosary"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_the_snows",
+    "title": "Our Lady of the Snows",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 27
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 5
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of the Snows"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_of_walsingham",
+    "title": "Our Lady of Walsingham",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 15
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 24
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady of Walsingham"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "our_lady_star_of_the_sea",
+    "title": "Our Lady Star of the Sea",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 18
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 27
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Our Lady Star of the Sea"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "pope_st_leo_the_great",
+    "title": "Pope St Leo the Great",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 1
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 10
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Pope St Leo the Great"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "pope_st_john_paul_ii",
+    "title": "Pope St. John Paul II",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 13
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 22
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Pope St. John Paul II"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "precious_blood",
+    "title": "Precious Blood",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 22
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 1
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Precious Blood"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "presentation_of_the_blessed_virgin_mary",
+    "title": "Presentation of the Blessed Virgin Mary",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 12
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 21
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "Presentation of the Blessed Virgin Mary"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "queenship_of_mary",
+    "title": "Queenship of Mary",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 13
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 22
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Queenship of Mary"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "respect_life",
+    "title": "Respect Life",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 20
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 29
+    },
+    "category": "Intention",
+    "tags": [
+      "Novena",
+      "Intention",
+      "Respect Life"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "sacred_heart",
+    "title": "Sacred Heart",
+    "startRule": {
+      "type": "relative",
+      "anchor": "pentecost",
+      "offsetDays": 10
+    },
+    "feastRule": {
+      "type": "relative",
+      "anchor": "pentecost",
+      "offsetDays": 19,
+      "weekday": 5
+    },
+    "category": "Feast",
+    "tags": [
+      "Novena",
+      "Feast",
+      "Sacred Heart"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "seven_sorrows_and_joys_of_st_joseph",
+    "title": "Seven Sorrows and Joys of St Joseph",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 13
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 22
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "St Joseph",
+      "Seven Sorrows and Joys of St Joseph"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_abigail",
+    "title": "St Abigail",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 2
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 11
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Abigail"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_adelaide",
+    "title": "St Adelaide",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 7
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 16
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Adelaide"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_albert_the_great",
+    "title": "St Albert the Great",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 6
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 15
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Albert the Great"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_alphonsus_liguori",
+    "title": "St Alphonsus Liguori",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 23
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 1
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Alphonsus Liguori"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_ambrose",
+    "title": "St Ambrose",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 28
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 7
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Ambrose"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_andrew_avellino",
+    "title": "St Andrew Avellino",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 1
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 10
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Andrew Avellino"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_andrew_the_apostle",
+    "title": "St Andrew the Apostle",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 21
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 30
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Andrew the Apostle"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_angela_merici",
+    "title": "St Angela Merici",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 18
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 27
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Angela Merici"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_anthony_mary_claret",
+    "title": "St Anthony Mary Claret",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 15
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 24
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Anthony Mary Claret"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_benedict_joseph_labre",
+    "title": "St Benedict Joseph Labre",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 7
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 16
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Joseph",
+      "St Benedict Joseph Labre"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_bernadine_of_siena",
+    "title": "St Bernadine of Siena",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 11
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 20
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Bernadine of Siena"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_bernard_of_clairvaux",
+    "title": "St Bernard of Clairvaux",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 11
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 20
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Bernard of Clairvaux"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_brendan",
+    "title": "St Brendan",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 7
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 16
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Brendan"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_carlo_acutis",
+    "title": "St Carlo Acutis",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 18
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 27
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Carlo Acutis"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_catherine_of_alexandria",
+    "title": "St Catherine of Alexandria",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 16
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 25
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Catherine of Alexandria"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_charbel",
+    "title": "St Charbel",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 15
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 24
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Charbel"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_charles_borromeo",
+    "title": "St Charles Borromeo",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 26
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 4
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Charles Borromeo"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_christopher",
+    "title": "St Christopher",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 16
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 25
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Christopher"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_colette",
+    "title": "St Colette",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 25
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 6
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Colette"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_cyril_of_jerusalem",
+    "title": "St Cyril of Jerusalem",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 10
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 19
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Cyril of Jerusalem"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_damien_of_molokai",
+    "title": "St Damien of Molokai",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 1
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 10
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Damien of Molokai"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_edith_stein",
+    "title": "St Edith Stein",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 31
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 9
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Edith Stein"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_edmund_campion",
+    "title": "St Edmund Campion",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 22
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 1
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Edmund Campion"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_elizabeth",
+    "title": "St Elizabeth",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 27
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 5
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Elizabeth"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_elizabeth_of_portugal",
+    "title": "St Elizabeth of Portugal",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 25
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 4
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Elizabeth of Portugal"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_frances_of_rome",
+    "title": "St Frances of Rome",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 28
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 9
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Frances of Rome"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_frances_xavier_cabrini",
+    "title": "St Frances Xavier Cabrini",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 4
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 13
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Frances Xavier Cabrini"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_gabriel_of_our_lady_of_sorrows",
+    "title": "St Gabriel of Our Lady of Sorrows",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 18
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 27
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "St Gabriel of Our Lady of Sorrows"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_genevieve",
+    "title": "St Genevieve",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 25
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 3
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Genevieve"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_george",
+    "title": "St George",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 14
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 23
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St George"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_germaine_cousin",
+    "title": "St Germaine Cousin",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 6
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 15
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Germaine Cousin"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_giuseppe_moscati",
+    "title": "St Giuseppe Moscati",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 7
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 16
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Giuseppe Moscati"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_gregory_the_great",
+    "title": "St Gregory the Great",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 25
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 3
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Gregory the Great"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_helena",
+    "title": "St Helena",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 9
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 18
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Helena"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_hildegard_of_bingen",
+    "title": "St Hildegard of Bingen",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 17
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Hildegard of Bingen"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_homobonus",
+    "title": "St Homobonus",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 4
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 13
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Homobonus"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_isidore_of_seville",
+    "title": "St Isidore of Seville",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 26
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 4
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Isidore of Seville"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_jane_frances_de_chantal",
+    "title": "St Jane Frances de Chantal",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 3
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 12
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Jane Frances de Chantal"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_john_damascene",
+    "title": "St John Damascene",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 25
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 4
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St John Damascene"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_john_henry_newman",
+    "title": "St John Henry Newman",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 9
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St John Henry Newman"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_john_neumann",
+    "title": "St John Neumann",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 27
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 5
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St John Neumann"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_john_of_god",
+    "title": "St John of God",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 27
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 8
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St John of God"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_jose_luis_sanchez_del_rio",
+    "title": "St Jose Luis Sanchez del Rio",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 1
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 10
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Jose Luis Sanchez del Rio"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_joseph_the_worker",
+    "title": "St Joseph the Worker",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 22
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 1
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Joseph",
+      "St Joseph the Worker"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_juan_diego",
+    "title": "St Juan Diego",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 9
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Juan Diego"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_justin_martyr",
+    "title": "St Justin Martyr",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 23
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 1
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Justin Martyr"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_kateri",
+    "title": "St Kateri",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 5
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 14
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Kateri"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_lawrence",
+    "title": "St Lawrence",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 1
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 10
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Lawrence"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_louis_king_of_france",
+    "title": "St Louis King of France",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 16
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 25
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Louis King of France"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_luke",
+    "title": "St Luke",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 9
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 18
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Luke"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_lydwine",
+    "title": "St Lydwine",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 5
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 14
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Lydwine"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_margaret_of_castello",
+    "title": "St Margaret of Castello",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 4
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 13
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Margaret of Castello"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_margaret_of_cortona",
+    "title": "St Margaret of Cortona",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 13
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 22
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Margaret of Cortona"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_margaret_of_scotland",
+    "title": "St Margaret of Scotland",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 7
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 16
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Margaret of Scotland"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_marianne_cope",
+    "title": "St Marianne Cope",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 14
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 23
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Marianne Cope"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_mark_ji_tianxiang",
+    "title": "St Mark Ji Tianxiang",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 28
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 7
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Mark Ji Tianxiang"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_mary_mackillop",
+    "title": "St Mary MacKillop",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 8
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Mary MacKillop"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_mary_magdalene_de_pazzi",
+    "title": "St Mary Magdalene de Pazzi",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 16
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 25
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Mary Magdalene de Pazzi"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_matthew",
+    "title": "St Matthew",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 12
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 21
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Matthew"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_matthias_apostle",
+    "title": "St Matthias Apostle",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 5
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 14
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Matthias Apostle"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_michaels_lent",
+    "title": "St Michael's Lent",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 15
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 30
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Michael's Lent"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_mother_teresa",
+    "title": "St Mother Teresa",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 26
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 4
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Mother Teresa"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_odilia",
+    "title": "St Odilia",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 9
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 18
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Odilia"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_padre_pio",
+    "title": "St Padre Pio",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 14
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 23
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Padre Pio"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_paul_of_the_cross",
+    "title": "St Paul of the Cross",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 11
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 20
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Paul of the Cross"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_pedro_calungsod",
+    "title": "St Pedro Calungsod",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 24
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 2
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Pedro Calungsod"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_peter_chanel",
+    "title": "St Peter Chanel",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 19
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 28
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Peter Chanel"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_peter_julian_eymard",
+    "title": "St Peter Julian Eymard",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 24
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 2
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Peter Julian Eymard"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_pier_giorgio_frassati",
+    "title": "St Pier Giorgio Frassati",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 25
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 4
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Pier Giorgio Frassati"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_robert_bellarmine",
+    "title": "St Robert Bellarmine",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 17
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Robert Bellarmine"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_rose_philippine_duchesne",
+    "title": "St Rose Philippine Duchesne",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 9
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 18
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Rose Philippine Duchesne"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_scholastica",
+    "title": "St Scholastica",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 1
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 10
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Scholastica"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_teresa_of_the_andes",
+    "title": "St Teresa of the Andes",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 4
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 13
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Teresa of the Andes"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_thomas_becket",
+    "title": "St Thomas Becket",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 20
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 29
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Thomas Becket"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_veronica_giuliani",
+    "title": "St Veronica Giuliani",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 9
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Veronica Giuliani"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_vincent_de_paul",
+    "title": "St Vincent de Paul",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 18
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 27
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Vincent de Paul"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_agatha",
+    "title": "St. Agatha",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 27
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 5
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Agatha"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_agnes",
+    "title": "St. Agnes",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 12
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 21
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Agnes"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_aloysius_gonzaga",
+    "title": "St. Aloysius Gonzaga",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 12
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 21
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Aloysius Gonzaga"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_andre_bessette",
+    "title": "St. Andre Bessette",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 28
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 6
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Andre Bessette"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_andrew_christmas",
+    "title": "St. Andrew Christmas",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 26
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Andrew Christmas"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_anne",
+    "title": "St. Anne",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 17
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 26
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Anne"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_anthony",
+    "title": "St. Anthony",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 4
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Anthony"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_augustine",
+    "title": "St. Augustine",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 19
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 28
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Augustine"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_benedict",
+    "title": "St. Benedict",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 2
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 11
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Benedict"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_bernadette",
+    "title": "St. Bernadette",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 7
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 16
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Bernadette"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_blaise",
+    "title": "St. Blaise",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 25
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 3
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Blaise"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_bridget_of_sweden",
+    "title": "St. Bridget of Sweden",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 14
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 23
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Bridget of Sweden"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_brigid_of_ireland",
+    "title": "St. Brigid of Ireland",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 23
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 1
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Brigid of Ireland"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_cajetan",
+    "title": "St. Cajetan",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 29
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 7
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Cajetan"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_catherine_of_siena",
+    "title": "St. Catherine of Siena",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 20
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 29
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Catherine of Siena"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_cecilia",
+    "title": "St. Cecilia",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 13
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 22
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Cecilia"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_clare",
+    "title": "St. Clare",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 2
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 11
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Clare"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_corona",
+    "title": "St. Corona",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 5
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 14
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Corona"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_dominic",
+    "title": "St. Dominic",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 8
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Dominic"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_dominic_savio",
+    "title": "St. Dominic Savio",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 1
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 10
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Dominic Savio"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_dymphna",
+    "title": "St. Dymphna",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 6
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 15
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Dymphna"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_elizabeth_ann_seton",
+    "title": "St. Elizabeth Ann Seton",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 26
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 4
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Elizabeth Ann Seton"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_elizabeth_of_hungary",
+    "title": "St. Elizabeth of Hungary",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 8
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 17
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Elizabeth of Hungary"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_elizabeth_of_the_trinity",
+    "title": "St. Elizabeth of the Trinity",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 8
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Elizabeth of the Trinity"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_expeditus",
+    "title": "St. Expeditus",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 10
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 19
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Expeditus"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_faustina",
+    "title": "St. Faustina",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 26
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 5
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Faustina"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_francis_de_sales",
+    "title": "St. Francis de Sales",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 15
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 24
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Francis de Sales"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_francis_of_assisi",
+    "title": "St. Francis of Assisi",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 25
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 4
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Francis of Assisi"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_francis_xavier",
+    "title": "St. Francis Xavier",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 3
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 12
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Francis Xavier"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_gabriel",
+    "title": "St. Gabriel",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 20
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 29
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Gabriel"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_gemma_galgani",
+    "title": "St. Gemma Galgani",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 2
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 11
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Gemma Galgani"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_gerard_majella",
+    "title": "St. Gerard Majella",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 7
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 16
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Gerard Majella"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_gertrude_prayer",
+    "title": "St. Gertrude Prayer",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 7
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 16
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Gertrude Prayer"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_gianna_molla",
+    "title": "St. Gianna Molla",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 19
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 28
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Gianna Molla"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_ignatius_loyola",
+    "title": "St. Ignatius Loyola",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 22
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 31
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Ignatius Loyola"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_isidore_the_farmer",
+    "title": "St. Isidore the Farmer",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 6
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 15
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Isidore the Farmer"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_james_the_greater",
+    "title": "St. James the Greater",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 16
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 25
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. James the Greater"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_joan_of_arc",
+    "title": "St. Joan of Arc",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 21
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 30
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Joan of Arc"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_john_bosco",
+    "title": "St. John Bosco",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 22
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 31
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. John Bosco"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_john_of_the_cross",
+    "title": "St. John of the Cross",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 5
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 14
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. John of the Cross"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_john_the_apostle",
+    "title": "St. John the Apostle",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 18
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 27
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. John the Apostle"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_john_the_baptist",
+    "title": "St. John the Baptist",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 15
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. John the Baptist"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_john_vianney",
+    "title": "St. John Vianney",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 26
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 4
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. John Vianney"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_josemaria_escriva",
+    "title": "St. Josemaria Escriva",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 17
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 26
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Josemaria Escriva"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_joseph",
+    "title": "St. Joseph",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 10
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 19
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Joseph",
+      "St. Joseph"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_joseph_cupertino",
+    "title": "St. Joseph Cupertino",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 9
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 18
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Joseph",
+      "St. Joseph Cupertino"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_josephine_bakhita",
+    "title": "St. Josephine Bakhita",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 30
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 8
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St Joseph",
+      "St. Josephine Bakhita"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_jude",
+    "title": "St. Jude",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 11
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 20
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Jude"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_katharine_drexel",
+    "title": "St. Katharine Drexel",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 22
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 3
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Katharine Drexel"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_louis_de_montfort",
+    "title": "St. Louis de Montfort",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 19
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 28
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Louis de Montfort"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_lucy",
+    "title": "St. Lucy",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 4
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 13
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Lucy"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_margaret_mary",
+    "title": "St. Margaret Mary",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 7
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 16
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Margaret Mary"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_maria_goretti",
+    "title": "St. Maria Goretti",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 27
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 6
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Maria Goretti"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_martin_de_porres",
+    "title": "St. Martin de Porres",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 25
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 3
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Martin de Porres"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_martin_of_tours",
+    "title": "St. Martin of Tours",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 2
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 11
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Martin of Tours"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_mary_magdalene",
+    "title": "St. Mary Magdalene",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 13
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 22
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Mary Magdalene"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_maximilian_kolbe",
+    "title": "St. Maximilian Kolbe",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 5
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 14
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Maximilian Kolbe"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_michael",
+    "title": "St. Michael",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 20
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 29
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Michael"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_monica",
+    "title": "St. Monica",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 18
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 27
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Monica"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_nicholas",
+    "title": "St. Nicholas",
+    "startRule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 27
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 6
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Nicholas"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_patrick",
+    "title": "St. Patrick",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 8
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 17
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Patrick"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_peregrine",
+    "title": "St. Peregrine",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 22
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 1
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Peregrine"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_peter_and_paul",
+    "title": "St. Peter and Paul",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 20
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Peter and Paul"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_philip_neri",
+    "title": "St. Philip Neri",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 17
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 26
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Philip Neri"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_philomena",
+    "title": "St. Philomena",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 2
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 11
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Philomena"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_raphael",
+    "title": "St. Raphael",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 20
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 29
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Raphael"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_rita",
+    "title": "St. Rita",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 13
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 22
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Rita"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_rocco_novena_against_plague",
+    "title": "St. Rocco Novena Against Plague",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 7
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 16
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Rocco Novena Against Plague"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_rose_of_lima",
+    "title": "St. Rose of Lima",
+    "startRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 14
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 23
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Rose of Lima"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_sebastian",
+    "title": "St. Sebastian",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 11
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 20
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Sebastian"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_stephen",
+    "title": "St. Stephen",
+    "startRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 17
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 26
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Stephen"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_teresa_of_avila",
+    "title": "St. Teresa of Avila",
+    "startRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 6
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 15
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Teresa of Avila"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_therese_of_lisieux_rose",
+    "title": "St. Therese of Lisieux Rose",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 22
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 1
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Therese of Lisieux Rose"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_thomas_aquinas",
+    "title": "St. Thomas Aquinas",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 19
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 28
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Thomas Aquinas"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_thomas_more",
+    "title": "St. Thomas More",
+    "startRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 22
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Thomas More"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_valentine",
+    "title": "St. Valentine",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 5
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 14
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Valentine"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "st_vincent_ferrer",
+    "title": "St. Vincent Ferrer",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 27
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 5
+    },
+    "category": "Saint",
+    "tags": [
+      "Novena",
+      "Saint",
+      "St. Vincent Ferrer"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "sts_cosmas_and_damian",
+    "title": "Sts Cosmas and Damian",
+    "startRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 17
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 26
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Sts Cosmas and Damian"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "sts_jacinta_and_francisco_marto",
+    "title": "Sts Jacinta and Francisco Marto",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 11
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 20
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Sts Jacinta and Francisco Marto"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "sts_louis_and_zelie_martin",
+    "title": "Sts Louis and Zelie Martin",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 3
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 12
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Sts Louis and Zelie Martin"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "sts_perpetua_and_felicity",
+    "title": "Sts Perpetua and Felicity",
+    "startRule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 26
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 7
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Sts Perpetua and Felicity"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "sts_philip_and_james",
+    "title": "Sts Philip and James",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 24
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 3
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Sts Philip and James"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "sts_joachim_and_anne",
+    "title": "Sts. Joachim and Anne",
+    "startRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 17
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 26
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Sts. Joachim and Anne"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "surrender",
+    "title": "Surrender",
+    "startRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 2
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 11
+    },
+    "category": "Intention",
+    "tags": [
+      "Novena",
+      "Intention",
+      "Surrender"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "the_three_hail_marys",
+    "title": "The Three Hail Marys",
+    "startRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 20
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 29
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "The Three Hail Marys"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "virgin_of_revelation",
+    "title": "Virgin of Revelation",
+    "startRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 3
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 12
+    },
+    "category": "Devotion",
+    "tags": [
+      "Novena",
+      "Devotion",
+      "Virgin of Revelation"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  },
+  {
+    "id": "visitation",
+    "title": "Visitation",
+    "startRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 22
+    },
+    "feastRule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 31
+    },
+    "category": "Marian",
+    "tags": [
+      "Novena",
+      "Marian",
+      "Mary",
+      "Visitation"
+    ],
+    "description": null,
+    "patronage": [],
+    "image": null,
+    "notes": null,
+    "source": {
+      "url": "https://catholicnovenaapp.com/list-of-all-novenas/"
+    }
+  }
+]

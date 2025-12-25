@@ -8,7 +8,9 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "saints:build": "tsx scripts/build-saints-calendar.ts && tsx scripts/build-saints-index.ts",
+    "saints:check": "node -e \"const d=require('./data/saints_by_mmdd.json'); const empty=Object.entries(d).filter(([k,v])=>!v?.saints?.length); if(empty.length){console.error('❌ empty days:', empty.map(e=>e[0])); process.exit(1);} const idx=require('./data/saints_index.json'); if(idx.length!==366){console.error('❌ index entries:', idx.length); process.exit(1);} const bad=Object.entries(d).filter(([k,v])=>v?.saints?.length && !v.featuredSaint).map(([k])=>k); if(bad.length){console.error('❌ missing featuredSaint:', bad); process.exit(1);} console.log('✅ saints data OK');\""
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
@@ -28,6 +30,7 @@
     "expo-symbols": "~1.0.8",
     "expo-system-ui": "~6.0.9",
     "expo-web-browser": "~15.0.10",
+    "pdf-parse": "^2.4.5",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-native": "0.81.5",
@@ -42,8 +45,10 @@
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
+    "cheerio": "^1.1.2",
     "eslint": "^9.25.0",
     "eslint-config-expo": "~10.0.0",
+    "tsx": "^4.21.0",
     "typescript": "~5.9.2"
   },
   "private": true

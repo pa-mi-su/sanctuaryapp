@@ -1,0 +1,213 @@
+// scripts/build-saints-index.ts
+//
+// Reads:  data/saints_by_mmdd.json
+// Writes:
+//   data/saints_index.json
+//   data/saints/<id>.json   (stub content, safe to overwrite only if missing)
+//   data/saintsManifest.ts
+//
+// Run:
+//   npx tsx scripts/build-saints-index.ts
+//
+
+import * as fs from "fs";
+import * as path from "path";
+
+type DaySaints = {
+  feast: string | null;
+  saints: string[];
+  // ✅ new (from build-saints-calendar.ts). Optional so old data won't crash.
+  featuredSaint?: string | null;
+  // optional passthrough metadata (ignored here, but safe)
+  source?: any;
+};
+
+type SaintsByMmdd = Record<string, DaySaints>;
+
+type SaintIndexEntry = {
+  id: string; // stable id for routing
+  name: string; // display
+  mmdd: string; // "01-08"
+  feast?: string | null;
+};
+
+function safeReadJson(p: string) {
+  return JSON.parse(fs.readFileSync(p, "utf8"));
+}
+
+function safeAtomicWrite(outPath: string, contents: string) {
+  const tmpPath = outPath + ".tmp";
+  fs.writeFileSync(tmpPath, contents, "utf8");
+  fs.renameSync(tmpPath, outPath);
+}
+
+/**
+ * Normalize accents so slugs are stable:
+ *  "André" -> "Andre"
+ */
+function stripDiacritics(s: string) {
+  return (s ?? "").normalize("NFKD").replace(/[\u0300-\u036f]/g, "");
+}
+
+function slugify(s: string) {
+  const base = stripDiacritics(s);
+  return base
+    .toLowerCase()
+    .replace(/&/g, "and")
+    .replace(/[\u2014\u2013]/g, "-")
+    .replace(/[^a-z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "")
+    .slice(0, 80);
+}
+
+function ensureDir(p: string) {
+  fs.mkdirSync(p, { recursive: true });
+}
+
+function normalizeFeastToName(feast: string) {
+  // Keep only the part before "—" if present; also trim.
+  // Example: "Baptism of the Lord—Feast" -> "Baptism of the Lord"
+  const cut = feast.split("—")[0]?.trim();
+  return cut && cut.length > 0 ? cut : feast.trim();
+}
+
+function isJunkSaintName(name: string) {
+  const n = (name ?? "").trim().toLowerCase();
+  if (!n) return true;
+  if (n === "all saints for today") return true;
+  if (n === "all saints") return true;
+  return false;
+}
+
+function firstRealSaint(saints: string[]) {
+  for (const s of saints) {
+    const t = (s ?? "").trim();
+    if (!t) continue;
+    if (isJunkSaintName(t)) continue;
+    return t;
+  }
+  return null;
+}
+
+function main() {
+  const dataDir = path.join(process.cwd(), "data");
+  const byMmddPath = path.join(dataDir, "saints_by_mmdd.json");
+  if (!fs.existsSync(byMmddPath)) {
+    throw new Error(
+      `Missing ${byMmddPath}. Run build-saints-calendar.ts first.`,
+    );
+  }
+
+  const byMmdd = safeReadJson(byMmddPath) as SaintsByMmdd;
+
+  const saintsDir = path.join(dataDir, "saints");
+  ensureDir(saintsDir);
+
+  const index: SaintIndexEntry[] = [];
+
+  let totalDays = 0;
+  let skippedEmpty = 0;
+  let skippedJunk = 0;
+  let created = 0;
+
+  const keys = Object.keys(byMmdd).sort();
+  for (const mmdd of keys) {
+    totalDays++;
+
+    const day = byMmdd[mmdd];
+    const feast = day?.feast ?? null;
+    const saints = Array.isArray(day?.saints) ? day.saints : [];
+    const featuredSaint =
+      typeof day?.featuredSaint === "string" ? day.featuredSaint.trim() : null;
+
+    // ✅ Choose a primary only if we have something real:
+    // Priority order:
+    //  1) featuredSaint (deterministic from calendar build)
+    //  2) first real saint from saints[]
+    //  3) feast title (normalized)
+    const primaryFromFeatured =
+      featuredSaint && !isJunkSaintName(featuredSaint) ? featuredSaint : null;
+    const primaryFromSaints = firstRealSaint(saints);
+    const primaryFromFeast = feast ? normalizeFeastToName(feast) : null;
+
+    const primaryName =
+      primaryFromFeatured ?? primaryFromSaints ?? primaryFromFeast;
+
+    // 🚫 If there is no saint and no feast, SKIP creating an index entry.
+    if (!primaryName) {
+      skippedEmpty++;
+      continue;
+    }
+    if (isJunkSaintName(primaryName)) {
+      skippedJunk++;
+      continue;
+    }
+
+    const id = `${mmdd}_${slugify(primaryName)}`;
+
+    const entry: SaintIndexEntry = { id, name: primaryName, mmdd };
+    // Only include feast if non-null (keeps JSON clean)
+    if (feast) entry.feast = feast;
+
+    index.push(entry);
+    created++;
+
+    // Create stub content if missing
+    const outPath = path.join(saintsDir, `${id}.json`);
+    if (!fs.existsSync(outPath)) {
+      const stub = {
+        id,
+        name: primaryName,
+        mmdd,
+        feast, // keep feast field in doc even if null (fine)
+        summary: "",
+        biography: "",
+        prayers: [],
+        sources: [],
+      };
+      fs.writeFileSync(outPath, JSON.stringify(stub, null, 2), "utf8");
+    }
+  }
+
+  const indexOut = path.join(dataDir, "saints_index.json");
+  safeAtomicWrite(indexOut, JSON.stringify(index, null, 2));
+
+  // Manifest (fast static require map)
+  const manifestOut = path.join(dataDir, "saintsManifest.ts");
+  const lines: string[] = [];
+  lines.push("// AUTO-GENERATED. DO NOT EDIT.");
+  lines.push("// Generated by: scripts/build-saints-index.ts");
+  lines.push("");
+  lines.push("export type SaintDoc = {");
+  lines.push("  id: string;");
+  lines.push("  name: string;");
+  lines.push('  mmdd: string; // "01-08"');
+  lines.push("  feast?: string | null;");
+  lines.push("  summary?: string;");
+  lines.push("  biography?: string;");
+  lines.push("  prayers?: string[];");
+  lines.push("  sources?: string[];");
+  lines.push("};");
+  lines.push("");
+  lines.push("const docs: Record<string, any> = {");
+
+  for (const e of index) {
+    lines.push(`  "${e.id}": require("./saints/${e.id}.json"),`);
+  }
+  lines.push("};");
+  lines.push("");
+  lines.push("export function getSaintDoc(id: string): SaintDoc | null {");
+  lines.push("  return docs[id] ?? null;");
+  lines.push("}");
+
+  safeAtomicWrite(manifestOut, lines.join("\n"));
+
+  console.log("Wrote:", indexOut, "entries:", index.length);
+  console.log("Wrote:", manifestOut);
+  console.log("Saint docs dir:", saintsDir);
+  console.log(
+    `Stats: totalDays=${totalDays} created=${created} skippedEmpty=${skippedEmpty} skippedJunk=${skippedJunk}`,
+  );
+}
+
+main();

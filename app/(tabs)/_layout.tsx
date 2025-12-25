@@ -1,5 +1,6 @@
-import { Tabs } from "expo-router";
+// app/(tabs)/_layout.tsx
 import React from "react";
+import { Tabs } from "expo-router";
 
 import { HapticTab } from "@/components/haptic-tab";
 import { IconSymbol } from "@/components/ui/icon-symbol";
@@ -28,9 +29,19 @@ export default function TabLayout() {
       />
 
       <Tabs.Screen
-        name="calendar"
+        name="novenas"
         options={{
-          title: "Calendar",
+          title: "Novenas",
+          tabBarIcon: ({ color }) => (
+            <IconSymbol size={28} name="book.fill" color={color} />
+          ),
+        }}
+      />
+
+      <Tabs.Screen
+        name="liturgical"
+        options={{
+          title: "Liturgical",
           tabBarIcon: ({ color }) => (
             <IconSymbol size={28} name="calendar" color={color} />
           ),
@@ -56,6 +67,8 @@ export default function TabLayout() {
           ),
         }}
       />
+
+      <Tabs.Screen name="explore" options={{ href: null }} />
     </Tabs>
   );
 }
