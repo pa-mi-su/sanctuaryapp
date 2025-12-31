@@ -3,8 +3,11 @@
   "name": "Saint Chrysanthus",
   "mmdd": "10-25",
   "feast": "The Twenty-Fifth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Saints Chrysanthus and Daria were saints of the Early Christian period. Their names appear in the Martyrologium Hieronymianum, an early martyrs list, and a church in their honour was built over their reputed grave in Rome.",
+  "biography": "Saints Chrysanthus and Daria were saints of the Early Christian period. Their names appear in the Martyrologium Hieronymianum, an early martyrs list, and a church in their honour was built over their reputed grave in Rome.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chrysanthus_and_Daria",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

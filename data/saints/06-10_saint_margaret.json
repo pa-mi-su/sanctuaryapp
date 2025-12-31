@@ -3,8 +3,12 @@
   "name": "Saint Margaret",
   "mmdd": "06-10",
   "feast": "The Tenth Day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "The Annunciation with Saint Margaret and Saint Ansanus is a painting by the Italian Gothic artists Simone Martini and Lippo Memmi, now housed in the Uffizi Gallery in Florence, Italy. It is a wooden triptych painted in tempera and gold, with a central panel having double size.",
+  "biography": "The Annunciation with Saint Margaret and Saint Ansanus is a painting by the Italian Gothic artists Simone Martini and Lippo Memmi, now housed in the Uffizi Gallery in Florence, Italy. It is a wooden triptych painted in tempera and gold, with a central panel having double size. Considered Martini's masterwork and one of the most outstanding works of Gothic painting, the work was originally painted for a side altar in Siena Cathedral.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/All_Saints%2C_Margaret_Street",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Annunciation_with_Saint_Margaret_and_Saint_Ansanus"
+  ]
 }

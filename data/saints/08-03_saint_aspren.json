@@ -3,8 +3,12 @@
   "name": "Saint Aspren",
   "mmdd": "08-03",
   "feast": "The Third Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "Aspren or Asprenas was a 1st-century Christian saint and venerated as the first Bishop of Naples.",
+  "biography": "Aspren or Asprenas was a 1st-century Christian saint and venerated as the first Bishop of Naples.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sant'Aspreno_ai_Crociferi",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Aspren"
+  ]
 }

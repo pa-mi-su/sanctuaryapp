@@ -3,8 +3,14 @@
   "name": "Saint John Damascene",
   "mmdd": "03-27",
   "feast": "The Twenty-Seventh Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "The conversion of Paul the Apostle was, according to the New Testament, an event in the life of Saul/Paul the Apostle that led him to cease persecuting early Christians and to become a follower of Jesus.",
+  "biography": "The conversion of Paul the Apostle was, according to the New Testament, an event in the life of Saul/Paul the Apostle that led him to cease persecuting early Christians and to become a follower of Jesus.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_John",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Ephrem_the_Syrian",
+    "https://en.wikipedia.org/wiki/John_of_Damascus",
+    "https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle"
+  ]
 }

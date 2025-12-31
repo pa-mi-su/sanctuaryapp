@@ -3,8 +3,12 @@
   "name": "Saint John",
   "mmdd": "12-27",
   "feast": "The Twenty-Seventh Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "John the Apostle, also known as Saint John the Beloved and, in Eastern Orthodox Christianity, Saint John the Theologian, was one of the Twelve Apostles of Jesus according to the New Testament. Generally listed as the youngest apostle, he was the son of Zebedee and Salome.",
+  "biography": "John the Apostle, also known as Saint John the Beloved and, in Eastern Orthodox Christianity, Saint John the Theologian, was one of the Twelve Apostles of Jesus according to the New Testament. Generally listed as the youngest apostle, he was the son of Zebedee and Salome. His brother James was another of the Twelve Apostles. The Church Fathers identify him as John the Evangelist, John of Patmos, John the Elder, and the Beloved Disciple, and claim that he outlived the remaining apostles and was the only one to die of natural causes, although modern scholars are divided on the veracity of these claims.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Apostle",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_John%2C_U.S._Virgin_Islands"
+  ]
 }

@@ -3,8 +3,12 @@
   "name": "Saint Priscus",
   "mmdd": "03-28",
   "feast": "The Twenty-Eighth Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Priscus of Nocera was the first bishop of Nocera, patron saint of the city of Nocera Inferiore and of the diocese of Nocera Inferiore-Sarno.",
+  "biography": "Priscus of Nocera was the first bishop of Nocera, patron saint of the city of Nocera Inferiore and of the diocese of Nocera Inferiore-Sarno.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Priscus_(saint)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Priscus_of_Nocera"
+  ]
 }

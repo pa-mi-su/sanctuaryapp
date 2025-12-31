@@ -3,8 +3,13 @@
   "name": "Saint Augustine",
   "mmdd": "08-28",
   "feast": "The Twenty-Eighth Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "Love and Saint Augustine was the title of Hannah Arendt's 1929 doctoral thesis. An English translation including revisions by Arendt was not published until 1996.",
+  "biography": "Love and Saint Augustine was the title of Hannah Arendt's 1929 doctoral thesis. An English translation including revisions by Arendt was not published until 1996.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Order_of_Saint_Augustine",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/St._Augustine%2C_Florida",
+    "https://en.wikipedia.org/wiki/Love_and_Saint_Augustine"
+  ]
 }

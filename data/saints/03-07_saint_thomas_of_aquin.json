@@ -3,8 +3,12 @@
   "name": "Saint Thomas of Aquin",
   "mmdd": "03-07",
   "feast": "The Seventh day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "\"The Quest for Saint Aquin\" is a science fiction short story by American writer Anthony Boucher (1911–1968), originally published in 1951 in New Tales of Space and Time.",
+  "biography": "\"The Quest for Saint Aquin\" is a science fiction short story by American writer Anthony Boucher (1911–1968), originally published in 1951 in New Tales of Space and Time.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/University_of_St._Thomas_(Minnesota)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/The_Quest_for_Saint_Aquin"
+  ]
 }

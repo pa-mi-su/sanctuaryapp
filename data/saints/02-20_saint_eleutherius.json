@@ -3,8 +3,16 @@
   "name": "Saint Eleutherius",
   "mmdd": "02-20",
   "feast": "The Twentieth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Pope Eleutherius, also known as Eleutherus, was the bishop of Rome from c. 174 until his death in 189. His pontificate is alternatively dated to 171–185 or 177–193.",
+  "biography": "Pope Eleutherius, also known as Eleutherus, was the bishop of Rome from c. 174 until his death in 189. His pontificate is alternatively dated to 171–185 or 177–193. He is venerated as a saint in the Catholic Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eleutherius_of_Tournai",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Eleutherius",
+    "https://en.wikipedia.org/wiki/Eleutherius_of_Nicomedia",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "https://en.wikipedia.org/wiki/Pope_Eleutherius",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

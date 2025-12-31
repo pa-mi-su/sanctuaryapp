@@ -3,8 +3,14 @@
   "name": "Saint Phocas",
   "mmdd": "03-05",
   "feast": "The Fifth day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Phocas, sometimes called Phocas the Gardener, is venerated as a martyr and saint by the Catholic and Eastern Orthodox Churches. His life and legend may have been a fusion of three men with the same name: a Phocas of Antioch, a Phocas the Gardener and Phocas, Bishop of Sinope.",
+  "biography": "Phocas, sometimes called Phocas the Gardener, is venerated as a martyr and saint by the Catholic and Eastern Orthodox Churches. His life and legend may have been a fusion of three men with the same name: a Phocas of Antioch, a Phocas the Gardener and Phocas, Bishop of Sinope.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Phocas",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Phocas%2C_Bishop_of_Sinope",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

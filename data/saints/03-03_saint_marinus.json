@@ -3,8 +3,12 @@
   "name": "Saint Marinus",
   "mmdd": "03-03",
   "feast": "The Third day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Marinus is a Christian saint, who according to hagiographical accounts recorded centuries after his lifetime was the founder of a chapel and monastery in 301 from whose initial community the state of San Marino later grew.",
+  "biography": "Marinus is a Christian saint, who according to hagiographical accounts recorded centuries after his lifetime was the founder of a chapel and monastery in 301 from whose initial community the state of San Marino later grew.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Marinus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

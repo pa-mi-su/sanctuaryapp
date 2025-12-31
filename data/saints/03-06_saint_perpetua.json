@@ -3,8 +3,16 @@
   "name": "Saint Perpetua",
   "mmdd": "03-06",
   "feast": "The Sixth day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Perpetua and Felicity were Christian martyrs of the third century. Vibia Perpetua was a recently married, well-educated noblewoman, said to have been 22 years old at the time of her death, and mother of an infant son she was nursing.",
+  "biography": "Perpetua and Felicity were Christian martyrs of the third century. Vibia Perpetua was a recently married, well-educated noblewoman, said to have been 22 years old at the time of her death, and mother of an infant son she was nursing. Felicity, a slave woman imprisoned with her and pregnant at the time, was martyred with her. They were put to death along with others at Carthage in the Roman province of Africa.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Passion_of_Saints_Perpetua_and_Felicity",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Perpetua_of_Hippo",
+    "https://en.wikipedia.org/wiki/Perpetua_and_Felicity",
+    "https://en.wikipedia.org/wiki/Saint_Humility",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

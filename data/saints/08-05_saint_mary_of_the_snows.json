@@ -3,8 +3,12 @@
   "name": "Saint Mary of the Snows",
   "mmdd": "08-05",
   "feast": "The Fifth Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "The National Shrine of Our Lady of the Snows is a Catholic shrine to the Blessed Virgin Mary in Belleville, Illinois, nine miles southeast of St. Louis, Missouri.",
+  "biography": "The National Shrine of Our Lady of the Snows is a Catholic shrine to the Blessed Virgin Mary in Belleville, Illinois, nine miles southeast of St. Louis, Missouri. The Shrine's director is Father Mike Powell, OMI. The shrine is in the Roman Catholic Diocese of Belleville, but it is operated by the United States Province of the Missionary Oblates of Mary Immaculate. The Shrine name refers to the Basilica of Saint Mary Major in Rome, where legend says snow fell in the summertime.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dedication_of_the_Basilica_of_Saint_Mary_Major",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/National_Shrine_of_Our_Lady_of_the_Snows"
+  ]
 }

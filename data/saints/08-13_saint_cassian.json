@@ -3,8 +3,12 @@
   "name": "Saint Cassian",
   "mmdd": "08-13",
   "feast": "The Thirteenth Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Cassian of Autun was a 4th-century bishop of Autun. He may have been an Egyptian by birth. He traveled to Autun and was a follower of Saint Reticius, bishop of Autun.",
+  "biography": "Saint Cassian of Autun was a 4th-century bishop of Autun. He may have been an Egyptian by birth. He traveled to Autun and was a follower of Saint Reticius, bishop of Autun.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cassian_of_Tangier",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Cassian_of_Autun"
+  ]
 }

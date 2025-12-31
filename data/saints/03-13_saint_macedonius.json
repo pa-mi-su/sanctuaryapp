@@ -3,8 +3,12 @@
   "name": "Saint Macedonius",
   "mmdd": "03-13",
   "feast": "The Thirteenth Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Macedonius the Hermit, sometimes known as Macedonius Kritophagus, lived at the turn of the fourth to fifth century in Byzantine Syria. He is venerated as a saint in the Eastern Orthodox Church, with a feast day of January 24.",
+  "biography": "Macedonius the Hermit, sometimes known as Macedonius Kritophagus, lived at the turn of the fourth to fifth century in Byzantine Syria. He is venerated as a saint in the Eastern Orthodox Church, with a feast day of January 24.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macedonius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Macedonius_of_Syria"
+  ]
 }

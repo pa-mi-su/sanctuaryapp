@@ -3,8 +3,11 @@
   "name": "Saint Cyriacus",
   "mmdd": "06-18",
   "feast": "The Eighteenth Day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "Cyriacus, sometimes Anglicized as Cyriac, according to Christian tradition, is a Christian martyr who was killed in the Diocletianic Persecution. He is one of twenty-seven saints, most of them martyrs, who bear this name, of whom only seven are honoured by a specific mention of their names in Roman Martyrology.",
+  "biography": "Cyriacus, sometimes Anglicized as Cyriac, according to Christian tradition, is a Christian martyr who was killed in the Diocletianic Persecution. He is one of twenty-seven saints, most of them martyrs, who bear this name, of whom only seven are honoured by a specific mention of their names in Roman Martyrology.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyriacus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

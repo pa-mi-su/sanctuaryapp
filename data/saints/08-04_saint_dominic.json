@@ -3,8 +3,12 @@
   "name": "Saint Dominic",
   "mmdd": "08-04",
   "feast": "The Fourth Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Dominic,, also known as Dominic de Guzmán, was a Castilian Catholic priest and the founder of the Dominican Order. He is the patron saint of astronomers and natural scientists, and he and his order are traditionally credited with spreading and popularizing the rosary.",
+  "biography": "Saint Dominic,, also known as Dominic de Guzmán, was a Castilian Catholic priest and the founder of the Dominican Order. He is the patron saint of astronomers and natural scientists, and he and his order are traditionally credited with spreading and popularizing the rosary.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Dominic",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Dominic"
+  ]
 }

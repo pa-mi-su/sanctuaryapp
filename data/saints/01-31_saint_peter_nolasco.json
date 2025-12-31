@@ -3,8 +3,13 @@
   "name": "Saint Peter Nolasco",
   "mmdd": "01-31",
   "feast": "The Thirty-First Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Peter Nolasco, O. de M. was a Catholic nobleman known for founding the Royal and Military Order of Our Lady of Mercy of the Redemption of the Captives with approval by Pope Gregory IX on 17 January 1235.",
+  "biography": "Peter Nolasco, O. de M. was a Catholic nobleman known for founding the Royal and Military Order of Our Lady of Mercy of the Redemption of the Captives with approval by Pope Gregory IX on 17 January 1235.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Peter_Nolasco's_Vision_of_Saint_Peter_the_Apostle",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Peter_Nolasco",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ]
 }

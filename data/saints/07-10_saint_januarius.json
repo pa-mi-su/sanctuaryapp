@@ -3,8 +3,12 @@
   "name": "Saint Januarius",
   "mmdd": "07-10",
   "feast": "The Tenth Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "Januarius, also known as Januarius I of Benevento, was Bishop of Benevento and is a martyr and saint of the Catholic Church. While no contemporary sources on his life are preserved, later sources and legends say he died during the Great Persecution, which ended with Diocletian's retirement in 305.",
+  "biography": "Januarius, also known as Januarius I of Benevento, was Bishop of Benevento and is a martyr and saint of the Catholic Church. While no contemporary sources on his life are preserved, later sources and legends say he died during the Great Persecution, which ended with Diocletian's retirement in 305.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Januarius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Januarius_in_the_Amphitheatre_at_Pozzuoli"
+  ]
 }

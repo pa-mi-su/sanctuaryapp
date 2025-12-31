@@ -3,8 +3,14 @@
   "name": "Saint Raymond of Pennafort",
   "mmdd": "01-23",
   "feast": "The Twenty-Third Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Raymond of Penyafort was a Catalan friar with the Dominicans who was a canon lawyer. He compiled the Decretals of Gregory IX, a collection of canonical laws that remained a major part of Church law until the 1917 Code of Canon Law abrogated it.",
+  "biography": "Raymond of Penyafort was a Catalan friar with the Dominicans who was a canon lawyer. He compiled the Decretals of Gregory IX, a collection of canonical laws that remained a major part of Church law until the 1917 Code of Canon Law abrogated it. He was canonized by Pope Clement VIII in 1601 and is the patron saint of canon lawyers.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kreisker_chapel",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Raymond_of_Pe%C3%B1afort",
+    "https://en.wikipedia.org/wiki/20th-century_municipal_history_of_Quebec",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ]
 }

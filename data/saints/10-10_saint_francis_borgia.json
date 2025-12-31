@@ -3,8 +3,11 @@
   "name": "Saint Francis Borgia",
   "mmdd": "10-10",
   "feast": "The Tenth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Francis Borgia, was a Spanish Jesuit priest. The great-grandson of both Pope Alexander VI and King Ferdinand II of Aragon, he was Duke of Gandía and a grandee of Spain.",
+  "biography": "Francis Borgia, was a Spanish Jesuit priest. The great-grandson of both Pope Alexander VI and King Ferdinand II of Aragon, he was Duke of Gandía and a grandee of Spain. After the death of his wife, Borgia renounced his titles and became a priest in the Society of Jesus, later serving as its third superior general. He was canonized on 20 June 1670 by Pope Clement X.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Francis_Borgia",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

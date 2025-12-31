@@ -3,8 +3,13 @@
   "name": "Saint Justin",
   "mmdd": "04-14",
   "feast": "The Fourteenth Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Justin, known posthumously as Justin Martyr, also known as Justin the Philosopher, was an early Christian apologist and philosopher.",
+  "biography": "Justin, known posthumously as Justin Martyr, also known as Justin the Philosopher, was an early Christian apologist and philosopher.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Justin_Martyr",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Justin_the_Confessor",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

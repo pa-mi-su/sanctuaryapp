@@ -3,8 +3,11 @@
   "name": "Saint Vitalis",
   "mmdd": "02-14",
   "feast": "The Fourteenth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Vitalis and Agricola are venerated as martyrs and saints, who are considered to have died at Bologna about 304, during the persecution ordered by Roman Emperor Diocletian.",
+  "biography": "Vitalis and Agricola are venerated as martyrs and saints, who are considered to have died at Bologna about 304, during the persecution ordered by Roman Emperor Diocletian.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saints_Vitalis_and_Agricola",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

@@ -3,8 +3,11 @@
   "name": "Saint Prochorus",
   "mmdd": "04-09",
   "feast": "The Ninth Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Prochorus was one of the Seven Deacons chosen to care for the poor of the Christian community in Jerusalem. According to holy tradition, he was also one of the Seventy Disciples sent out by Jesus in Luke 10.",
+  "biography": "Prochorus was one of the Seven Deacons chosen to care for the poor of the Christian community in Jerusalem. According to holy tradition, he was also one of the Seventy Disciples sent out by Jesus in Luke 10.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prochorus_(deacon)",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

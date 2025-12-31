@@ -3,8 +3,12 @@
   "name": "Saint Catherine of Siena",
   "mmdd": "04-30",
   "feast": "The Thirtieth Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Caterina di Jacopo di Benincasa, known as Catherine of Siena, was an Italian mystic and pious laywoman who engaged in papal and Italian politics through extensive letter-writing and advocacy. Canonized in 1461, she is revered as a saint and as a Doctor of the Church due to her extensive theological authorship.",
+  "biography": "Caterina di Jacopo di Benincasa, known as Catherine of Siena, was an Italian mystic and pious laywoman who engaged in papal and Italian politics through extensive letter-writing and advocacy. Canonized in 1461, she is revered as a saint and as a Doctor of the Church due to her extensive theological authorship. She is also considered to have influenced Italian literature.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Catherine_of_Siena",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Church_of_Saint_Catherine_of_Siena"
+  ]
 }

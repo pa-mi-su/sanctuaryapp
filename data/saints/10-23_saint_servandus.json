@@ -3,8 +3,12 @@
   "name": "Saint Servandus",
   "mmdd": "10-23",
   "feast": "The Twenty-Third Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Servandus and Germanus were Spanish martyrs who are venerated as Christian saints.",
+  "biography": "Servandus and Germanus were Spanish martyrs who are venerated as Christian saints.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marcellus_of_Tangier",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Servandus_and_Germanus"
+  ]
 }

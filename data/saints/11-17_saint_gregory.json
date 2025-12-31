@@ -3,8 +3,13 @@
   "name": "Saint Gregory",
   "mmdd": "11-17",
   "feast": "The Seventeenth Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "The Mass of Saint Gregory is a subject in Catholic art which first appears in the late Middle Ages and was still found in the Counter-Reformation. Pope Gregory I is shown saying Mass just as a vision of Christ as the Man of Sorrows has appeared on the altar in front of him, in response to the Pope's prayers for a sign to convince a doubter of the doctrine of transubstantiation.",
+  "biography": "The Mass of Saint Gregory is a subject in Catholic art which first appears in the late Middle Ages and was still found in the Counter-Reformation. Pope Gregory I is shown saying Mass just as a vision of Christ as the Man of Sorrows has appeared on the altar in front of him, in response to the Pope's prayers for a sign to convince a doubter of the doctrine of transubstantiation.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_Thaumaturgus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Pope_Gregory_I",
+    "https://en.wikipedia.org/wiki/Mass_of_Saint_Gregory"
+  ]
 }

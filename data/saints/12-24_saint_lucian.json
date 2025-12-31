@@ -3,8 +3,13 @@
   "name": "Saint Lucian",
   "mmdd": "12-24",
   "feast": "The Twenty-Fourth Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Lucian cuisine is a combination of French, East Indian and British dishes. Before colonization, the Caribs and the Arawaks occupied the island, surviving on its various natural fruits and vegetables like mangoes, oranges, tangerines, avocados, and breadfruit.",
+  "biography": "Saint Lucian cuisine is a combination of French, East Indian and British dishes. Before colonization, the Caribs and the Arawaks occupied the island, surviving on its various natural fruits and vegetables like mangoes, oranges, tangerines, avocados, and breadfruit.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/2025_Saint_Lucian_general_election",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Lucian_cuisine",
+    "https://en.wikipedia.org/wiki/2016_Saint_Lucian_general_election"
+  ]
 }

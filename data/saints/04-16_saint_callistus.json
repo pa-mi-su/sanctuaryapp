@@ -3,8 +3,12 @@
   "name": "Saint Callistus",
   "mmdd": "04-16",
   "feast": "The Sixteenth Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Callistus Caravario was a Salesian priest serving in China, who along with Luigi Versiglia was martyred in China on 25 February 1930.",
+  "biography": "Callistus Caravario was a Salesian priest serving in China, who along with Luigi Versiglia was martyred in China on 25 February 1930.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Callistus_Caravario",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Callistus_I_of_Constantinople"
+  ]
 }

@@ -3,8 +3,11 @@
   "name": "Saint Eliphius",
   "mmdd": "10-16",
   "feast": "The Sixteenth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Eliphius or Eloff is venerated as a martyr and saint. Tradition holds that he was the child of a king of Scotia, and preached in Toul, where he converted 400 people to Christianity.",
+  "biography": "Saint Eliphius or Eloff is venerated as a martyr and saint. Tradition holds that he was the child of a king of Scotia, and preached in Toul, where he converted 400 people to Christianity. He was accompanied by his siblings: St. Eucharius, and three sisters, Menna, Libaria, and Susanna. Tradition also makes him a bishop of Toul.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eliphius",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

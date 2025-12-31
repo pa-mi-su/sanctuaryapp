@@ -3,8 +3,18 @@
   "name": "Saint Felix",
   "mmdd": "01-14",
   "feast": "The Fourteenth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Felix of Burgundy, also known as Felix of Dunwich, was the first bishop of the kingdom of the East Angles. He is widely credited as the man who introduced Christianity to the kingdom.",
+  "biography": "Felix of Burgundy, also known as Felix of Dunwich, was the first bishop of the kingdom of the East Angles. He is widely credited as the man who introduced Christianity to the kingdom. Almost all that is known about him comes from the Ecclesiastical History of the English People, completed by the English historian Bede in about 731, and the Anglo-Saxon Chronicle. Bede wrote that Felix freed \"the whole of this kingdom from long-standing evil and unhappiness\".",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Felix_I",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Pope_Felix_IV",
+    "https://en.wikipedia.org/wiki/Antipope_Felix_II",
+    "https://en.wikipedia.org/wiki/Saint_Felix_School",
+    "https://en.wikipedia.org/wiki/Felix_of_Nola",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "https://en.wikipedia.org/wiki/Felix_of_Burgundy",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

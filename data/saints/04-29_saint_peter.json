@@ -3,8 +3,13 @@
   "name": "Saint Peter",
   "mmdd": "04-29",
   "feast": "The Twenty-Ninth Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Peter, also known as Peter the Apostle, Simon Peter, Simeon, Simon, or Cephas, was one of the Twelve Apostles of Jesus and one of the first leaders of the early Christian Church. He appears repeatedly and prominently in all four New Testament gospels, as well as the Acts of the Apostles.",
+  "biography": "Saint Peter, also known as Peter the Apostle, Simon Peter, Simeon, Simon, or Cephas, was one of the Twelve Apostles of Jesus and one of the first leaders of the early Christian Church. He appears repeatedly and prominently in all four New Testament gospels, as well as the Acts of the Apostles. Catholic and Orthodox tradition treats Peter as the first bishop of Rome – or pope – and also as the first bishop of Antioch. According to Christian tradition, Peter was crucified in Rome under Emperor Nero.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Peter",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Cross_of_Saint_Peter",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

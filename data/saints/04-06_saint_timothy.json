@@ -3,8 +3,13 @@
   "name": "Saint Timothy",
   "mmdd": "04-06",
   "feast": "The Sixth Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Timothy was an early Christian evangelist and the first Christian bishop of Ephesus, whom the Acts of Timothy relates died around the year AD 97.",
+  "biography": "Timothy was an early Christian evangelist and the first Christian bishop of Ephesus, whom the Acts of Timothy relates died around the year AD 97.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Timothy",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Timothy",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

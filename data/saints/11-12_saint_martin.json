@@ -3,8 +3,13 @@
   "name": "Saint Martin",
   "mmdd": "11-12",
   "feast": "The Twelfth Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "The Collectivity of Saint Martin, commonly known as simply Saint Martin, is an overseas collectivity of France in the West Indies in the Caribbean, on the northern half of the island of Saint Martin, as well as some smaller adjacent islands. Saint Martin is separated from the island of Anguilla by the Anguilla Channel.",
+  "biography": "The Collectivity of Saint Martin, commonly known as simply Saint Martin, is an overseas collectivity of France in the West Indies in the Caribbean, on the northern half of the island of Saint Martin, as well as some smaller adjacent islands. Saint Martin is separated from the island of Anguilla by the Anguilla Channel. Its capital is Marigot.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Martin's_Day",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Martin_St._Louis",
+    "https://en.wikipedia.org/wiki/Collectivity_of_Saint_Martin"
+  ]
 }

@@ -3,8 +3,14 @@
   "name": "Saint Joseph",
   "mmdd": "03-19",
   "feast": "The Nineteenth Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "According to the canonical Gospels, Joseph was a 1st-century Jewish man of Nazareth who was married to Mary, the mother of Jesus, and was the legal father of Jesus.",
+  "biography": "According to the canonical Gospels, Joseph was a 1st-century Jewish man of Nazareth who was married to Mary, the mother of Jesus, and was the legal father of Jesus.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Joseph's_University",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Joseph's_Day",
+    "https://en.wikipedia.org/wiki/Saint_Joseph",
+    "https://en.wikipedia.org/wiki/Saint_Joseph's_dreams"
+  ]
 }

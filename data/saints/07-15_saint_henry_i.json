@@ -3,8 +3,11 @@
   "name": "Saint Henry I",
   "mmdd": "07-15",
   "feast": "The Fifteenth Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "Henry II, also known as Saint Henry, Obl. S. B., was Holy Roman Emperor from 1014.",
+  "biography": "Henry II, also known as Saint Henry, Obl. S. B., was Holy Roman Emperor from 1014. He died without an heir in 1024, and was the last ruler of the Ottonian line. As Duke of Bavaria, appointed in 995, Henry became King of the Romans following the sudden death of his second cousin, Emperor Otto III in 1002, was made King of Italy in 1004, and crowned emperor by Pope Benedict VIII in 1014.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Henry_II%2C_Holy_Roman_Emperor",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

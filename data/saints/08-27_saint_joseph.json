@@ -3,8 +3,13 @@
   "name": "Saint Joseph",
   "mmdd": "08-27",
   "feast": "The Twenty-Seventh Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "According to the canonical Gospels, Joseph was a 1st-century Jewish man of Nazareth who was married to Mary, the mother of Jesus, and was the legal father of Jesus.",
+  "biography": "According to the canonical Gospels, Joseph was a 1st-century Jewish man of Nazareth who was married to Mary, the mother of Jesus, and was the legal father of Jesus.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Joseph's_Day",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Joseph",
+    "https://en.wikipedia.org/wiki/Saint_Joseph's_dreams"
+  ]
 }

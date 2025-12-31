@@ -4,24 +4,34 @@
 // NOTE: We keep all dates in UTC at noon to avoid DST edge cases.
 //
 
-function utcNoon(y: number, m0: number, d: number) {
+/**
+ * Create a date at UTC noon (stable across DST boundaries).
+ * Exported so other modules (movable rules, etc.) can share the same primitive.
+ */
+export function utcNoonDate(y: number, m0: number, d: number) {
   return new Date(Date.UTC(y, m0, d, 12, 0, 0, 0));
 }
 
 export function toYmd(d: Date) {
+  // ISO string is UTC-based, so this is safe and deterministic.
   return d.toISOString().slice(0, 10);
 }
 
 /**
- * ✅ Missing helper (used by saintsRules.ts and other rule engines)
  * Adds N days in UTC (stable across DST changes).
+ * Assumes input date is already normalized (we use UTC noon everywhere).
  */
 export function addDays(d: Date, days: number) {
   return new Date(d.getTime() + days * 24 * 60 * 60 * 1000);
 }
 
 /**
- * ✅ Common helper: move date forward to next weekday (0=Sun..6=Sat).
+ * Alias with clearer name for the liturgical rules files.
+ */
+export const addDaysUTC = addDays;
+
+/**
+ * Move date forward to next weekday (0=Sun..6=Sat).
  * If `includeSameDay` is true and d already matches, returns d unchanged.
  */
 export function nextWeekday(d: Date, weekday: number, includeSameDay = false) {
@@ -32,7 +42,7 @@ export function nextWeekday(d: Date, weekday: number, includeSameDay = false) {
 }
 
 /**
- * ✅ Common helper: move date backward to previous weekday (0=Sun..6=Sat).
+ * Move date backward to previous weekday (0=Sun..6=Sat).
  * If `includeSameDay` is true and d already matches, returns d unchanged.
  */
 export function prevWeekday(d: Date, weekday: number, includeSameDay = false) {
@@ -62,7 +72,7 @@ export function computeEasterSunday(year: number): Date {
   const month = Math.floor((h + l - 7 * m + 114) / 31); // 3=March, 4=April
   const day = ((h + l - 7 * m + 114) % 31) + 1;
 
-  return utcNoon(year, month - 1, day);
+  return utcNoonDate(year, month - 1, day);
 }
 
 /**
@@ -72,7 +82,6 @@ export function computeEasterSunday(year: number): Date {
 export function buildMoveableMapForYear(year: number) {
   const easter = computeEasterSunday(year);
 
-  // These are common anchors you’ll likely extend.
   const ashWednesday = addDays(easter, -46);
   const palmSunday = addDays(easter, -7);
   const holyThursday = addDays(easter, -3);
@@ -81,7 +90,7 @@ export function buildMoveableMapForYear(year: number) {
   const pentecost = addDays(easter, 49);
 
   // Christmas fixed (UTC noon)
-  const christmas = utcNoon(year, 11, 25);
+  const christmas = utcNoonDate(year, 11, 25);
 
   return {
     year,
@@ -102,8 +111,6 @@ export function buildMoveableMapForYear(year: number) {
  * this is just a safe placeholder that won't crash.
  */
 export function getLiturgicalDay(date: Date) {
-  // You likely already have something more detailed.
-  // Keep API stable.
   return {
     date: toYmd(date),
   };

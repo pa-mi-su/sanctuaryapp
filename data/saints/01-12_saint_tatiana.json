@@ -3,8 +3,14 @@
   "name": "Saint Tatiana",
   "mmdd": "01-12",
   "feast": "The Twelfth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Tatiana was a Christian martyr in 3rd-century Rome during the reign of Emperor Severus Alexander.",
+  "biography": "Saint Tatiana was a Christian martyr in 3rd-century Rome during the reign of Emperor Severus Alexander.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tatiana",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Tatiana_Day",
+    "https://en.wikipedia.org/wiki/Tatiana_of_Rome",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ]
 }

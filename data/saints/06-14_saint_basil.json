@@ -3,8 +3,14 @@
   "name": "Saint Basil",
   "mmdd": "06-14",
   "feast": "The Fourteenth Day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "The Liturgy of Saint Basil or the Divine Liturgy of Saint Basil or Divine Liturgy of Saint Basil the Great, is a term for several Eastern Christian celebrations of the Divine Liturgy (Eucharist), or at least several anaphoras, which are named after Basil of Caesarea. Two of these liturgies are in common use today: the one used in the Byzantine Rite prescribed to be celebrated ten times a year, and the one ordinarily…",
+  "biography": "The Liturgy of Saint Basil or the Divine Liturgy of Saint Basil or Divine Liturgy of Saint Basil the Great, is a term for several Eastern Christian celebrations of the Divine Liturgy (Eucharist), or at least several anaphoras, which are named after Basil of Caesarea. Two of these liturgies are in common use today: the one used in the Byzantine Rite prescribed to be celebrated ten times a year, and the one ordinarily used by the Coptic Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basil",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "https://en.wikipedia.org/wiki/Saint_Basil_Academy_(Garrison%2C_New_York)",
+    "https://en.wikipedia.org/wiki/Liturgy_of_Saint_Basil"
+  ]
 }

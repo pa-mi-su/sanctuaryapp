@@ -3,8 +3,12 @@
   "name": "Saint Montanus",
   "mmdd": "06-17",
   "feast": "The Seventeenth Day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "The Passion of Saints Perpetua and Felicity is a diary by Vibia Perpetua describing her imprisonment as a Christian in 203, completed after her death by a redactor. It is one of the oldest and most notable early Christian texts.",
+  "biography": "The Passion of Saints Perpetua and Felicity is a diary by Vibia Perpetua describing her imprisonment as a Christian in 203, completed after her death by a redactor. It is one of the oldest and most notable early Christian texts.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyrs_of_Carthage_under_Valerian",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Passion_of_Saints_Perpetua_and_Felicity"
+  ]
 }

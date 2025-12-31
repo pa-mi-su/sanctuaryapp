@@ -3,8 +3,13 @@
   "name": "Saint Wenceslaus",
   "mmdd": "09-27",
   "feast": "The Twenty-Seventh Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "The statues of Saints Norbert, Wenceslaus and Sigismund are installed on the north side of the Charles Bridge in Prague, Czech Republic.",
+  "biography": "The statues of Saints Norbert, Wenceslaus and Sigismund are installed on the north side of the Charles Bridge in Prague, Czech Republic.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Wenceslaus_Church%2C_Chicago",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Wenceslaus",
+    "https://en.wikipedia.org/wiki/Statues_of_Saints_Norbert%2C_Wenceslaus_and_Sigismund"
+  ]
 }

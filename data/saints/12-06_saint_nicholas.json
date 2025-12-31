@@ -3,8 +3,12 @@
   "name": "Saint Nicholas",
   "mmdd": "12-06",
   "feast": "The Sixth Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Nicholas of Myra, also known as Nicholas of Bari, was an early Christian bishop of Greek descent from the maritime city of Patara in Anatolia during the time of the Roman Empire. Because of the many miracles attributed to his intercession, he is also known as Nicholas the Wonderworker.",
+  "biography": "Saint Nicholas of Myra, also known as Nicholas of Bari, was an early Christian bishop of Greek descent from the maritime city of Patara in Anatolia during the time of the Roman Empire. Because of the many miracles attributed to his intercession, he is also known as Nicholas the Wonderworker. Saint Nicholas is the patron saint of sailors, merchants, archers, repentant thieves, children, brewers, pawnbrokers, toymakers, unmarried people, and students in various cities and countries around Europe. His reputation evolved among the pious, as was common for early Christian saints, and his legendary habit of secret gift-giving gave rise to the folklore of Santa Claus through Sinterklaas.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Nicholas",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Nicholas"
+  ]
 }

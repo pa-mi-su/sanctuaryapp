@@ -3,8 +3,11 @@
   "name": "Blessed Virgin Mary of Mount Carmel",
   "mmdd": "07-16",
   "feast": "The Sixteenth Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "The Hermits of the Most Blessed Virgin Mary of Mount Carmel is a branch of the Carmelite Order of the Ancient Observance, who originated as hermit monks and have been mendicant friars since the 13th century.",
+  "biography": "The Hermits of the Most Blessed Virgin Mary of Mount Carmel is a branch of the Carmelite Order of the Ancient Observance, who originated as hermit monks and have been mendicant friars since the 13th century.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hermits_of_the_Most_Blessed_Virgin_Mary_of_Mount_Carmel",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

@@ -3,8 +3,16 @@
   "name": "Saint Victorinus",
   "mmdd": "02-25",
   "feast": "The Twenty-Fifth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Victorinus of Pettau was an Early Christian ecclesiastical writer who flourished about 270, and who was martyred during the persecutions of Emperor Diocletian. A Bishop of Poetovio in Pannonia, Victorinus is also known as Victorinus Petavionensis or Poetovionensis.",
+  "biography": "Saint Victorinus of Pettau was an Early Christian ecclesiastical writer who flourished about 270, and who was martyred during the persecutions of Emperor Diocletian. A Bishop of Poetovio in Pannonia, Victorinus is also known as Victorinus Petavionensis or Poetovionensis. Victorinus composed commentaries on various texts within the Christians' Holy Scriptures.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Victorinus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Simplicius%2C_Constantius_and_Victorinus",
+    "https://en.wikipedia.org/wiki/Victorinus_of_Pettau",
+    "https://en.wikipedia.org/wiki/Severinus_of_Sanseverino_and_Victorinus_of_Camerino",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

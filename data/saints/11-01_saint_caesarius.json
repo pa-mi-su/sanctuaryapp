@@ -3,8 +3,12 @@
   "name": "Saint Caesarius",
   "mmdd": "11-01",
   "feast": "The First Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Caesarius of Terracina was a Christian martyr. The church of San Cesareo in Palatio in Rome bears his name. He is venerated as a saint in the Eastern Orthodox Church and Roman Catholic Church, with a feast day on 1 November.",
+  "biography": "Saint Caesarius of Terracina was a Christian martyr. The church of San Cesareo in Palatio in Rome bears his name. He is venerated as a saint in the Eastern Orthodox Church and Roman Catholic Church, with a feast day on 1 November.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caesarius_of_Terracina",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Caesarius"
+  ]
 }

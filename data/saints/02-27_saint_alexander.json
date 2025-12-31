@@ -3,8 +3,16 @@
   "name": "Saint Alexander",
   "mmdd": "02-27",
   "feast": "The Twenty-Seventh Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Alexander was a martyr and companion of Saint Pothinus. Alexander was a physician in Vienne, Gaul, when he converted to Christianity.",
+  "biography": "Saint Alexander was a martyr and companion of Saint Pothinus. Alexander was a physician in Vienne, Gaul, when he converted to Christianity. He was arrested during the persecutions conducted under Emperor Marcus Aurelius. Along with Pothinus and forty-six other Christians, Alexander was tortured and executed. As part of this group, Alexander is one of the Martyrs of Lyons and Vienne.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Alexander",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Alexander_of_Jerusalem",
+    "https://en.wikipedia.org/wiki/Alexander",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "https://en.wikipedia.org/wiki/Alexander_(martyr)",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

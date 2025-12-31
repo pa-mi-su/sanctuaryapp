@@ -3,8 +3,13 @@
   "name": "Saint Lawrence",
   "mmdd": "08-09",
   "feast": "The Ninth Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Lawrence or Laurence was one of the seven deacons of the city of Rome under Pope Sixtus II who were martyred in the persecution of the Christians ordered by the Roman emperor Valerian in 258.",
+  "biography": "Saint Lawrence or Laurence was one of the seven deacons of the city of Rome under Pope Sixtus II who were martyred in the persecution of the Christians ordered by the Roman emperor Valerian in 258.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Feast_of_Saint_Lawrence",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Lawrence",
+    "https://en.wikipedia.org/wiki/Lawrence_Saint"
+  ]
 }

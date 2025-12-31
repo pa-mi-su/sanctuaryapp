@@ -3,8 +3,11 @@
   "name": "Saint Charles Borromeo",
   "mmdd": "11-04",
   "feast": "The Fourth Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "Charles Borromeo was an Italian Catholic prelate who served as Archbishop of Milan from 1564 to 1584. He was made a cardinal in 1560.",
+  "biography": "Charles Borromeo was an Italian Catholic prelate who served as Archbishop of Milan from 1564 to 1584. He was made a cardinal in 1560.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Charles_Borromeo",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

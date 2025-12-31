@@ -3,8 +3,11 @@
   "name": "Saint Tharacus",
   "mmdd": "10-11",
   "feast": "The Eleventh Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "A list of people, who died during the 4th century, who have received recognition as Blessed or Saint from the Catholic Church:",
+  "biography": "A list of people, who died during the 4th century, who have received recognition as Blessed or Saint from the Catholic Church:",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chronological_list_of_saints_in_the_4th_century",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

@@ -3,8 +3,13 @@
   "name": "Saint Vitus",
   "mmdd": "06-15",
   "feast": "The Fifteenth Day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "Vitus, whose name is sometimes rendered Guy or Guido, was a Christian martyr from Sicily. His surviving hagiography is pure legend.",
+  "biography": "Vitus, whose name is sometimes rendered Guy or Guido, was a Christian martyr from Sicily. His surviving hagiography is pure legend. The dates of his actual life are unknown. He has long been tied to the Sicilian martyrs Modestus and Crescentia but in the earliest sources it is clear that these were originally different traditions that later became combined. The figures of Modestus and Crescentia are probably fictitious.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Vitus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Vitus_(band)",
+    "https://en.wikipedia.org/wiki/Saint_Vitus_(venue)"
+  ]
 }

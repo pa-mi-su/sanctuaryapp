@@ -3,8 +3,11 @@
   "name": "Saint Eupsychius",
   "mmdd": "09-07",
   "feast": "The Seventh Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Eupsychius of Caesaria in Cappadocia was a Christian martyr who was executed for having caused the destruction of a pagan temple.",
+  "biography": "Saint Eupsychius of Caesaria in Cappadocia was a Christian martyr who was executed for having caused the destruction of a pagan temple.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eupsychius_of_Caesaria",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

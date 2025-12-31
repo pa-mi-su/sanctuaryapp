@@ -3,8 +3,12 @@
   "name": "Saint Jerome AEmiliani",
   "mmdd": "02-08",
   "feast": "The Eighth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Gerolamo Emiliani, CRS was an Italian humanitarian, founder of the Somaschi Fathers, and is considered a saint by the Catholic Church.",
+  "biography": "Gerolamo Emiliani, CRS was an Italian humanitarian, founder of the Somaschi Fathers, and is considered a saint by the Catholic Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerolamo_Emiliani",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ]
 }

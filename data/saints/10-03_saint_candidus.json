@@ -3,8 +3,11 @@
   "name": "Saint Candidus",
   "mmdd": "10-03",
   "feast": "The Third Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Candidus was a commander of the Theban Legion. The Theban Legion was composed of Christians from Upper Egypt. He is venerated as a Christian saint and martyr.",
+  "biography": "Candidus was a commander of the Theban Legion. The Theban Legion was composed of Christians from Upper Egypt. He is venerated as a Christian saint and martyr.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Candidus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

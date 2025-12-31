@@ -3,8 +3,15 @@
   "name": "Saint Marciana",
   "mmdd": "01-09",
   "feast": "The Nineth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Marciana of Toledo, also known as Marciana of Mauretania and Marciana of Caesarea, is venerated as a martyr and saint.",
+  "biography": "Marciana of Toledo, also known as Marciana of Mauretania and Marciana of Caesarea, is venerated as a martyr and saint.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marciana",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Biblioteca_Marciana",
+    "https://en.wikipedia.org/wiki/Marciana_of_Toledo",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

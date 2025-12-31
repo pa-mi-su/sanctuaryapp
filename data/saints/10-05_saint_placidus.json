@@ -3,8 +3,13 @@
   "name": "Saint Placidus",
   "mmdd": "10-05",
   "feast": "The Fifth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Placidus was a disciple of Benedict of Nursia. He was the son of the patrician Tertullus, was brought as a child to Benedict at Sublaqueum (Subiaco) and dedicated to God as provided for in chapter 69 of the Rule of St.",
+  "biography": "Placidus was a disciple of Benedict of Nursia. He was the son of the patrician Tertullus, was brought as a child to Benedict at Sublaqueum (Subiaco) and dedicated to God as provided for in chapter 69 of the Rule of St. Benedict (oblate).",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flavia_(martyr)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Placidus",
+    "https://en.wikipedia.org/wiki/Saint_Placidus"
+  ]
 }

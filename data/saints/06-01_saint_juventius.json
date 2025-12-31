@@ -3,8 +3,11 @@
   "name": "Saint Juventius",
   "mmdd": "06-01",
   "feast": "The First Day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Juventius, sometimes spelled Eventius, Iventius, or Inventius, was a bishop of Pavia during the 4th century, holding the position for 39 years. Together with Syrus of Pavia, he was sent to Pavia by Saint Hermagoras to evangelize the city, founding a bishopric there.",
+  "biography": "Saint Juventius, sometimes spelled Eventius, Iventius, or Inventius, was a bishop of Pavia during the 4th century, holding the position for 39 years. Together with Syrus of Pavia, he was sent to Pavia by Saint Hermagoras to evangelize the city, founding a bishopric there. Syrus subsequently served as first bishop of Pavia.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Juventius_of_Pavia",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

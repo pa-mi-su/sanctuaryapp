@@ -3,8 +3,11 @@
   "name": "Saint Epigmenius",
   "mmdd": "03-24",
   "feast": "The Twenty-Fourth Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Crescentius of Rome is venerated as a child martyr by the Roman Catholic Church.",
+  "biography": "Crescentius of Rome is venerated as a child martyr by the Roman Catholic Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Crescentius_of_Rome",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

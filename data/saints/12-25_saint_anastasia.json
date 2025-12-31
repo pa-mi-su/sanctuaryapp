@@ -3,8 +3,12 @@
   "name": "Saint Anastasia",
   "mmdd": "12-25",
   "feast": "The Twenty-Fifth Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Anastasia is a feminine given name of Greek and Slavic origin, derived from the Greek word anástasis (ἀνάστασις), meaning \"resurrection\". It is a popular name in Eastern Europe.",
+  "biography": "Anastasia is a feminine given name of Greek and Slavic origin, derived from the Greek word anástasis (ἀνάστασις), meaning \"resurrection\". It is a popular name in Eastern Europe.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Order_of_Saint_Anastasia",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Anastasia"
+  ]
 }

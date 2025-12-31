@@ -3,8 +3,12 @@
   "name": "Saint Valentine",
   "mmdd": "11-13",
   "feast": "The Thirteenth Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "Valentine is both a masculine and a feminine given name, and a surname, derived from the Roman family name Valentinus, which was derived from the Latin word valens, which means \"strong and healthy\". Valentine can be considered an English translation or adaptation of the names Valentinus or Valentinian.",
+  "biography": "Valentine is both a masculine and a feminine given name, and a surname, derived from the Roman family name Valentinus, which was derived from the Latin word valens, which means \"strong and healthy\". Valentine can be considered an English translation or adaptation of the names Valentinus or Valentinian. It was the name of several saints of the Roman Catholic Church. St. Valentine's Day was named for a third-century martyr. The usual feminine form of the name is Valentina.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Sinful_Nuns_of_Saint_Valentine",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Valentine_(name)"
+  ]
 }

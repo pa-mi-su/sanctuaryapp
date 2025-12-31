@@ -3,8 +3,11 @@
   "name": "Saint Euphemia",
   "mmdd": "09-16",
   "feast": "The Sixteenth Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "Euphemia, known as Euphemia the All-praised in the Eastern Orthodox Church, was a virgin martyr, who died for her faith at Chalcedon in 303 AD.",
+  "biography": "Euphemia, known as Euphemia the All-praised in the Eastern Orthodox Church, was a virgin martyr, who died for her faith at Chalcedon in 303 AD.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euphemia",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

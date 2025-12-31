@@ -3,8 +3,14 @@
   "name": "Saint William",
   "mmdd": "06-25",
   "feast": "The Twenty-Fifth day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "William of Saint-Amour was an early figure in thirteenth-century scholasticism, chiefly notable for his withering attacks on the friars.",
+  "biography": "William of Saint-Amour was an early figure in thirteenth-century scholasticism, chiefly notable for his withering attacks on the friars.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/William_Saint-Clair",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/William_of_Saint-Thierry",
+    "https://en.wikipedia.org/wiki/Hermits_of_Saint_William",
+    "https://en.wikipedia.org/wiki/William_of_Saint-Amour"
+  ]
 }

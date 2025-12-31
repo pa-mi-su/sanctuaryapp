@@ -3,8 +3,12 @@
   "name": "Saint Amphian",
   "mmdd": "04-02",
   "feast": "The Second Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Aedesius of Alexandria was an early Christian martyred under Galerius Maximianus. He was the brother of Saint Amphian.",
+  "biography": "Saint Aedesius of Alexandria was an early Christian martyred under Galerius Maximianus. He was the brother of Saint Amphian. According to the martyrology, he publicly rebuked a judge who had been forcing Christian virgins to work in brothels in order to break them of their faith, so he was tortured and drowned.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amphian",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Aedesius_of_Alexandria"
+  ]
 }

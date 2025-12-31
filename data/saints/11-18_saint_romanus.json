@@ -3,8 +3,13 @@
   "name": "Saint Romanus",
   "mmdd": "11-18",
   "feast": "The Eighteenth Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Romanus of Rouen was a scribe, clerical sage, and bishop of Rouen. He would have lived under Dagobert I (629–39), though his date of birth is unknown.",
+  "biography": "Saint Romanus of Rouen was a scribe, clerical sage, and bishop of Rouen. He would have lived under Dagobert I (629–39), though his date of birth is unknown. His life is known in legend and tradition and is shown in the stained glass windows and south gate of Rouen Cathedral and the stained glass windows of the église Saint-Godard (1555). The Catholic Encyclopedia claims that his legend has little historical value with little authentic information. He was both Lord Chancellor of France and Référendaire of France..",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Romanus_Ostiarius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Romanus_of_Caesarea",
+    "https://en.wikipedia.org/wiki/Romanus_of_Rouen"
+  ]
 }

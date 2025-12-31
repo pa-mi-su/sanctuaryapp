@@ -3,8 +3,13 @@
   "name": "Saint Michael",
   "mmdd": "05-08",
   "feast": "The Eighth Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "The Chaplet of Saint Michael the Archangel, also called the Rosary of the Angels, is a chaplet approved by Pope Pius IX in 1851.",
+  "biography": "The Chaplet of Saint Michael the Archangel, also called the Rosary of the Angels, is a chaplet approved by Pope Pius IX in 1851.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Michael%2C_Barbados",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Michael_in_the_Catholic_Church",
+    "https://en.wikipedia.org/wiki/Chaplet_of_Saint_Michael"
+  ]
 }

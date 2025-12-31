@@ -3,8 +3,12 @@
   "name": "Saint Vincent Ferrer",
   "mmdd": "04-05",
   "feast": "The Fifth Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Vincent Ferrer, OP was a Valencian Dominican friar who gained acclaim as a preacher, missionary and logician. After supporting Antipope Benedict XIII during the Western Schism, Ferrer travelled to preach across Western Europe and the British Isles.",
+  "biography": "Vincent Ferrer, OP was a Valencian Dominican friar who gained acclaim as a preacher, missionary and logician. After supporting Antipope Benedict XIII during the Western Schism, Ferrer travelled to preach across Western Europe and the British Isles. His preaching has been credited in some sources as converting 25,000 Jews to Catholicism, other sources indicate that they involved supporting coercive means, such as the forcible conversion of synagogues into churches. He was canonized in 1455.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vincent_Ferrer",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

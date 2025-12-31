@@ -3,8 +3,13 @@
   "name": "Saint Felix",
   "mmdd": "05-30",
   "feast": "The Thirtieth Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Felix School is a 2–18 mixed, private, day and boarding school in Reydon, Southwold, Suffolk, England. The school was founded in 1897 as a school for girls but is now co-educational.",
+  "biography": "Saint Felix School is a 2–18 mixed, private, day and boarding school in Reydon, Southwold, Suffolk, England. The school was founded in 1897 as a school for girls but is now co-educational.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Felix_I",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Pope_Felix_IV",
+    "https://en.wikipedia.org/wiki/Saint_Felix_School"
+  ]
 }

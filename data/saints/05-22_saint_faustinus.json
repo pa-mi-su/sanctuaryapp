@@ -3,8 +3,13 @@
   "name": "Saint Faustinus",
   "mmdd": "05-22",
   "feast": "The Twenty-Second Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "The Tomb of Saints Faustino and Giovita is an artwork housed in the Church of Saints Faustino and Giovita in Brescia, located at the center of the presbytery, as part of the high altar. The tomb contains the remains of Saints Faustinus and Jovita, the titular saints of the church and patron saints of the city, whose sepulcher was rediscovered in 1455 in the old crypt, no longer extant, where it had been placed by Bis…",
+  "biography": "The Tomb of Saints Faustino and Giovita is an artwork housed in the Church of Saints Faustino and Giovita in Brescia, located at the center of the presbytery, as part of the high altar. The tomb contains the remains of Saints Faustinus and Jovita, the titular saints of the church and patron saints of the city, whose sepulcher was rediscovered in 1455 in the old crypt, no longer extant, where it had been placed by Bishop Ramperto in the 9th century. The current tomb is the work of the sculptor Giovanni Antonio Carra, who created it between 1617 and 1622 as part of extensive reconstruction work on the church carried out in the first half of the 17th century. The decorative style of the sepulcher is fully Baroque, and its high artistic and compositional quality makes it an exceptionally valuable piece of art. Given its function as the repository of the relics of Brescia's two patron saints, the work also holds significant religious importance.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Faustinus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Faustinus_and_Jovita",
+    "https://en.wikipedia.org/wiki/Ark_of_Saints_Faustinus_and_Jovita"
+  ]
 }

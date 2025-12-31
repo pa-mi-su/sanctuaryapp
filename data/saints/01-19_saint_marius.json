@@ -3,8 +3,14 @@
   "name": "Saint Marius",
   "mmdd": "01-19",
   "feast": "The Nineteenth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Marius Aventicensis or, popularly, Marius of Avenches was the Bishop of Aventicum from 574, remembered for his terse chronicle. After his death in Lausanne, he was venerated in that city as a saint, and his feast day was celebrated on 9 or 12 February.",
+  "biography": "Marius Aventicensis or, popularly, Marius of Avenches was the Bishop of Aventicum from 574, remembered for his terse chronicle. After his death in Lausanne, he was venerated in that city as a saint, and his feast day was celebrated on 9 or 12 February.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marius_Aventicensis",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Marius%2C_Martha%2C_Audifax%2C_and_Abachum",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

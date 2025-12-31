@@ -3,8 +3,12 @@
   "name": "Saint Liborius",
   "mmdd": "07-23",
   "feast": "The Twenty-Third Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "Liborius of Le Mans was the second Bishop of Le Mans. He is the patron saint of the cathedral and archdiocese of Paderborn in Germany.",
+  "biography": "Liborius of Le Mans was the second Bishop of Le Mans. He is the patron saint of the cathedral and archdiocese of Paderborn in Germany. The year of his birth is unknown; he died in 397, reputedly on 23 July.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Liborius_Church%2C_Krasnodar",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Liborius_of_Le_Mans"
+  ]
 }

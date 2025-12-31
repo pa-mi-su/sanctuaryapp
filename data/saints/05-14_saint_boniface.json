@@ -3,8 +3,12 @@
   "name": "Saint Boniface",
   "mmdd": "05-14",
   "feast": "The Fourteenth Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "St. Boniface is a city ward and neighbourhood in Winnipeg. Along with being the centre of the Franco-Manitoban community, it ranks as the largest francophone community in Western Canada.",
+  "biography": "St. Boniface is a city ward and neighbourhood in Winnipeg. Along with being the centre of the Franco-Manitoban community, it ranks as the largest francophone community in Western Canada.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Boniface%2C_Winnipeg",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Pope_Boniface_IV"
+  ]
 }

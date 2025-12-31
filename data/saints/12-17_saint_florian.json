@@ -3,8 +3,12 @@
   "name": "Saint Florian",
   "mmdd": "12-17",
   "feast": "The Seventeenth Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Florian was a Christian holy man and the patron saint of chimney sweeps, soapmakers, and firefighters. His feast day is 4 May.",
+  "biography": "Florian was a Christian holy man and the patron saint of chimney sweeps, soapmakers, and firefighters. His feast day is 4 May. Florian is also the patron saint of Poland; the city of Linz, Austria; and Upper Austria, jointly with Leopold III, Margrave of Austria.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Florian",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/The_Martyrdom_of_Saint_Florian"
+  ]
 }

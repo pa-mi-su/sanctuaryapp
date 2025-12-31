@@ -3,8 +3,12 @@
   "name": "Saint Diodorus",
   "mmdd": "12-01",
   "feast": "The First Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Diodore of Tarsus was a Christian bishop, monastic reformer, and theologian. A strong supporter of the orthodoxy of Nicaea, Diodore played a pivotal role in the Council of Constantinople and opposed the anti-Christian policies of Julian the Apostate.",
+  "biography": "Diodore of Tarsus was a Christian bishop, monastic reformer, and theologian. A strong supporter of the orthodoxy of Nicaea, Diodore played a pivotal role in the Council of Constantinople and opposed the anti-Christian policies of Julian the Apostate. Diodore founded one of the most influential centers of Christian thought in the early church, and many of his students became notable theologians in their own right.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diodorus_of_Tarsus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Brazen_bull"
+  ]
 }

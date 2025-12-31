@@ -3,8 +3,15 @@
   "name": "Saint Agnes",
   "mmdd": "01-21",
   "feast": "The Twenty-First Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Agnes of Rome is a virgin martyr, venerated as a saint in the Catholic Church, Oriental Orthodox Church and the Eastern Orthodox Church, as well as the Anglican Communion and Lutheran Churches. She is one of several virgin martyrs commemorated by name in the Canon of the Mass, and one of many Christians martyred during the reign of the Roman emperor Diocletian.",
+  "biography": "Agnes of Rome is a virgin martyr, venerated as a saint in the Catholic Church, Oriental Orthodox Church and the Eastern Orthodox Church, as well as the Anglican Communion and Lutheran Churches. She is one of several virgin martyrs commemorated by name in the Canon of the Mass, and one of many Christians martyred during the reign of the Roman emperor Diocletian.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Eve_of_St._Agnes",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Agnes_of_Rome",
+    "https://en.wikipedia.org/wiki/Catacombs_of_Saint_Agnes",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

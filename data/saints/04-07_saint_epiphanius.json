@@ -3,8 +3,13 @@
   "name": "Saint Epiphanius",
   "mmdd": "04-07",
   "feast": "The Seventh Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Epiphanius of Salamis was the bishop of Salamis, Cyprus, at the end of the 4th century. He is considered a saint and a Church Father by the Eastern Orthodox, Catholic Churches, and some Presbyterians.",
+  "biography": "Epiphanius of Salamis was the bishop of Salamis, Cyprus, at the end of the 4th century. He is considered a saint and a Church Father by the Eastern Orthodox, Catholic Churches, and some Presbyterians. He gained a reputation as a strong defender of orthodoxy. He is best known for composing the Panarion, a compendium of eighty heresies, which also included pagan religions and philosophical systems. There has been much controversy over how many of the quotations attributed to him by the Byzantine Iconoclasts were actually by him. Regardless of this, he was clearly strongly against some contemporary uses of images in the church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Epiphanius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Epiphanius_of_Pavia",
+    "https://en.wikipedia.org/wiki/Epiphanius_of_Salamis"
+  ]
 }

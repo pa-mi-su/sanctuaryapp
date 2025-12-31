@@ -3,8 +3,13 @@
   "name": "Saint Maur",
   "mmdd": "01-15",
   "feast": "The Fifteenth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Maurus, OSB (512–584) was an Italian Catholic monk best known as the first disciple of Benedict of Nursia. He is mentioned in Gregory the Great's biography of the latter as the first oblate, offered to the monastery by his noble Roman parents as a young boy to be brought up in the monastic life.",
+  "biography": "Maurus, OSB (512–584) was an Italian Catholic monk best known as the first disciple of Benedict of Nursia. He is mentioned in Gregory the Great's biography of the latter as the first oblate, offered to the monastery by his noble Roman parents as a young boy to be brought up in the monastic life.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Maurus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint-Maur-des-Foss%C3%A9s",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ]
 }

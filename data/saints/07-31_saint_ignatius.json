@@ -3,8 +3,14 @@
   "name": "Saint Ignatius",
   "mmdd": "07-31",
   "feast": "The Thirty-First Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "Ignatius of Loyola, venerated as Saint Ignatius of Loyola, was a Spanish Catholic priest and theologian, who, with six companions, founded the religious order of the Society of Jesus (Jesuits), and became its first Superior General, in Paris in 1541.",
+  "biography": "Ignatius of Loyola, venerated as Saint Ignatius of Loyola, was a Spanish Catholic priest and theologian, who, with six companions, founded the religious order of the Society of Jesus (Jesuits), and became its first Superior General, in Paris in 1541.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Ignatius_Church_(San_Francisco)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Cave_of_Saint_Ignatius",
+    "https://en.wikipedia.org/wiki/Saint_Ignatius_High_School_(Cleveland)",
+    "https://en.wikipedia.org/wiki/Ignatius_of_Loyola"
+  ]
 }

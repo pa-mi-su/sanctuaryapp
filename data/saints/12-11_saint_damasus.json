@@ -3,8 +3,12 @@
   "name": "Saint Damasus",
   "mmdd": "12-11",
   "feast": "The Eleventh Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Pope Damasus I, also known as Damasus of Rome, was the bishop of Rome from October 366 to his death in 384. He presided over the Council of Rome of 382 that determined the canon or official list of sacred scripture.",
+  "biography": "Pope Damasus I, also known as Damasus of Rome, was the bishop of Rome from October 366 to his death in 384. He presided over the Council of Rome of 382 that determined the canon or official list of sacred scripture.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Damasus_I",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Damasus"
+  ]
 }

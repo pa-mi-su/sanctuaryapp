@@ -3,8 +3,12 @@
   "name": "Saint Cyrilla",
   "mmdd": "10-28",
   "feast": "The Twenty-Eighth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Justin the Confessor was a Christian martyr in the Roman Empire. He is honoured as a saint by the Roman Catholic Church and Eastern Orthodox Church.",
+  "biography": "Justin the Confessor was a Christian martyr in the Roman Empire. He is honoured as a saint by the Roman Catholic Church and Eastern Orthodox Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Justin_the_Confessor",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Cyrilla_Mozenter"
+  ]
 }

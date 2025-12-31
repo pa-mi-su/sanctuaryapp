@@ -3,8 +3,14 @@
   "name": "Saint Macra",
   "mmdd": "01-06",
   "feast": "The Sixth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "St Macra of Reims was an ancient Roman Christian woman from the city of Reims who was supposedly martyred in the year 287. According to legend, the emperors Diocletian and Maximian ordered the governor Rictius Varus to excise Christianity from Gaul.",
+  "biography": "St Macra of Reims was an ancient Roman Christian woman from the city of Reims who was supposedly martyred in the year 287. According to legend, the emperors Diocletian and Maximian ordered the governor Rictius Varus to excise Christianity from Gaul. As part of this persecution, Varus supposedly attempted to torture the Christian woman Macra of Reims, although she refused to recant and reportedly—when asked to renounce Christianity—responded by declaring \"Know, tyrant and child of the devil, it is not in the power of man to shake my faith.\" Varus then relocated her to Fismes, where he attempted to execute Macra via immolation, and thus he removed her clothing before tying her to a stake. However, due to a lack of visible fear, Varus ordered her breasts to be severed and for her to be returned to prison. It is for this reason that artistic depictions of St Macra often portray her holding a pair of pincers. According to the tale, her wounds then miraculously healed overnight whilst in prison, leading to Varus—upon seeing the unscarred Macra—inquiring as to the source of her recovery, to which Macra replied that she was healed by Jesus Christ. Macra then, allegedly, once more refused to renounce Christianity, exclaiming that she would only serve God. She was then purportedly forced to roll on broken earthenware and hot coals, though she supposedly felt no pain due to the intervention of God. However, she eventually died whilst engaged in prayer. For her martyrdom, Macra is commemorated on January 6 in the Eastern Orthodox Calendar.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macra_of_Reims",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Archbishop_of_Birmingham",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

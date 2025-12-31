@@ -3,8 +3,12 @@
   "name": "Saint Anthimus",
   "mmdd": "04-27",
   "feast": "The Twenty-Seventh Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Anthimus of Nicomedia, was the bishop of Nicomedia in Bithynia, where he was beheaded during a persecution of Christians, traditionally placed under Diocletian, in which \"rivers of blood\" flowed.",
+  "biography": "Anthimus of Nicomedia, was the bishop of Nicomedia in Bithynia, where he was beheaded during a persecution of Christians, traditionally placed under Diocletian, in which \"rivers of blood\" flowed.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthimus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Anthimus_of_Nicomedia"
+  ]
 }

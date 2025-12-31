@@ -3,8 +3,11 @@
   "name": "Saint Sulpitius",
   "mmdd": "04-19",
   "feast": "The Nineteenth Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Sulpitius I was Bishop of Bourges. Often called Sulpitius Severus, the Severe, he is wrongly identified with Sulpicius Severus, the historian of Saint Martin of Tours.",
+  "biography": "Sulpitius I was Bishop of Bourges. Often called Sulpitius Severus, the Severe, he is wrongly identified with Sulpicius Severus, the historian of Saint Martin of Tours.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sulpitius_I_of_Bourges",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

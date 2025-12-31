@@ -3,8 +3,13 @@
   "name": "Saint Matthias",
   "mmdd": "02-24",
   "feast": "The Twenty-Fourth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Matthias was, according to the Acts of the Apostles, chosen by God through the apostles to replace Judas Iscariot following the latter's betrayal of Jesus and his subsequent death. His calling as an apostle is unique, in that he was elected by fellow disciples following Jesus' Ascension into Heaven, though Matthias knew Jesus throughout his earthly ministry.",
+  "biography": "Matthias was, according to the Acts of the Apostles, chosen by God through the apostles to replace Judas Iscariot following the latter's betrayal of Jesus and his subsequent death. His calling as an apostle is unique, in that he was elected by fellow disciples following Jesus' Ascension into Heaven, though Matthias knew Jesus throughout his earthly ministry.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matthias",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Matthias_of_Jerusalem",
+    "https://en.wikipedia.org/wiki/Matthias_the_Apostle"
+  ]
 }

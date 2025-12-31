@@ -3,8 +3,13 @@
   "name": "Saint James",
   "mmdd": "07-24",
   "feast": "The Twenty-Fourth Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint-James is a commune in the Manche department in Normandy in north-western France. On 1 January 2017, the former communes of Argouges, Carnet, La Croix-Avranchin, Montanel, Vergoncey and Villiers-le-Pré were merged into Saint-James.",
+  "biography": "Saint-James is a commune in the Manche department in Normandy in north-western France. On 1 January 2017, the former communes of Argouges, Carnet, La Croix-Avranchin, Montanel, Vergoncey and Villiers-le-Pré were merged into Saint-James.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Liturgy_of_Saint_James",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Great_Saint_James",
+    "https://en.wikipedia.org/wiki/Saint-James"
+  ]
 }

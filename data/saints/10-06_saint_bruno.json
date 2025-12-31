@@ -3,8 +3,13 @@
   "name": "Saint Bruno",
   "mmdd": "10-06",
   "feast": "The Sixth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint-Bruno station is a commuter rail station operated by Exo in Saint-Bruno-de-Montarville, Quebec, Canada.",
+  "biography": "Saint-Bruno station is a commuter rail station operated by Exo in Saint-Bruno-de-Montarville, Quebec, Canada.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Promenades_Saint-Bruno",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint-Bruno-de-Montarville",
+    "https://en.wikipedia.org/wiki/Saint-Bruno_station"
+  ]
 }

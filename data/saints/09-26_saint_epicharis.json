@@ -3,8 +3,11 @@
   "name": "Saint Epicharis",
   "mmdd": "09-26",
   "feast": "The Twenty-Sixth Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "A list of people, who died during the 3rd century, who have received recognition as Saints from the Catholic Church:",
+  "biography": "A list of people, who died during the 3rd century, who have received recognition as Saints from the Catholic Church:",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chronological_list_of_saints_in_the_3rd_century",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

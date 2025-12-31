@@ -3,8 +3,12 @@
   "name": "Saint Macarius",
   "mmdd": "12-08",
   "feast": "The Eighth Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Macarius is a Latinized form of the old Greek given name Makários (Μακάριος), meaning \"happy, fortunate, blessed\"; compare the Latin  beatus and  felix. Ancient Greeks applied the epithet Makarios to the gods.",
+  "biography": "Macarius is a Latinized form of the old Greek given name Makários (Μακάριος), meaning \"happy, fortunate, blessed\"; compare the Latin  beatus and  felix. Ancient Greeks applied the epithet Makarios to the gods.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monastery_of_Saint_Macarius_the_Great",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Macarius"
+  ]
 }

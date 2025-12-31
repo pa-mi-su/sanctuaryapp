@@ -3,8 +3,11 @@
   "name": "Saint Artemius",
   "mmdd": "06-06",
   "feast": "The Sixth Day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "Artemius, also known as Shallita, spelt Shalita or Chalita was a Syrian general of the Roman Empire and dux Aegypti or imperial prefect of Roman Egypt. He is considered a saint by the Catholic and the Orthodox Churches, by the name of Artemius of Antioch, Mar Shalita of Antioch, and Mar Shalita the Martyr.",
+  "biography": "Artemius, also known as Shallita, spelt Shalita or Chalita was a Syrian general of the Roman Empire and dux Aegypti or imperial prefect of Roman Egypt. He is considered a saint by the Catholic and the Orthodox Churches, by the name of Artemius of Antioch, Mar Shalita of Antioch, and Mar Shalita the Martyr.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Artemius",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

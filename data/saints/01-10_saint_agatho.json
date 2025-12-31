@@ -3,8 +3,14 @@
   "name": "Saint Agatho",
   "mmdd": "01-10",
   "feast": "The Tenth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Pope Agatho served as the bishop of Rome from 27 June 678 until his death on 10 January 681. He heard the appeal of Wilfrid of York, who had been displaced from his see by the division of the archdiocese ordered by Theodore of Canterbury.",
+  "biography": "Pope Agatho served as the bishop of Rome from 27 June 678 until his death on 10 January 681. He heard the appeal of Wilfrid of York, who had been displaced from his see by the division of the archdiocese ordered by Theodore of Canterbury. During Agatho's tenure, the Sixth Ecumenical Council was convened to deal with monothelitism. He is venerated as a saint by both the Catholic and Eastern Orthodox churches. He is said to have been the longest lived pope ever.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Agatho",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Cecilia",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

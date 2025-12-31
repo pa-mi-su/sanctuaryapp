@@ -3,8 +3,15 @@
   "name": "Saint John Chrysostom",
   "mmdd": "01-07",
   "feast": "The Seventh Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "John Chrysostom was an important Church Father who served as Archbishop of Constantinople. He is known for his preaching and public speaking, his denunciation of abuse of authority by both ecclesiastical and political leaders, his Divine Liturgy of Saint John Chrysostom, and his ascetic sensibilities.",
+  "biography": "John Chrysostom was an important Church Father who served as Archbishop of Constantinople. He is known for his preaching and public speaking, his denunciation of abuse of authority by both ecclesiastical and political leaders, his Divine Liturgy of Saint John Chrysostom, and his ascetic sensibilities. He was also the author of Adversus Judaeos and was strongly against Judaism. The epithet Χρυσόστομος means \"golden-mouthed\" in Greek and denotes his celebrated eloquence. Chrysostom was among the most prolific authors in the early Christian Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Chrysostom",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Liturgy_of_Saint_John_Chrysostom",
+    "https://en.wikipedia.org/wiki/John_the_Apostle",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

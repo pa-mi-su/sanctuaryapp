@@ -3,8 +3,14 @@
   "name": "Saint Victorinus",
   "mmdd": "11-02",
   "feast": "The Second Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "Saints Severinus of Sanseverino and Victorinus of Camerino were brothers who were both bishops and hermits of the 6th century.",
+  "biography": "Saints Severinus of Sanseverino and Victorinus of Camerino were brothers who were both bishops and hermits of the 6th century.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simplicius%2C_Constantius_and_Victorinus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Victorinus",
+    "https://en.wikipedia.org/wiki/Victorinus_of_Pettau",
+    "https://en.wikipedia.org/wiki/Severinus_of_Sanseverino_and_Victorinus_of_Camerino"
+  ]
 }

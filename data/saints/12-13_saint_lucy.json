@@ -3,8 +3,12 @@
   "name": "Saint Lucy",
   "mmdd": "12-13",
   "feast": "The Thirteenth Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Lucia of Syracuse, also called Santa Lucia and better known as Saint Lucy, was a Roman Christian martyr who died during the Diocletianic Persecution. She is venerated as a saint in Catholic, Anglican, Lutheran, Eastern Orthodox and Oriental Orthodox Christianity.",
+  "biography": "Lucia of Syracuse, also called Santa Lucia and better known as Saint Lucy, was a Roman Christian martyr who died during the Diocletianic Persecution. She is venerated as a saint in Catholic, Anglican, Lutheran, Eastern Orthodox and Oriental Orthodox Christianity. She is one of eight women explicitly commemorated by Catholics in the Canon of the Mass. Her traditional feast day, known in Europe as Saint Lucy's Day, is observed by Western Christians on 13 December. Lucia of Syracuse was honored in the Middle Ages and remained a well-known saint in early modern England. She is one of the best known virgin martyrs, along with Agatha of Sicily, Agnes of Rome, Cecilia of Rome, and Catherine of Alexandria.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Lucy",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Lucy"
+  ]
 }

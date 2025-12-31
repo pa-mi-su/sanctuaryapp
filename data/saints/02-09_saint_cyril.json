@@ -3,8 +3,16 @@
   "name": "Saint Cyril",
   "mmdd": "02-09",
   "feast": "The Ninth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Cyril were brothers, Byzantine Christian theologians and missionaries. For their work evangelizing the Slavs, they are known as the \"Apostles to the Slavs\".",
+  "biography": "Cyril were brothers, Byzantine Christian theologians and missionaries. For their work evangelizing the Slavs, they are known as the \"Apostles to the Slavs\".",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Cyril_VI_of_Alexandria",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Cyril",
+    "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "https://en.wikipedia.org/wiki/Cyril_and_Methodius",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

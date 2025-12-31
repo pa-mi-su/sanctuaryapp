@@ -3,8 +3,12 @@
   "name": "Saint Andrew Corsini",
   "mmdd": "02-04",
   "feast": "The Fourth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Andrea Corsini was an Italian Catholic prelate and professed member from the Carmelites who served as the Bishop of Fiesole from 1349 until his death.",
+  "biography": "Andrea Corsini was an Italian Catholic prelate and professed member from the Carmelites who served as the Bishop of Fiesole from 1349 until his death.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andrew_Corsini",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ]
 }

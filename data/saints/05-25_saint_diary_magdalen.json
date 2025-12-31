@@ -3,8 +3,12 @@
   "name": "Saint Diary Magdalen",
   "mmdd": "05-25",
   "feast": "The Twenty-Fifth Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "Mount Saint Canice was a Roman Catholic former convent that was located in Sandy Bay, Hobart, Tasmania, Australia and run by the Congregation of Our Lady of Charity of the Good Shepherd, commonly called the Sisters of the Good Shepherd, from 1893 to 1974.",
+  "biography": "Mount Saint Canice was a Roman Catholic former convent that was located in Sandy Bay, Hobart, Tasmania, Australia and run by the Congregation of Our Lady of Charity of the Good Shepherd, commonly called the Sisters of the Good Shepherd, from 1893 to 1974.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Jerome_Writing_(Caravaggio%2C_Valletta)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Mount_Saint_Canice"
+  ]
 }

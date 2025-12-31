@@ -3,17 +3,34 @@
 // Saints tab = saints-only.
 // - data/saints_index.json => "primary saint" per MM-DD (button to /saint/[id])
 // - data/saints_by_mmdd.json => saints[] list only (other saints)
-// - DOES NOT use movable feasts rules.
+// - DOES NOT use movable feasts rules for saints data,
+//   BUT we DO use movable feasts rules for SEASON coloring (outlines + legend).
+//
+// ✅ UI rules here:
+// - Uses Sanctuary gradient (AppTheme)
+// - Season-colored outline for EVERY day (so grid always looks alive)
+// - Stronger outline when there is at least one saint entry
+// - Shows SeasonLegend at bottom
 
 import React, { useMemo, useState, useCallback } from "react";
 import { LinearGradient } from "expo-linear-gradient";
 import { useRouter } from "expo-router";
 import { Portal, Modal, Card, Text, Divider, Button } from "react-native-paper";
+import { useTranslation } from "react-i18next";
 
 import { MonthGrid } from "@/components/MonthGrid";
+import { SeasonLegend } from "@/components/SeasonLegend";
 
 import saintsIndex from "../../data/saints_index.json";
 import saintsByMmdd from "../../data/saints_by_mmdd.json";
+
+import {
+  computeMovableFeastsForYear,
+  type MovableObservance,
+  type LiturgicalSeason,
+} from "../../utils/movableFeastsRules";
+
+import { AppTheme, seasonOutlineColor } from "../../utils/theme";
 
 type SaintIndexEntry = {
   id: string;
@@ -37,7 +54,6 @@ type SelectedDay = {
 };
 
 function toMmdd(dateKey: string) {
-  // dateKey is YYYY-MM-DD
   const parts = dateKey.split("-");
   return `${parts[1]}-${parts[2]}`;
 }
@@ -64,13 +80,78 @@ function buildPrimaryIndexMap() {
   return map;
 }
 
+/**
+ * Build a "best-guess season" resolver.
+ * Uses season markers (kind === "SeasonMarker") from movableFeastsRules.
+ * For any dateKey, returns the last marker <= dateKey.
+ */
+function buildSeasonResolver(calendarMap: Record<string, MovableObservance[]>) {
+  const markers: Array<{ dateKey: string; season: LiturgicalSeason }> = [];
+
+  for (const [dateKey, arr] of Object.entries(calendarMap)) {
+    for (const e of arr) {
+      if (e.kind === "SeasonMarker" && e.season) {
+        markers.push({ dateKey, season: e.season });
+      }
+    }
+  }
+
+  markers.sort((a, b) => a.dateKey.localeCompare(b.dateKey));
+
+  return (dateKey: string): LiturgicalSeason | undefined => {
+    let lo = 0;
+    let hi = markers.length - 1;
+    let best: LiturgicalSeason | undefined = undefined;
+
+    while (lo <= hi) {
+      const mid = (lo + hi) >> 1;
+      const m = markers[mid];
+      if (m.dateKey <= dateKey) {
+        best = m.season;
+        lo = mid + 1;
+      } else {
+        hi = mid - 1;
+      }
+    }
+    return best;
+  };
+}
+
 export default function SaintsScreen() {
+  const { t } = useTranslation();
   const router = useRouter();
 
   const [currentDate, setCurrentDate] = useState(() => new Date());
   const [selected, setSelected] = useState<SelectedDay | null>(null);
 
   const primaryIndexMap = useMemo(() => buildPrimaryIndexMap(), []);
+
+  const year = currentDate.getFullYear();
+
+  // Cross-year liturgical map ONLY for season resolution + colored outlines
+  const liturgicalMap = useMemo(() => {
+    const prev = computeMovableFeastsForYear(year - 1);
+    const cur = computeMovableFeastsForYear(year);
+    const next = computeMovableFeastsForYear(year + 1);
+
+    const out: Record<string, MovableObservance[]> = {};
+    const merge = (m: Record<string, MovableObservance[]>) => {
+      for (const [k, arr] of Object.entries(m)) {
+        if (!out[k]) out[k] = [];
+        out[k].push(...arr);
+      }
+    };
+
+    merge(prev);
+    merge(cur);
+    merge(next);
+    return out;
+  }, [year]);
+
+  const resolveSeason = useMemo(
+    () => buildSeasonResolver(liturgicalMap),
+    [liturgicalMap],
+  );
 
   const getDayMeta = useCallback(
     (dateKey: string) => {
@@ -81,12 +162,10 @@ export default function SaintsScreen() {
         md
       ];
 
-      // saints[] list, cleaned
       let saintsList = (dayInfo?.saints ?? [])
         .map((s) => (s ?? "").trim())
         .filter((s) => !isJunkSaintName(s));
 
-      // Avoid duplicates: remove primary from the "other saints" list
       if (primary?.name) {
         const pk = normKey(primary.name);
         saintsList = saintsList.filter((s) => normKey(s) !== pk);
@@ -97,13 +176,23 @@ export default function SaintsScreen() {
 
       const hasAny = !!primary || saintsList.length > 0;
 
+      // Season-colored outline for EVERY day
+      const season = resolveSeason(dateKey);
+      const outlineColor =
+        seasonOutlineColor(season) ?? AppTheme.outlineFallback;
+
+      // Thickness communicates “content exists”
+      const outlineWidth = hasAny ? 3 : 2;
+
       return {
-        hasEvent: hasAny,
+        hasEvent: true,
         tone: hasAny ? "secondary" : "none",
-        badgeText: label,
+        badgeText: label ?? "·",
+        outlineColor,
+        outlineWidth,
       };
     },
-    [primaryIndexMap],
+    [primaryIndexMap, resolveSeason],
   );
 
   const onPressDate = useCallback(
@@ -121,7 +210,6 @@ export default function SaintsScreen() {
         .map((s) => (s ?? "").trim())
         .filter((s) => !isJunkSaintName(s));
 
-      // Remove primary from list to prevent duplicate display
       if (primary?.name) {
         const pk = normKey(primary.name);
         saintsList = saintsList.filter((s) => normKey(s) !== pk);
@@ -140,21 +228,19 @@ export default function SaintsScreen() {
 
   const primary = selected?.primary ?? null;
   const saintsList = selected?.saintsList ?? [];
-  const feast =
-    selected?.feast ?? primary?.feast ?? null ?? "All Saints for Today";
+  const feast = selected?.feast ?? primary?.feast ?? null;
 
   return (
-    <LinearGradient
-      colors={["#4b2e83", "#6a4c93", "#b185db"]}
-      style={{ flex: 1 }}
-    >
+    <LinearGradient colors={[...AppTheme.gradients.main]} style={{ flex: 1 }}>
       <MonthGrid
         currentDate={currentDate}
         onChangeDate={setCurrentDate}
         onPressDate={onPressDate}
         getDayMeta={getDayMeta}
-        headerTitle="Saints"
+        headerTitle={t("saints")}
       />
+
+      <SeasonLegend style={{ marginBottom: 12 }} />
 
       <Portal>
         <Modal
@@ -174,14 +260,16 @@ export default function SaintsScreen() {
                   {selected.dateKey}
                 </Text>
 
-                <Text style={{ marginTop: 6, opacity: 0.75 }}>{feast}</Text>
+                {feast ? (
+                  <Text style={{ marginTop: 6, opacity: 0.75 }}>{feast}</Text>
+                ) : null}
 
                 <Divider style={{ marginTop: 12 }} />
 
                 {primary ? (
                   <>
                     <Text style={{ marginTop: 16, fontWeight: "800" }}>
-                      Saint of the day
+                      {t("saint_of_the_day")}
                     </Text>
 
                     <Button
@@ -205,7 +293,7 @@ export default function SaintsScreen() {
                 {saintsList.length > 0 ? (
                   <>
                     <Text style={{ marginTop: 16, fontWeight: "800" }}>
-                      Other saints today
+                      {t("other_saints_today")}
                     </Text>
                     <Divider style={{ marginTop: 8 }} />
 
@@ -228,7 +316,7 @@ export default function SaintsScreen() {
 
                 {!primary && saintsList.length === 0 ? (
                   <Text style={{ marginTop: 12, opacity: 0.7 }}>
-                    No saint entry found for this date.
+                    {t("no_saint_entry_found")}
                   </Text>
                 ) : null}
 
@@ -237,7 +325,7 @@ export default function SaintsScreen() {
                   style={{ marginTop: 16 }}
                   onPress={() => setSelected(null)}
                 >
-                  Close
+                  {t("close")}
                 </Button>
               </Card.Content>
             </Card>

@@ -3,8 +3,13 @@
   "name": "Saint Sebastian",
   "mmdd": "07-07",
   "feast": "The Seventh Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "Sebastian was an early Christian saint and martyr. According to traditional belief, he was killed during the Diocletianic Persecution of Christians.",
+  "biography": "Sebastian was an early Christian saint and martyr. According to traditional belief, he was killed during the Diocletianic Persecution of Christians. He was initially tied to a post or tree and shot with arrows, though this did not kill him. He was, according to tradition, rescued and healed by Irene of Rome, which became a popular subject in 17th-century painting. In all versions of the story, shortly after his recovery he went to Diocletian to warn him about his sins, and as a result he was clubbed to death. He is venerated in the Catholic Church and the Orthodox Church as the patron saint of athletics, archery, and plagues.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Sebastian",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Martyrdom_of_Saint_Sebastian_(Pollaiuolo)",
+    "https://en.wikipedia.org/wiki/Saint_Sebastian_(Titian%2C_Hermitage)"
+  ]
 }

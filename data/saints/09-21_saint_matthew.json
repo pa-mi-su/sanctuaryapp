@@ -3,8 +3,13 @@
   "name": "Saint Matthew",
   "mmdd": "09-21",
   "feast": "The Twenty-First Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "Matthew the Apostle was one of the twelve apostles of Jesus. According to Christian traditions, he was also one of the four Evangelists as author of the Gospel of Matthew, and thus is also known as Matthew the Evangelist.",
+  "biography": "Matthew the Apostle was one of the twelve apostles of Jesus. According to Christian traditions, he was also one of the four Evangelists as author of the Gospel of Matthew, and thus is also known as Matthew the Evangelist.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Matthew_(Ghiberti)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/The_Martyrdom_of_Saint_Matthew_(Caravaggio)",
+    "https://en.wikipedia.org/wiki/Matthew_the_Apostle"
+  ]
 }

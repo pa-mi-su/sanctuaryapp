@@ -3,8 +3,12 @@
   "name": "Saint Basileus",
   "mmdd": "11-27",
   "feast": "The Twenty-Seventh Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "Alexander of Jerusalem was a third century bishop who is venerated as a martyr and saint by the Eastern Orthodox Church, Oriental Orthodox churches, and the Roman Catholic Church. He died during the persecution of Emperor Decius.",
+  "biography": "Alexander of Jerusalem was a third century bishop who is venerated as a martyr and saint by the Eastern Orthodox Church, Oriental Orthodox churches, and the Roman Catholic Church. He died during the persecution of Emperor Decius.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basileus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Alexander_of_Jerusalem"
+  ]
 }

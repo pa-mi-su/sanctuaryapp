@@ -3,8 +3,11 @@
   "name": "Saint Christopher",
   "mmdd": "07-25",
   "feast": "The Twenty-Fifth Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Christopher is venerated by several Christian denominations. According to these traditions, he was a martyr killed in the reign of the 3rd-century Roman emperor Decius, or alternatively under the emperor Maximinus Daia.",
+  "biography": "Saint Christopher is venerated by several Christian denominations. According to these traditions, he was a martyr killed in the reign of the 3rd-century Roman emperor Decius, or alternatively under the emperor Maximinus Daia. Churches and monasteries were named after him by the 7th century. There is no evidence for the historicity of the saint.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Christopher",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

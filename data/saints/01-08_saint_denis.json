@@ -3,8 +3,14 @@
   "name": "Saint Denis",
   "mmdd": "01-08",
   "feast": "The Eighth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Denis of Paris was a 3rd-century Christian martyr and saint. According to his hagiographies, he was bishop of Paris in the third century and, together with his companions Rusticus and Eleutherius, was martyred for his faith by decapitation.",
+  "biography": "Denis of Paris was a 3rd-century Christian martyr and saint. According to his hagiographies, he was bishop of Paris in the third century and, together with his companions Rusticus and Eleutherius, was martyred for his faith by decapitation. Some accounts placed this during Domitian's persecution and incorrectly identified St Denis of Paris with the Areopagite who was converted by Paul the Apostle and who served as the first bishop of Athens. Assuming Denis's historicity, it is now considered more likely that he suffered under the persecution of the emperor Decius shortly after AD 250.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basilica_of_Saint-Denis",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Porte_Saint-Denis",
+    "https://en.wikipedia.org/wiki/Montjoie_Saint_Denis!",
+    "https://en.wikipedia.org/wiki/Denis_of_Paris"
+  ]
 }

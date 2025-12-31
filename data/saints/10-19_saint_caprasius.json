@@ -3,8 +3,12 @@
   "name": "Saint Caprasius",
   "mmdd": "10-19",
   "feast": "The Nineteenth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Caprasius of Agen is venerated as a Christian martyr and saint of the fourth century. Relics associated with him were discovered at Agen in south-west France in the fifth century.",
+  "biography": "Saint Caprasius of Agen is venerated as a Christian martyr and saint of the fourth century. Relics associated with him were discovered at Agen in south-west France in the fifth century. Local legends dating from the 14th century make him the first bishop of Agen, though, as Alban Butler writes, the only evidence to support his existence is the dedication of a church to him in the 6th century.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caprasius_of_Agen",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Caprasius"
+  ]
 }

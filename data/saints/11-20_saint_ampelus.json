@@ -3,8 +3,11 @@
   "name": "Saint Ampelus",
   "mmdd": "11-20",
   "feast": "The Twentieth Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Ampelus is a martyr venerated by the Eastern Orthodox and Roman Catholic churches on November 20. He was killed by Romans with his companion, Gaius, during the reign of Diocletian.",
+  "biography": "Saint Ampelus is a martyr venerated by the Eastern Orthodox and Roman Catholic churches on November 20. He was killed by Romans with his companion, Gaius, during the reign of Diocletian.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ampelus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

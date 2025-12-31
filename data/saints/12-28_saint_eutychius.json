@@ -3,8 +3,12 @@
   "name": "Saint Eutychius",
   "mmdd": "12-28",
   "feast": "The Twenty-Eighth Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Eutychius of Constantinople, considered a saint in the Catholic Church and Eastern Orthodox Christian traditions, was the patriarch of Constantinople from 552 to 565 and from 577 to 582. His feast is kept by the Orthodox Church on 6 April, and he is mentioned in the Catholic Church's \"Corpus Juris\".",
+  "biography": "Eutychius of Constantinople, considered a saint in the Catholic Church and Eastern Orthodox Christian traditions, was the patriarch of Constantinople from 552 to 565 and from 577 to 582. His feast is kept by the Orthodox Church on 6 April, and he is mentioned in the Catholic Church's \"Corpus Juris\". His terms of office, occurring during the reign of Emperor Justinian I, were marked by controversies with both imperial and papal authority.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eutychius_of_Constantinople",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Eutychius"
+  ]
 }

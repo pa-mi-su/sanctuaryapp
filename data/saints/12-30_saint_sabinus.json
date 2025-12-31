@@ -3,8 +3,11 @@
   "name": "Saint Sabinus",
   "mmdd": "12-30",
   "feast": "The Thirtieth Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Sabinus of Piacenza, venerated as a saint in the Roman Catholic church, was bishop of Piacenza until his death in the year 420.",
+  "biography": "Saint Sabinus of Piacenza, venerated as a saint in the Roman Catholic church, was bishop of Piacenza until his death in the year 420.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sabinus_of_Piacenza",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

@@ -3,8 +3,11 @@
   "name": "Saint Eugenius",
   "mmdd": "11-15",
   "feast": "The Fifteenth Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Eugenius II, sometimes called Eugenius the Younger as the successor of Eugenius I, was Archbishop of Toledo from 647 until his death.",
+  "biography": "Saint Eugenius II, sometimes called Eugenius the Younger as the successor of Eugenius I, was Archbishop of Toledo from 647 until his death.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eugenius_II_of_Toledo",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

@@ -3,8 +3,13 @@
   "name": "Saint Hyginus",
   "mmdd": "01-11",
   "feast": "The Eleventh Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Cecilia, also spelled Cecelia, was a Roman Christian virgin martyr, who is venerated in Catholic, Orthodox, Anglican, and some Lutheran churches, such as the Church of Sweden. She became the patroness of music and musicians, it being written that, as the musicians played at her wedding, Cecilia \"sang in her heart to the Lord\".",
+  "biography": "Saint Cecilia, also spelled Cecelia, was a Roman Christian virgin martyr, who is venerated in Catholic, Orthodox, Anglican, and some Lutheran churches, such as the Church of Sweden. She became the patroness of music and musicians, it being written that, as the musicians played at her wedding, Cecilia \"sang in her heart to the Lord\". Musical compositions are dedicated to her, and her feast, on 22 November, is the occasion of concerts and musical festivals. She is also known as Cecilia of Rome.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Hyginus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Cecilia",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ]
 }

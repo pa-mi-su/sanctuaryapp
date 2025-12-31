@@ -3,8 +3,13 @@
   "name": "Saint Thomas",
   "mmdd": "12-20",
   "feast": "The Twentieth Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Thomas the Apostle, also known as Didymus, was one of the Twelve Apostles of Jesus according to the New Testament. Thomas is commonly known as \"doubting Thomas\" because he initially doubted the resurrection of Jesus when he was told of it ; he later confessed his faith on seeing the places where the wounds appeared still fresh on the holy body of Jesus after the Crucifixion of Jesus.",
+  "biography": "Thomas the Apostle, also known as Didymus, was one of the Twelve Apostles of Jesus according to the New Testament. Thomas is commonly known as \"doubting Thomas\" because he initially doubted the resurrection of Jesus when he was told of it ; he later confessed his faith on seeing the places where the wounds appeared still fresh on the holy body of Jesus after the Crucifixion of Jesus.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Thomas_Christians",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Thomas%2C_U.S._Virgin_Islands",
+    "https://en.wikipedia.org/wiki/Thomas_the_Apostle"
+  ]
 }

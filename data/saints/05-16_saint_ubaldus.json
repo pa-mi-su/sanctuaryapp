@@ -3,8 +3,11 @@
   "name": "Saint Ubaldus",
   "mmdd": "05-16",
   "feast": "The Sixteenth Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "Ubald of Gubbio was a medieval bishop of Gubbio, in Umbria, today venerated as a saint by the Catholic Church. Saint Ubaldo Day is still celebrated at the Basilica of Sant'Ubaldo in Gubbio in his honor, as well as at Jessup, Pennsylvania.",
+  "biography": "Ubald of Gubbio was a medieval bishop of Gubbio, in Umbria, today venerated as a saint by the Catholic Church. Saint Ubaldo Day is still celebrated at the Basilica of Sant'Ubaldo in Gubbio in his honor, as well as at Jessup, Pennsylvania.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ubald",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

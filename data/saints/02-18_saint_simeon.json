@@ -3,8 +3,14 @@
   "name": "Saint Simeon",
   "mmdd": "02-18",
   "feast": "The Eighteenth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Simeon Stylites or Symeon the Stylite was a Syrian Christian ascetic, who achieved notability by living 36 years on a small platform on top of a pillar near Aleppo. Several other stylites later followed his model.",
+  "biography": "Simeon Stylites or Symeon the Stylite was a Syrian Christian ascetic, who achieved notability by living 36 years on a small platform on top of a pillar near Aleppo. Several other stylites later followed his model. Simeon is venerated as a saint by the Eastern Catholic Churches, Oriental Orthodox Churches, Eastern Orthodox Church, and Roman Catholic Church. He is known formally as Simeon Stylites the Elder to distinguish him from Simeon Stylites the Younger, Simeon Stylites III and Symeon Stylites of Lesbos.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simeon_Stylites",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Simeon",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

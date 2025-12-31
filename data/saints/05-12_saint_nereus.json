@@ -3,8 +3,11 @@
   "name": "Saint Nereus",
   "mmdd": "05-12",
   "feast": "The Twelfth Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "Nereus and Achilleus are two Roman martyr saints. In the present General Roman Calendar, revised in 1969, Nereus and Achilleus (together) are celebrated on 12 May.",
+  "biography": "Nereus and Achilleus are two Roman martyr saints. In the present General Roman Calendar, revised in 1969, Nereus and Achilleus (together) are celebrated on 12 May.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nereus_and_Achilleus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

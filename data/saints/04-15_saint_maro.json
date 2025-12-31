@@ -3,8 +3,13 @@
   "name": "Saint Maro",
   "mmdd": "04-15",
   "feast": "The Fifteenth Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Maron, also called Maroun or Maro, was a 4th-century Syriac Christian hermit monk in the Taurus Mountains whose followers, after his death, founded a religious Christian movement that became known as the Maronite Church, in full communion with the Holy See and the Catholic Church. The religious community which grew from this movement are the modern Maronites.",
+  "biography": "Maron, also called Maroun or Maro, was a 4th-century Syriac Christian hermit monk in the Taurus Mountains whose followers, after his death, founded a religious Christian movement that became known as the Maronite Church, in full communion with the Holy See and the Catholic Church. The religious community which grew from this movement are the modern Maronites.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maro_(name)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Maron",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

@@ -3,8 +3,13 @@
   "name": "Saint Herculanus",
   "mmdd": "09-25",
   "feast": "The Twenty-Fifth Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "Herculanus of Piegaro was an Italian Franciscan, beatified in 1860. He is commemorated on June 2.",
+  "biography": "Herculanus of Piegaro was an Italian Franciscan, beatified in 1860. He is commemorated on June 2.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Madonna_and_Child_with_Saints_Herculanus_and_Constantius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Herculanus",
+    "https://en.wikipedia.org/wiki/Herculanus_of_Piegaro"
+  ]
 }

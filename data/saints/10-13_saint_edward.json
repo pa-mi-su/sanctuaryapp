@@ -3,8 +3,12 @@
   "name": "Saint Edward",
   "mmdd": "10-13",
   "feast": "The Thirteenth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Astolphe-Louis-Léonor, Marquis de Custine was a French aristocrat and writer who is best known for his travel writing, in particular his account of his visit to Russia, La Russie en 1839. This work documents not only Custine's travels through the Russian Empire, but also the social fabric, economy and way of life during the reign of Nicholas I.",
+  "biography": "Astolphe-Louis-Léonor, Marquis de Custine was a French aristocrat and writer who is best known for his travel writing, in particular his account of his visit to Russia, La Russie en 1839. This work documents not only Custine's travels through the Russian Empire, but also the social fabric, economy and way of life during the reign of Nicholas I. Due to this work, Custine was later dubbed by some historians as \"the de Tocqueville of Russia\".",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edward_the_Martyr",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Marquis_de_Custine"
+  ]
 }

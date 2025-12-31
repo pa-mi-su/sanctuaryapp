@@ -3,8 +3,12 @@
   "name": "Saint John of God",
   "mmdd": "03-08",
   "feast": "The Eighth day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "John of God, O.H. was a Portuguese soldier turned healthcare worker in Spain, whose followers later formed the Brothers Hospitallers of Saint John of God, a Catholic religious institute dedicated to the care of the poor, sick and those with mental disorders.",
+  "biography": "John of God, O.H. was a Portuguese soldier turned healthcare worker in Spain, whose followers later formed the Brothers Hospitallers of Saint John of God, a Catholic religious institute dedicated to the care of the poor, sick and those with mental disorders.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_God",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

@@ -3,8 +3,12 @@
   "name": "Saint Pancratius",
   "mmdd": "04-03",
   "feast": "The Third Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Saints Faith, Hope, and Charity , are a group of Christian martyred saints who are venerated together with their mother, Sophia (\"Wisdom\").",
+  "biography": "Saints Faith, Hope, and Charity , are a group of Christian martyred saints who are venerated together with their mother, Sophia (\"Wisdom\").",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pancratius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saints_Faith%2C_Hope_and_Charity"
+  ]
 }

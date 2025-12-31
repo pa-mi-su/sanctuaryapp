@@ -3,8 +3,11 @@
   "name": "Saint Giles",
   "mmdd": "09-01",
   "feast": "The First Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Giles, also known as Giles the Hermit, was a hermit or monk active in the lower Rhône most likely in the 7th century. Revered as a saint, his cult became widely diffused but his hagiography is mostly legendary.",
+  "biography": "Saint Giles, also known as Giles the Hermit, was a hermit or monk active in the lower Rhône most likely in the 7th century. Revered as a saint, his cult became widely diffused but his hagiography is mostly legendary. A town that bears his name grew up around the monastery he purportedly founded, which became a pilgrimage centre and a stop on the Way of Saint James.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Giles",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

@@ -3,8 +3,12 @@
   "name": "Saint Marcellus",
   "mmdd": "09-04",
   "feast": "The Fourth Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Marcellus may refer to:Pope Marcellus I (255–309)\nMarcellus of Capua \nMarcellus of Paris \nMarcellus of Tangier",
+  "biography": "Saint Marcellus may refer to:Pope Marcellus I (255–309)\nMarcellus of Capua \nMarcellus of Paris \nMarcellus of Tangier",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Marcellus_I",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Marcellus"
+  ]
 }

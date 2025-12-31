@@ -3,8 +3,12 @@
   "name": "Saint Catharine",
   "mmdd": "11-25",
   "feast": "The Twenty-Fifth Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "The St. Catharines Saints is a senior ice hockey club in the Allan Cup Hockey League (ACH) based in St. Catharines, Ontario.",
+  "biography": "The St. Catharines Saints is a senior ice hockey club in the Allan Cup Hockey League (ACH) based in St. Catharines, Ontario. The club plays its home games at the Merritton Centennial Arena in St. Catharines.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Catharines_Saints_(ACH)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/St._Catharines_Saints"
+  ]
 }

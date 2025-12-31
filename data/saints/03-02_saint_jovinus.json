@@ -3,8 +3,12 @@
   "name": "Saint Jovinus",
   "mmdd": "03-02",
   "feast": "The Second day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Flavius Jovinus was a Roman general and consul of the Western Roman Empire. He was of Gallic or Germanic origin and was both born and buried in Durocortorum, modern day Reims.",
+  "biography": "Flavius Jovinus was a Roman general and consul of the Western Roman Empire. He was of Gallic or Germanic origin and was both born and buried in Durocortorum, modern day Reims.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jovinus_(consul)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Abbey_of_Saint-Jouin-de-Marnes"
+  ]
 }

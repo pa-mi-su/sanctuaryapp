@@ -3,8 +3,13 @@
   "name": "Saint Leon",
   "mmdd": "06-28",
   "feast": "The Twenty-Eighth day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "Louis Antoine Léon de Saint-Just, sometimes nicknamed the Archangel of Terror, was a French revolutionary, political philosopher, member and president of the French National Convention, a Jacobin club leader, and a major figure of the French Revolution. The youngest person elected to the National Convention, he was a member of the Mountain faction and a steadfast supporter and close friend of Robespierre.",
+  "biography": "Louis Antoine Léon de Saint-Just, sometimes nicknamed the Archangel of Terror, was a French revolutionary, political philosopher, member and president of the French National Convention, a Jacobin club leader, and a major figure of the French Revolution. The youngest person elected to the National Convention, he was a member of the Mountain faction and a steadfast supporter and close friend of Robespierre. He was swept away in Robespierre's downfall on 9 Thermidor, Year II.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Leon",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint-Leon_Church%2C_Paris",
+    "https://en.wikipedia.org/wiki/Louis_Antoine_de_Saint-Just"
+  ]
 }

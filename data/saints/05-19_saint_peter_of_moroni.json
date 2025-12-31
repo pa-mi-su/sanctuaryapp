@@ -3,8 +3,14 @@
   "name": "Saint Peter of Moroni",
   "mmdd": "05-19",
   "feast": "The Nineteenth Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "According to Latter Day Saint belief, the golden plates are the source from which Joseph Smith translated the Book of Mormon, a sacred text of the faith. Some accounts from people who reported handling the plates describe the plates as weighing from 30 to 60 pounds, gold in color, and composed of thin metallic pages engraved with hieroglyphics on both sides and bound with three D-shaped rings.",
+  "biography": "According to Latter Day Saint belief, the golden plates are the source from which Joseph Smith translated the Book of Mormon, a sacred text of the faith. Some accounts from people who reported handling the plates describe the plates as weighing from 30 to 60 pounds, gold in color, and composed of thin metallic pages engraved with hieroglyphics on both sides and bound with three D-shaped rings.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Archbasilica_of_Saint_John_Lateran",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints",
+    "https://en.wikipedia.org/wiki/Giovanni_Battista_Moroni",
+    "https://en.wikipedia.org/wiki/Golden_plates"
+  ]
 }

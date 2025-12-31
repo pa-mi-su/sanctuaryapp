@@ -3,8 +3,11 @@
   "name": "Saint Reparata",
   "mmdd": "10-08",
   "feast": "The Eighth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Reparata was, according to tradition, a third-century virgin who was martyred for her Christian faith in her hometown of Caesarea, Roman Province of Palestine, and later canonised by the Catholic Church.",
+  "biography": "Reparata was, according to tradition, a third-century virgin who was martyred for her Christian faith in her hometown of Caesarea, Roman Province of Palestine, and later canonised by the Catholic Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Reparata",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

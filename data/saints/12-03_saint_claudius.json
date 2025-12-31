@@ -3,8 +3,13 @@
   "name": "Saint Claudius",
   "mmdd": "12-03",
   "feast": "The Third Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Claudius of Besançon, sometimes called Claude the Thaumaturge, was a priest, monk, abbot, and bishop. A native of Franche-Comté, Claudius became a priest at Besançon and later a monk.",
+  "biography": "Saint Claudius of Besançon, sometimes called Claude the Thaumaturge, was a priest, monk, abbot, and bishop. A native of Franche-Comté, Claudius became a priest at Besançon and later a monk. Georges Goyau in the Catholic Encyclopedia wrote that “The Life of St. Claudius, Abbot of Condat, has been the subject of much controversy.” Anglican Henry Wace claimed that \"on this saint the inventors of legends have compiled a vast farrago of improbabilities.\"",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apollinaris_Claudius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Claudius",
+    "https://en.wikipedia.org/wiki/Claudius_of_Besan%C3%A7on"
+  ]
 }

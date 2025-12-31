@@ -3,8 +3,13 @@
   "name": "Saint Alphonsus Maria de Liguori",
   "mmdd": "08-02",
   "feast": "The Second Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Pantaleon, counted in Western Christianity as among the Fourteen Holy Helpers of the Late Middle Ages, and in Eastern Christianity as one of the Holy Unmercenary Healers, was a martyr of Nicomedia in Bithynia during the Diocletianic Persecution of 305 AD.",
+  "biography": "Saint Pantaleon, counted in Western Christianity as among the Fourteen Holy Helpers of the Late Middle Ages, and in Eastern Christianity as one of the Holy Unmercenary Healers, was a martyr of Nicomedia in Bithynia during the Diocletianic Persecution of 305 AD.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Dominic",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Alphonsus_Liguori",
+    "https://en.wikipedia.org/wiki/Saint_Pantaleon"
+  ]
 }

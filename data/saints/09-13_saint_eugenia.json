@@ -3,8 +3,12 @@
   "name": "Saint Eugenia",
   "mmdd": "09-13",
   "feast": "The Thirteenth Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "Eugenia of Rome was an early Christian Roman martyr whose feast day is celebrated on December 25 in the Roman Catholic Church, on December 24 in the Eastern Catholic Churches and Eastern Orthodox Church, and on January 23 in the Armenian Apostolic Church.",
+  "biography": "Eugenia of Rome was an early Christian Roman martyr whose feast day is celebrated on December 25 in the Roman Catholic Church, on December 24 in the Eastern Catholic Churches and Eastern Orthodox Church, and on January 23 in the Armenian Apostolic Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eugenia_of_Rome",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Eugenia"
+  ]
 }

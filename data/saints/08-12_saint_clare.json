@@ -3,8 +3,13 @@
   "name": "Saint Clare",
   "mmdd": "08-12",
   "feast": "The Twelfth Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Alphonse de Clare is an Acadian community in the Canadian province of Nova Scotia, located in the District of Clare in Digby County. Formerly Chéticamp-de-Clare, the name was changed because there is another Chéticamp in Nova Scotia on Cape Breton.",
+  "biography": "Saint Alphonse de Clare is an Acadian community in the Canadian province of Nova Scotia, located in the District of Clare in Digby County. Formerly Chéticamp-de-Clare, the name was changed because there is another Chéticamp in Nova Scotia on Cape Breton. The similar names caused confusion for postal and other services.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Community_of_St._Clare",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Clare_(film)",
+    "https://en.wikipedia.org/wiki/Saint_Alphonse_de_Clare"
+  ]
 }

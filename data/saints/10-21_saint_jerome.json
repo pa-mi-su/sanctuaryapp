@@ -3,8 +3,11 @@
   "name": "Saint Jerome",
   "mmdd": "10-21",
   "feast": "The Twenty-First Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Jerome, also known as Jerome of Stridon, was an early Christian priest, confessor, theologian, translator, and historian; he is commonly known as Saint Jerome.",
+  "biography": "Jerome, also known as Jerome of Stridon, was an early Christian priest, confessor, theologian, translator, and historian; he is commonly known as Saint Jerome.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jerome",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

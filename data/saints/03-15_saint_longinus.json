@@ -3,8 +3,11 @@
   "name": "Saint Longinus",
   "mmdd": "03-15",
   "feast": "The Fifteenth Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Longinus is the name of the Roman soldier who pierced the side of Jesus with a lance, who in apostolic and some modern Christian traditions is described as a convert to Christianity. His name first appeared in the apocryphal Gospel of Nicodemus.",
+  "biography": "Longinus is the name of the Roman soldier who pierced the side of Jesus with a lance, who in apostolic and some modern Christian traditions is described as a convert to Christianity. His name first appeared in the apocryphal Gospel of Nicodemus. The lance is called in Catholic Christianity the \"Holy Lance\" (lancea) and the story is related in the Gospel of John during the Crucifixion. This act is said to have created the last of the Five Holy Wounds of Christ.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Longinus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

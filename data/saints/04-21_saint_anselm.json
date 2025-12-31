@@ -3,8 +3,14 @@
   "name": "Saint Anselm",
   "mmdd": "04-21",
   "feast": "The Twenty-First Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Anselm of Canterbury OSB, also known as Anselm of Aosta after his birthplace and Anselm of Bec after his monastery, was an Italian Benedictine monk, abbot, philosopher, and theologian of the Catholic Church, who served as Archbishop of Canterbury from 1093 to 1109.",
+  "biography": "Anselm of Canterbury OSB, also known as Anselm of Aosta after his birthplace and Anselm of Bec after his monastery, was an Italian Benedictine monk, abbot, philosopher, and theologian of the Catholic Church, who served as Archbishop of Canterbury from 1093 to 1109.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anselm_of_St_Saba",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Anselm_Hawks",
+    "https://en.wikipedia.org/wiki/Anselm_of_Canterbury",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

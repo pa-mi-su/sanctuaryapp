@@ -3,8 +3,16 @@
   "name": "Saint Anthony",
   "mmdd": "01-17",
   "feast": "The Seventeenth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Anthony the Great was a Christian monk from Egypt, revered since his death as a saint. He is distinguished from other saints named Anthony, such as Anthony of Padua, by various epithets: Anthony of Egypt, Anthony the Abbot, Anthony of the Desert, Anthony the Anchorite, Anthony the Hermit, and Anthony of Thebes.",
+  "biography": "Anthony the Great was a Christian monk from Egypt, revered since his death as a saint. He is distinguished from other saints named Anthony, such as Anthony of Padua, by various epithets: Anthony of Egypt, Anthony the Abbot, Anthony of the Desert, Anthony the Anchorite, Anthony the Hermit, and Anthony of Thebes. For his importance among the Desert Fathers and to all later Christian monasticism, he is also known as the Father of All Monks. His feast day is celebrated on 17 January among the Eastern Orthodox and Catholic churches and on Tobi 22 in the Coptic calendar.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basilica_of_Saint_Anthony_of_Padua",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/The_Torment_of_Saint_Anthony",
+    "https://en.wikipedia.org/wiki/Temptation_of_Saint_Anthony_in_visual_arts",
+    "https://en.wikipedia.org/wiki/Anthony_the_Great",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

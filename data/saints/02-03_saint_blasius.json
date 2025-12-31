@@ -3,8 +3,14 @@
   "name": "Saint Blasius",
   "mmdd": "02-03",
   "feast": "The Third Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Blaise of Sebaste was a physician and bishop of Sebastea in historical Lesser Armenia who is venerated as a Christian saint and martyr. He is counted as one of the Fourteen Holy Helpers.",
+  "biography": "Blaise of Sebaste was a physician and bishop of Sebastea in historical Lesser Armenia who is venerated as a Christian saint and martyr. He is counted as one of the Fourteen Holy Helpers.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Blasius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Blaise",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

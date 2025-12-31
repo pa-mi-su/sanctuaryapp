@@ -3,8 +3,13 @@
   "name": "Saint Fidelis",
   "mmdd": "03-23",
   "feast": "The Twenty-Third Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Fidelis is a given name and surname. The equivalent is Fidélis in Portuguese or Fidel in Spanish.",
+  "biography": "Fidelis is a given name and surname. The equivalent is Fidélis in Portuguese or Fidel in Spanish.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Fidelis",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Basilica_of_St._Fidelis",
+    "https://en.wikipedia.org/wiki/Fidelis_(name)"
+  ]
 }

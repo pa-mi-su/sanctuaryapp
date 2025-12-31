@@ -3,8 +3,13 @@
   "name": "Saint Stanislaus",
   "mmdd": "05-07",
   "feast": "The Seventh Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "Stanislaus of Szczepanów was a Polish Catholic prelate who served as Bishop of Kraków and was martyred by the Polish King Bolesław II the Bold. He is the patron saint of Poland.",
+  "biography": "Stanislaus of Szczepanów was a Polish Catholic prelate who served as Bishop of Kraków and was martyred by the Polish King Bolesław II the Bold. He is the patron saint of Poland.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Stanislaus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Church_of_St._Michael_the_Archangel_and_St._Stanislaus_Bishop_and_Martyr%2C_Krak%C3%B3w",
+    "https://en.wikipedia.org/wiki/Stanislaus_of_Szczepan%C3%B3w"
+  ]
 }

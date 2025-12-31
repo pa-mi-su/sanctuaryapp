@@ -7,13 +7,22 @@ import { IconSymbol } from "@/components/ui/icon-symbol";
 import { Colors } from "@/constants/theme";
 import { useColorScheme } from "@/hooks/use-color-scheme";
 
+import { useTranslation } from "react-i18next";
+
+type TabIconProps = { color: string };
+
 export default function TabLayout() {
   const colorScheme = useColorScheme();
+  const tint = Colors[colorScheme ?? "light"].tint;
+
+  const { t, i18n } = useTranslation();
 
   return (
     <Tabs
+      // Guarantees tab titles update immediately on language change
+      key={(i18n.language || "en").toLowerCase()}
       screenOptions={{
-        tabBarActiveTintColor: Colors[colorScheme ?? "light"].tint,
+        tabBarActiveTintColor: tint,
         headerShown: false,
         tabBarButton: HapticTab,
       }}
@@ -21,8 +30,8 @@ export default function TabLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: "Home",
-          tabBarIcon: ({ color }) => (
+          title: t("tabs_home"),
+          tabBarIcon: ({ color }: TabIconProps) => (
             <IconSymbol size={28} name="house.fill" color={color} />
           ),
         }}
@@ -31,8 +40,8 @@ export default function TabLayout() {
       <Tabs.Screen
         name="novenas"
         options={{
-          title: "Novenas",
-          tabBarIcon: ({ color }) => (
+          title: t("tabs_novenas"),
+          tabBarIcon: ({ color }: TabIconProps) => (
             <IconSymbol size={28} name="book.fill" color={color} />
           ),
         }}
@@ -41,8 +50,8 @@ export default function TabLayout() {
       <Tabs.Screen
         name="liturgical"
         options={{
-          title: "Liturgical",
-          tabBarIcon: ({ color }) => (
+          title: t("tabs_liturgical"),
+          tabBarIcon: ({ color }: TabIconProps) => (
             <IconSymbol size={28} name="calendar" color={color} />
           ),
         }}
@@ -51,8 +60,8 @@ export default function TabLayout() {
       <Tabs.Screen
         name="saints"
         options={{
-          title: "Saints",
-          tabBarIcon: ({ color }) => (
+          title: t("tabs_saints"),
+          tabBarIcon: ({ color }: TabIconProps) => (
             <IconSymbol size={28} name="person.3.fill" color={color} />
           ),
         }}
@@ -61,14 +70,12 @@ export default function TabLayout() {
       <Tabs.Screen
         name="about"
         options={{
-          title: "About",
-          tabBarIcon: ({ color }) => (
+          title: t("tabs_about"),
+          tabBarIcon: ({ color }: TabIconProps) => (
             <IconSymbol size={28} name="info.circle.fill" color={color} />
           ),
         }}
       />
-
-      <Tabs.Screen name="explore" options={{ href: null }} />
     </Tabs>
   );
 }

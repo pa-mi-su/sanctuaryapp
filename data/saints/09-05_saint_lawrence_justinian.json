@@ -3,8 +3,11 @@
   "name": "Saint Lawrence Justinian",
   "mmdd": "09-05",
   "feast": "The Fifth Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "Lawrence Justinian was a Venetian Catholic priest and bishop who became the first Patriarch of Venice. He is venerated as a saint by the Catholic Church.",
+  "biography": "Lawrence Justinian was a Venetian Catholic priest and bishop who became the first Patriarch of Venice. He is venerated as a saint by the Catholic Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lawrence_Justinian",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

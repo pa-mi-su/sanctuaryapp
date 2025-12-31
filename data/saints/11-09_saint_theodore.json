@@ -3,8 +3,12 @@
   "name": "Saint Theodore",
   "mmdd": "11-09",
   "feast": "The Ninth Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "Theodore the Martyr refers to the two saints Theodore of Amasea and Theodore Stratelates, two important military saints of the Byzantine period. The two saints are likely identical in origin, the veneration of Theodore of Amasea is ascertained for the late 4th century, while the tradition of Theodore Stratelates develops from that of Theodore of Amasea by the 9th century.",
+  "biography": "Theodore the Martyr refers to the two saints Theodore of Amasea and Theodore Stratelates, two important military saints of the Byzantine period.\nThe two saints are likely identical in origin, the veneration of Theodore of Amasea is ascertained for the late 4th century, while the tradition of Theodore Stratelates develops from that of Theodore of Amasea by the 9th century.\nThere is a Coptic Life of Theodore the General, which places his martyrdom in Egypt. In Coptic tradition, the saint is also known as Saint Theodore of Shwtp.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodore_the_Martyr",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Theodore_Stratelates"
+  ]
 }

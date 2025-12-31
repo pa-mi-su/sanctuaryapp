@@ -3,8 +3,12 @@
   "name": "Saint Anthimus",
   "mmdd": "12-23",
   "feast": "The Twenty-Third Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Anthimus of Nicomedia, was the bishop of Nicomedia in Bithynia, where he was beheaded during a persecution of Christians, traditionally placed under Diocletian, in which \"rivers of blood\" flowed.",
+  "biography": "Anthimus of Nicomedia, was the bishop of Nicomedia in Bithynia, where he was beheaded during a persecution of Christians, traditionally placed under Diocletian, in which \"rivers of blood\" flowed.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthimus_of_Nicomedia",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Anthimus"
+  ]
 }

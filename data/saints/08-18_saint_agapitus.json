@@ -3,8 +3,12 @@
   "name": "Saint Agapitus",
   "mmdd": "08-18",
   "feast": "The Eighteenth Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "Agapitus is venerated as a martyr saint, who died on August 18, perhaps in 274, a date that the latest editions of the Roman Martyrology say is uncertain.",
+  "biography": "Agapitus is venerated as a martyr saint, who died on August 18, perhaps in 274, a date that the latest editions of the Roman Martyrology say is uncertain.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agapitus_of_Palestrina",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Agapitus"
+  ]
 }

@@ -3,8 +3,11 @@
   "name": "Saint Cyprian",
   "mmdd": "09-14",
   "feast": "The Fourteenth Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "Cyprian was a bishop of Carthage and an early Christian writer of Berber descent, many of whose Latin works are extant. He is recognized as a saint in the Western and Eastern churches.",
+  "biography": "Cyprian was a bishop of Carthage and an early Christian writer of Berber descent, many of whose Latin works are extant. He is recognized as a saint in the Western and Eastern churches.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyprian",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

@@ -3,8 +3,11 @@
   "name": "Saint Zephirinus",
   "mmdd": "08-26",
   "feast": "The Twenty-Sixth Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "John Melchior Bosco, SDB, popularly known as Don Bosco, was an Italian Catholic priest, educator and writer. While working in Turin, where the population suffered many of the ill effects of industrialization and urbanization, he dedicated his life to the betterment and education of street children, juvenile delinquents, and other disadvantaged youth.",
+  "biography": "John Melchior Bosco, SDB, popularly known as Don Bosco, was an Italian Catholic priest, educator and writer. While working in Turin, where the population suffered many of the ill effects of industrialization and urbanization, he dedicated his life to the betterment and education of street children, juvenile delinquents, and other disadvantaged youth. He developed teaching methods based on love rather than punishment, a method that became known as the Salesian Preventive System.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Bosco",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

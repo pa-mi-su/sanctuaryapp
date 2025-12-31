@@ -3,8 +3,11 @@
   "name": "Saint Angela Merici",
   "mmdd": "05-31",
   "feast": "The Thirty-First Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "Angela Merici was an Italian Catholic religious educator who founded the Company of St. Ursula in 1535 in Brescia, in which women dedicated their lives to the service of the church through the education of girls.",
+  "biography": "Angela Merici was an Italian Catholic religious educator who founded the Company of St. Ursula in 1535 in Brescia, in which women dedicated their lives to the service of the church through the education of girls.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Angela_Merici",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

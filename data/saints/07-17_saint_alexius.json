@@ -3,8 +3,12 @@
   "name": "Saint Alexius",
   "mmdd": "07-17",
   "feast": "The Seventeenth Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "Alexius is the Latinized form of the given name Alexios, especially common in the Byzantine Empire. The female form is Alexia and its variants such as Alessia in Italian.",
+  "biography": "Alexius is the Latinized form of the given name Alexios, especially common in the Byzantine Empire. The female form is Alexia and its variants such as Alessia in Italian.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alexius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Russian_Memorial_Church_of_Saint_Alexius_(Leipzig)"
+  ]
 }

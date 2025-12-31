@@ -3,8 +3,14 @@
   "name": "Saint Anthony",
   "mmdd": "06-13",
   "feast": "The Thirteenth Day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "Fort Saint Anthony was a fort built by the Portuguese in 1515 near the town of Axim, in what is now Ghana. In 1642, the Dutch captured the fort and subsequently made it part of the Dutch Gold Coast.",
+  "biography": "Fort Saint Anthony was a fort built by the Portuguese in 1515 near the town of Axim, in what is now Ghana. In 1642, the Dutch captured the fort and subsequently made it part of the Dutch Gold Coast. The Dutch expanded the fort considerably before they turned it over, with the rest of their colony, to the British in 1872. The fort is now the property of the Ghanaian state and is open to the public.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basilica_of_Saint_Anthony_of_Padua",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/The_Torment_of_Saint_Anthony",
+    "https://en.wikipedia.org/wiki/Temptation_of_Saint_Anthony_in_visual_arts",
+    "https://en.wikipedia.org/wiki/Fort_Saint_Anthony"
+  ]
 }

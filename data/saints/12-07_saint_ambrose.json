@@ -3,8 +3,11 @@
   "name": "Saint Ambrose",
   "mmdd": "12-07",
   "feast": "The Seventh Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Ambrose of Milan, canonized as Saint Ambrose, was a theologian and statesman who served as Bishop of Milan from 374 to 397. He expressed himself prominently as a public figure, fiercely promoting Nicene Christianity against Arianism and paganism.",
+  "biography": "Ambrose of Milan, canonized as Saint Ambrose, was a theologian and statesman who served as Bishop of Milan from 374 to 397. He expressed himself prominently as a public figure, fiercely promoting Nicene Christianity against Arianism and paganism. He left a substantial collection of writings, of which the best known include the ethical commentary De officiis ministrorum (377–391), and the exegetical Exameron (386–390). His preaching, his actions and his literary works, in addition to his innovative musical hymnography, made him one of the most influential ecclesiastical figures of the 4th century.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ambrose",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

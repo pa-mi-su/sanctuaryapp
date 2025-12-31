@@ -3,8 +3,13 @@
   "name": "Saint Vincent",
   "mmdd": "01-22",
   "feast": "The Twenty-Second Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Vincent and the Grenadines, sometimes known simply as Saint Vincent or SVG, is an island country in the eastern Caribbean. It is located in the southeast Windward Islands of the Lesser Antilles, which lie in the West Indies, at the southern end of the eastern border between the Caribbean Sea and the Atlantic Ocean.",
+  "biography": "Saint Vincent and the Grenadines, sometimes known simply as Saint Vincent or SVG, is an island country in the eastern Caribbean. It is located in the southeast Windward Islands of the Lesser Antilles, which lie in the West Indies, at the southern end of the eastern border between the Caribbean Sea and the Atlantic Ocean. To the north lies Saint Lucia, to the east is Barbados, and Grenada lies to the south.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Society_of_Saint_Vincent_de_Paul",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/La_Soufri%C3%A8re_(Saint_Vincent)",
+    "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
+  ]
 }

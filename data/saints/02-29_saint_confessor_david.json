@@ -3,8 +3,14 @@
   "name": "Saint Confessor David",
   "mmdd": "02-29",
   "feast": "Leap Day (Feb 29)",
-  "summary": "",
-  "biography": "",
+  "summary": "Chariton the Confessor was an early Christian monk. He is venerated as a saint by both the Western and Eastern Churches.",
+  "biography": "Chariton the Confessor was an early Christian monk. He is venerated as a saint by both the Western and Eastern Churches. His remembrance day is September 28.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Lucy",
+    "https://en.wikipedia.org/wiki/Chariton_the_Confessor",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ]
 }

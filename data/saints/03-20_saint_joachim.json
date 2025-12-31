@@ -3,8 +3,13 @@
   "name": "Saint Joachim",
   "mmdd": "03-20",
   "feast": "The Twentieth Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint-Joachim is a commune in the Loire-Atlantique department in western France. It is in the centre of the Brière marsh, and comprises a group of \"islands\" within the marsh.",
+  "biography": "Saint-Joachim is a commune in the Loire-Atlantique department in western France. It is in the centre of the Brière marsh, and comprises a group of \"islands\" within the marsh.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Joachim",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Order_of_Saint_Joachim",
+    "https://en.wikipedia.org/wiki/Saint-Joachim"
+  ]
 }

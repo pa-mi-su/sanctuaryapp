@@ -3,8 +3,12 @@
   "name": "Saint Paul wrote to Philemon",
   "mmdd": "02-16",
   "feast": "The Sixteenth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Paul, also named Saul of Tarsus, commonly known as Paul the Apostle or Saint Paul, was a Christian apostle who spread the teachings of Jesus in the first-century AD. For his contributions towards the New Testament, he is generally regarded as one of the most important figures of the Apostolic Age, and he also founded several Christian communities in Asia Minor and Europe from the mid-40s to the mid-50s AD.",
+  "biography": "Paul, also named Saul of Tarsus, commonly known as Paul the Apostle or Saint Paul, was a Christian apostle who spread the teachings of Jesus in the first-century AD. For his contributions towards the New Testament, he is generally regarded as one of the most important figures of the Apostolic Age, and he also founded several Christian communities in Asia Minor and Europe from the mid-40s to the mid-50s AD.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paul_the_Apostle",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ]
 }

@@ -3,8 +3,14 @@
   "name": "Saint Gregory",
   "mmdd": "03-12",
   "feast": "The Twelfth Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Pope Gregory I, commonly known as Saint Gregory the Great, was the 64th Bishop of Rome from 3 September 590 until his death on 12 March 604. He is known for instituting the first recorded large-scale mission from Rome, the Gregorian mission, to convert the then largely pagan Anglo-Saxons to Christianity.",
+  "biography": "Pope Gregory I, commonly known as Saint Gregory the Great, was the 64th Bishop of Rome from 3 September 590 until his death on 12 March 604. He is known for instituting the first recorded large-scale mission from Rome, the Gregorian mission, to convert the then largely pagan Anglo-Saxons to Christianity. Gregory is also well known for his writings, which were more prolific than those of any of the previous popes. The epithet Saint Gregory the Dialogist has been attached to him in Eastern Christianity because of his Dialogues. English translations of Eastern texts sometimes list him as Gregory \"Dialogos\" from the Greek διάλογος, or the Anglo-Latinate equivalent \"Dialogus\". He is the second of the three Popes listed in the Annuario Pontificio with the title \"the Great\", alongside Popes Leo I and Nicholas I.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Gregory_I",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Gregory_Thaumaturgus",
+    "https://en.wikipedia.org/wiki/Mass_of_Saint_Gregory",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

@@ -3,8 +3,12 @@
   "name": "our Lady of Ransom",
   "mmdd": "09-24",
   "feast": "The Twenty-Fourth Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "The Scapular of Our Lady of Mercy is a Catholic devotional scapular that traces its roots to the Order of the Blessed Virgin Mary of Mercy also known as Our Lady of Ransom which was founded by St. Peter Nolasco in the city of Barcelona, at that time in the Kingdom of Aragon, for the redemption of Christian captives.",
+  "biography": "The Scapular of Our Lady of Mercy is a Catholic devotional scapular that traces its roots to the Order of the Blessed Virgin Mary of Mercy also known as Our Lady of Ransom which was founded by St. Peter Nolasco in the city of Barcelona, at that time in the Kingdom of Aragon, for the redemption of Christian captives.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scapular_of_Our_Lady_of_Ransom",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Feast_of_Our_Lady_of_Ransom"
+  ]
 }

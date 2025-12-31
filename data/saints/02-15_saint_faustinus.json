@@ -3,8 +3,15 @@
   "name": "Saint Faustinus",
   "mmdd": "02-15",
   "feast": "The Fifteenth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Faustinus was bishop of Brescia from c. 360, succeeding Ursicinus. His feast day in the Roman Catholic Church is 15 February: 16 February in the Orthodox Church.",
+  "biography": "Faustinus was bishop of Brescia from c. 360, succeeding Ursicinus. His feast day in the Roman Catholic Church is 15 February: 16 February in the Orthodox Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Faustinus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Faustinus_and_Jovita",
+    "https://en.wikipedia.org/wiki/Ark_of_Saints_Faustinus_and_Jovita",
+    "https://en.wikipedia.org/wiki/Faustinus_of_Brescia",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ]
 }

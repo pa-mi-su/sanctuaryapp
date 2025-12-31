@@ -3,8 +3,12 @@
   "name": "Saint Tryphon",
   "mmdd": "07-03",
   "feast": "The Third Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "Tryphon of Constantinople was a 10th-century Ecumenical Patriarch of Constantinople. He is venerated as a saint in the Eastern Orthodox Church.",
+  "biography": "Tryphon of Constantinople was a 10th-century Ecumenical Patriarch of Constantinople. He is venerated as a saint in the Eastern Orthodox Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tryphon%2C_Respicius%2C_and_Nympha",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Tryphon_of_Constantinople"
+  ]
 }

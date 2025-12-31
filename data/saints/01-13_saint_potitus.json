@@ -3,8 +3,12 @@
   "name": "Saint Potitus",
   "mmdd": "01-13",
   "feast": "The Thirteenth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Potitus was an early Christian martyr, venerated as a saint by the Roman Catholic Church and the Eastern Orthodox Church on 14 January.",
+  "biography": "Potitus was an early Christian martyr, venerated as a saint by the Roman Catholic Church and the Eastern Orthodox Church on 14 January.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Potitus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ]
 }

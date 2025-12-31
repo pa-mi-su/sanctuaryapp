@@ -3,8 +3,13 @@
   "name": "Saint Elizabeth",
   "mmdd": "11-05",
   "feast": "The Fifth Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "Elizabeth of Portugal, also known as Elizabeth of Aragon, was Queen of Portugal from 1282 to 1325 as the wife of King Denis. She is venerated as a saint in the Catholic Church, under the name Saint Elizabeth of Portugal or Queen Saint Elizabeth.",
+  "biography": "Elizabeth of Portugal, also known as Elizabeth of Aragon, was Queen of Portugal from 1282 to 1325 as the wife of King Denis. She is venerated as a saint in the Catholic Church, under the name Saint Elizabeth of Portugal or Queen Saint Elizabeth.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elizabeth_of_Portugal",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Sisters_of_Saint_Elizabeth",
+    "https://en.wikipedia.org/wiki/Saint_Elizabeth_Parish"
+  ]
 }

@@ -3,8 +3,13 @@
   "name": "Saint Andrew",
   "mmdd": "11-30",
   "feast": "The Thirtieth Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Andrew's Day, also called the Feast of Saint Andrew or Andermas, is the feast day of Andrew the Apostle. It is celebrated on 30 November, during Scotland's Winter Festival.",
+  "biography": "Saint Andrew's Day, also called the Feast of Saint Andrew or Andermas, is the feast day of Andrew the Apostle. It is celebrated on 30 November, during Scotland's Winter Festival. Saint Andrew is the disciple in the New Testament who introduced his brother, the Apostle Peter, to Jesus, the Messiah.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Andrew's_Day",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/The_Martyrdom_of_Saint_Andrew",
+    "https://en.wikipedia.org/wiki/Andrew_the_Apostle"
+  ]
 }

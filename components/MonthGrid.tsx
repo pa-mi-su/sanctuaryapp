@@ -27,6 +27,8 @@ import Animated, {
   useAnimatedStyle,
 } from "react-native-reanimated";
 
+import { useTranslation } from "react-i18next";
+
 const SCREEN_PADDING = 16;
 const CELL_MARGIN = 4;
 const NUM_COLS = 7;
@@ -36,7 +38,8 @@ const availableWidth = width - SCREEN_PADDING * 2 - CELL_MARGIN * 2 * NUM_COLS;
 const DAY_SIZE = availableWidth / NUM_COLS;
 const DAY_HEIGHT = 70;
 
-const MONTHS = [
+// Months / weekdays per language
+const MONTHS_EN = [
   "January",
   "February",
   "March",
@@ -51,17 +54,69 @@ const MONTHS = [
   "December",
 ];
 
-type DayMeta = {
+const MONTHS_ES = [
+  "Enero",
+  "Febrero",
+  "Marzo",
+  "Abril",
+  "Mayo",
+  "Junio",
+  "Julio",
+  "Agosto",
+  "Septiembre",
+  "Octubre",
+  "Noviembre",
+  "Diciembre",
+];
+
+const MONTHS_PL = [
+  "Styczeń",
+  "Luty",
+  "Marzec",
+  "Kwiecień",
+  "Maj",
+  "Czerwiec",
+  "Lipiec",
+  "Sierpień",
+  "Wrzesień",
+  "Październik",
+  "Listopad",
+  "Grudzień",
+];
+
+const MONTHS_TL = [
+  "Enero",
+  "Pebrero",
+  "Marso",
+  "Abril",
+  "Mayo",
+  "Hunyo",
+  "Hulyo",
+  "Agosto",
+  "Setyembre",
+  "Oktubre",
+  "Nobyembre",
+  "Disyembre",
+];
+
+// Sunday-first: Sun..Sat
+const WEEKDAYS_EN = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const WEEKDAYS_ES = ["Dom", "Lun", "Mar", "Mié", "Jue", "Vie", "Sáb"];
+const WEEKDAYS_PL = ["Nd", "Pn", "Wt", "Śr", "Cz", "Pt", "Sb"];
+const WEEKDAYS_TL = ["Lin", "Lun", "Mar", "Miy", "Huw", "Biy", "Sab"];
+
+/**
+ * NOTE:
+ * We intentionally allow `tone` to be `string` so callers don’t have to
+ * fight TypeScript inference (it was returning `tone: string`).
+ * MonthGrid normalizes tone to: "primary" | "secondary" | "none".
+ */
+export type DayMeta = {
   hasEvent?: boolean;
   badgeText?: string | null;
-
-  /**
-   * Optional style hint from the tab.
-   * - "primary": strong highlight (e.g., Novena starts)
-   * - "secondary": medium highlight (e.g., Feast day)
-   * - "none": default
-   */
-  tone?: "primary" | "secondary" | "none";
+  tone?: "primary" | "secondary" | "none" | string;
+  outlineColor?: string;
+  outlineWidth?: number;
 };
 
 type DayItem = {
@@ -90,13 +145,23 @@ function getTodayKeyLocal() {
   return toDateKey(now.getFullYear(), now.getMonth() + 1, now.getDate());
 }
 
+function normalizeTone(
+  tone: DayMeta["tone"],
+): "primary" | "secondary" | "none" {
+  if (tone === "primary") return "primary";
+  if (tone === "secondary") return "secondary";
+  return "none";
+}
+
 function DayCell({
   item,
   onPress,
+  onLongPress,
   isToday,
 }: {
   item: DayItem;
   onPress: () => void;
+  onLongPress?: () => void;
   isToday: boolean;
 }) {
   const scale = useSharedValue(1);
@@ -115,7 +180,8 @@ function DayCell({
 
   const meta = item.meta ?? {};
   const hasEvent = !!meta.hasEvent;
-  const tone = meta.tone ?? (hasEvent ? "secondary" : "none");
+
+  const tone = normalizeTone(meta.tone ?? (hasEvent ? "secondary" : "none"));
 
   const bg =
     tone === "primary"
@@ -124,19 +190,22 @@ function DayCell({
         ? "rgba(255,255,255,0.22)"
         : "rgba(255,255,255,0.14)";
 
-  const borderWidth = tone === "none" ? 1 : 2;
+  const baseBorderWidth = tone === "primary" ? 2 : tone === "secondary" ? 2 : 1;
+
+  const borderWidth =
+    typeof meta.outlineWidth === "number" ? meta.outlineWidth : baseBorderWidth;
+
   const borderColor =
-    tone === "primary"
-      ? "#fff"
+    meta.outlineColor ??
+    (tone === "primary"
+      ? "rgba(255,255,255,0.95)"
       : tone === "secondary"
-        ? "rgba(255,255,255,0.85)"
-        : "rgba(255,255,255,0.3)";
+        ? "rgba(255,255,255,0.65)"
+        : "rgba(255,255,255,0.28)");
 
   const label = meta.badgeText ? String(meta.badgeText) : null;
 
-  // ✅ "Today" highlight: subtle ring + small dot, does not override tone styles
-  const todayRingWidth = isToday ? 2 : 0;
-  const todayRingColor = isToday ? "rgba(255, 215, 0, 0.95)" : "transparent"; // gold-ish
+  const showTodayRing = isToday;
 
   return (
     <Animated.View
@@ -149,6 +218,8 @@ function DayCell({
         onPressIn={() => (scale.value = withSpring(0.95))}
         onPressOut={() => (scale.value = withSpring(1))}
         onPress={onPress}
+        onLongPress={onLongPress}
+        delayLongPress={350}
         style={{
           flex: 1,
           borderRadius: 12,
@@ -162,19 +233,18 @@ function DayCell({
           position: "relative",
         }}
       >
-        {/* Today ring overlay */}
-        {isToday ? (
+        {showTodayRing ? (
           <View
             pointerEvents="none"
             style={{
               position: "absolute",
-              top: 2,
-              left: 2,
-              right: 2,
-              bottom: 2,
-              borderRadius: 12,
-              borderWidth: todayRingWidth,
-              borderColor: todayRingColor,
+              top: 3,
+              left: 3,
+              right: 3,
+              bottom: 3,
+              borderRadius: 10,
+              borderWidth: 1,
+              borderColor: "rgba(255,255,255,0.55)",
             }}
           />
         ) : null}
@@ -183,24 +253,8 @@ function DayCell({
           {item.day}
         </Text>
 
-        {/* Today dot */}
-        {isToday ? (
-          <View
-            pointerEvents="none"
-            style={{
-              marginTop: 4,
-              width: 6,
-              height: 6,
-              borderRadius: 999,
-              backgroundColor: "rgba(255, 215, 0, 0.95)",
-            }}
-          />
-        ) : (
-          <View style={{ marginTop: 4, width: 6, height: 6 }} />
-        )}
-
         {label ? (
-          <View style={{ marginTop: 2, height: 22, justifyContent: "center" }}>
+          <View style={{ marginTop: 6, height: 22, justifyContent: "center" }}>
             <Text
               style={{
                 color: "white",
@@ -214,7 +268,9 @@ function DayCell({
               {label}
             </Text>
           </View>
-        ) : null}
+        ) : (
+          <View style={{ marginTop: 6, height: 22 }} />
+        )}
       </TouchableOpacity>
     </Animated.View>
   );
@@ -224,15 +280,39 @@ export function MonthGrid({
   currentDate,
   onChangeDate,
   onPressDate,
+  onLongPressDate,
   getDayMeta,
   headerTitle,
 }: {
   currentDate: Date;
   onChangeDate: (next: Date) => void;
   onPressDate: (dateKey: string) => void;
+  onLongPressDate?: (dateKey: string) => void;
   getDayMeta: (dateKey: string) => DayMeta;
   headerTitle?: string;
 }) {
+  const { t, i18n } = useTranslation();
+
+  const lang = (i18n.language || "en").toLowerCase();
+  const isEs = lang.startsWith("es");
+  const isPl = lang.startsWith("pl");
+  const isTl = lang.startsWith("tl");
+
+  const MONTHS = isEs
+    ? MONTHS_ES
+    : isPl
+      ? MONTHS_PL
+      : isTl
+        ? MONTHS_TL
+        : MONTHS_EN;
+  const WEEKDAYS = isEs
+    ? WEEKDAYS_ES
+    : isPl
+      ? WEEKDAYS_PL
+      : isTl
+        ? WEEKDAYS_TL
+        : WEEKDAYS_EN;
+
   const [jumpOpen, setJumpOpen] = useState(false);
   const [tempMonth, setTempMonth] = useState(() => new Date().getMonth());
   const [tempYear, setTempYear] = useState(() => new Date().getFullYear());
@@ -320,7 +400,7 @@ export function MonthGrid({
             paddingVertical: 6,
           }}
           accessibilityRole="button"
-          accessibilityLabel="Change month and year"
+          accessibilityLabel={t("monthgrid_change_month_year")}
         >
           <Text
             variant="headlineMedium"
@@ -335,11 +415,11 @@ export function MonthGrid({
 
           {headerTitle ? (
             <Text style={{ color: "white", opacity: 0.85, fontSize: 12 }}>
-              {headerTitle} • Tap to jump
+              {headerTitle} • {t("monthgrid_tap_to_jump")}
             </Text>
           ) : (
             <Text style={{ color: "white", opacity: 0.75, fontSize: 12 }}>
-              Tap to jump
+              {t("monthgrid_tap_to_jump")}
             </Text>
           )}
         </TouchableOpacity>
@@ -360,7 +440,7 @@ export function MonthGrid({
 
       {/* Weekday Labels */}
       <View style={{ flexDirection: "row", marginBottom: 8 }}>
-        {["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"].map((d) => (
+        {WEEKDAYS.map((d) => (
           <View
             key={d}
             style={{
@@ -396,6 +476,11 @@ export function MonthGrid({
               if (!item.dateKey || item.empty) return;
               onPressDate(item.dateKey);
             }}
+            onLongPress={
+              item.dateKey && !item.empty && onLongPressDate
+                ? () => onLongPressDate(item.dateKey!)
+                : undefined
+            }
           />
         )}
         scrollEnabled={false}
@@ -416,10 +501,10 @@ export function MonthGrid({
           <Card style={{ borderRadius: 20 }}>
             <Card.Content>
               <Text variant="titleLarge" style={{ fontWeight: "800" }}>
-                Jump to month
+                {t("monthgrid_jump_title")}
               </Text>
               <Text style={{ marginTop: 4, opacity: 0.65 }}>
-                Select a month, then adjust the year.
+                {t("monthgrid_jump_subtitle")}
               </Text>
 
               <Divider style={{ marginVertical: 12 }} />
@@ -434,6 +519,7 @@ export function MonthGrid({
                 <IconButton
                   icon="minus"
                   onPress={() => setTempYear((y) => clampYear(y - 1))}
+                  accessibilityLabel={t("monthgrid_year_decrease")}
                 />
                 <Text style={{ fontSize: 20, fontWeight: "800" }}>
                   {tempYear}
@@ -441,6 +527,7 @@ export function MonthGrid({
                 <IconButton
                   icon="plus"
                   onPress={() => setTempYear((y) => clampYear(y + 1))}
+                  accessibilityLabel={t("monthgrid_year_increase")}
                 />
               </View>
 
@@ -453,7 +540,7 @@ export function MonthGrid({
               >
                 {MONTHS.map((m, i) => (
                   <Button
-                    key={m}
+                    key={`${m}-${i}`}
                     mode={i === tempMonth ? "contained" : "outlined"}
                     style={{ width: "30%", margin: "1.5%" }}
                     onPress={() => setTempMonth(i)}
@@ -471,7 +558,7 @@ export function MonthGrid({
                   setJumpOpen(false);
                 }}
               >
-                Apply
+                {t("monthgrid_apply")}
               </Button>
 
               <Button
@@ -479,7 +566,7 @@ export function MonthGrid({
                 style={{ marginTop: 6 }}
                 onPress={() => setJumpOpen(false)}
               >
-                Cancel
+                {t("monthgrid_cancel")}
               </Button>
             </Card.Content>
           </Card>

@@ -3,8 +3,13 @@
   "name": "Saint John the Baptist",
   "mmdd": "01-16",
   "feast": "The Sixteenth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "The Virgin and Child with Saint Anne and Saint John the Baptist, sometimes called the Burlington House Cartoon, is a drawing by Leonardo da Vinci. The drawing is in charcoal and black and white chalk, on eight sheets of paper that are glued together.",
+  "biography": "The Virgin and Child with Saint Anne and Saint John the Baptist, sometimes called the Burlington House Cartoon, is a drawing by Leonardo da Vinci. The drawing is in charcoal and black and white chalk, on eight sheets of paper that are glued together. Because of its large size and format the drawing is presumed to be a cartoon for a painting. No painting by Leonardo exists that is based directly on this cartoon, although the drawing may have been in preparation for a now lost or unexecuted painting commissioned by Louis XII. The drawing is the only extant larger-scale drawing by the artist.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Baptist",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Church_of_Saint_John_the_Baptist%2C_Ein_Karem",
+    "https://en.wikipedia.org/wiki/The_Virgin_and_Child_with_Saint_Anne_and_Saint_John_the_Baptist"
+  ]
 }

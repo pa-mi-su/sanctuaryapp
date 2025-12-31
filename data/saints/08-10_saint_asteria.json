@@ -3,8 +3,12 @@
   "name": "Saint Asteria",
   "mmdd": "08-10",
   "feast": "The Tenth Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "Asterias amurensis, also known as the Northern Pacific seastar and Japanese common starfish, is a seastar found in shallow seas and estuaries, native to the coasts of northern China, Korea, far eastern Russia, Japan, Alaska, the Aleutian Islands and British Columbia in Canada. Two forms are recognised: the nominate and forma robusta from the Strait of Tartary.",
+  "biography": "Asterias amurensis, also known as the Northern Pacific seastar and Japanese common starfish, is a seastar found in shallow seas and estuaries, native to the coasts of northern China, Korea, far eastern Russia, Japan, Alaska, the Aleutian Islands and British Columbia in Canada. Two forms are recognised: the nominate and forma robusta from the Strait of Tartary. It mostly preys on large bivalve molluscs, and it is mostly preyed on by other species of starfish. Population booms in Japan can affect the harvest of mariculture operations and are costly to combat.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Grata_of_Bergamo",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Asterias_amurensis"
+  ]
 }

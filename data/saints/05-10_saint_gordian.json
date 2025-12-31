@@ -3,8 +3,12 @@
   "name": "Saint Gordian",
   "mmdd": "05-10",
   "feast": "The Tenth Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "Gordianus was a Roman martyr who was killed during the reign of Julian the Apostate, and is commemorated on 10 May.",
+  "biography": "Gordianus was a Roman martyr who was killed during the reign of Julian the Apostate, and is commemorated on 10 May.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gordian",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Gordianus"
+  ]
 }

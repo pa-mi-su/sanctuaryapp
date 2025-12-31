@@ -3,8 +3,12 @@
   "name": "Saint Felix",
   "mmdd": "10-24",
   "feast": "The Twenty-Fourth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Felix School is a 2–18 mixed, private, day and boarding school in Reydon, Southwold, Suffolk, England. The school was founded in 1897 as a school for girls but is now co-educational.",
+  "biography": "Saint Felix School is a 2–18 mixed, private, day and boarding school in Reydon, Southwold, Suffolk, England. The school was founded in 1897 as a school for girls but is now co-educational.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Felix_IV",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Felix_School"
+  ]
 }

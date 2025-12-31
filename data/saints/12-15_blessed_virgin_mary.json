@@ -3,8 +3,12 @@
   "name": "Blessed Virgin Mary",
   "mmdd": "12-15",
   "feast": "The Fifteenth Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "The Litany of the Blessed Virgin Mary is a Marian litany originally approved in 1587 by Pope Sixtus V. It is also known as the Litany of Loreto, after its first-known place of origin, the Shrine of Our Lady of Loreto in Italy, where its usage was recorded as early as 1558.",
+  "biography": "The Litany of the Blessed Virgin Mary is a Marian litany originally approved in 1587 by Pope Sixtus V. It is also known as the Litany of Loreto, after its first-known place of origin, the Shrine of Our Lady of Loreto in Italy, where its usage was recorded as early as 1558.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Litany_of_the_Blessed_Virgin_Mary",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Espousals_of_the_Blessed_Virgin_Mary"
+  ]
 }

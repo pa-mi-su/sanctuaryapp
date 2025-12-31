@@ -3,8 +3,14 @@
   "name": "Saint Frances",
   "mmdd": "03-09",
   "feast": "The Ninth day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Frances Xavier Cabrini, also known as Mother Cabrini, was a prominent Italian-American religious sister in the Roman Catholic Church. She was the first American to be recognized by the Catholic Church as a saint.",
+  "biography": "Frances Xavier Cabrini, also known as Mother Cabrini, was a prominent Italian-American religious sister in the Roman Catholic Church. She was the first American to be recognized by the Catholic Church as a saint.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frances",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal",
+    "https://en.wikipedia.org/wiki/Frances_Xavier_Cabrini",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

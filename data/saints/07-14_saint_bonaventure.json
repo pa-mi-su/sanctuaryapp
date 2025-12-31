@@ -3,8 +3,13 @@
   "name": "Saint Bonaventure",
   "mmdd": "07-14",
   "feast": "The Fourteenth Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "The Église Saint-Bonaventure is one of the churches of the quarter Presqu'île, located on the Place des Cordeliers, in the 2nd arrondissement of Lyon. This is the only medieval building not demolished after the creation of the rue Impériale, under the Second Empire by the prefect Claude-Marius Vaïsse.",
+  "biography": "The Église Saint-Bonaventure is one of the churches of the quarter Presqu'île, located on the Place des Cordeliers, in the 2nd arrondissement of Lyon. This is the only medieval building not demolished after the creation of the rue Impériale, under the Second Empire by the prefect Claude-Marius Vaïsse.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bonaventure",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/%C3%89glise_Saint-Bonaventure",
+    "https://en.wikipedia.org/wiki/St._Bonaventure_High_School"
+  ]
 }

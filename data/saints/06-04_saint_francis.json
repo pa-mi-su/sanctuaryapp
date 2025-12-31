@@ -3,8 +3,14 @@
   "name": "Saint Francis",
   "mmdd": "06-04",
   "feast": "The Fourth Day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "The anonymous text that is usually called the Prayer of Saint Francis is a widely known Christian prayer for peace. Often associated with the Italian Saint Francis of Assisi, but entirely absent from his writings, the prayer in its present form has not been traced back further than 1912.",
+  "biography": "The anonymous text that is usually called the Prayer of Saint Francis is a widely known Christian prayer for peace. Often associated with the Italian Saint Francis of Assisi, but entirely absent from his writings, the prayer in its present form has not been traced back further than 1912. Its first known occurrence was in French, in a small spiritual magazine called La Clochette, published by a Catholic organization in Paris named La Ligue de la Sainte-Messe. The author's name was not given, although it may have been the founder of La Ligue, Father Esther Bouquerel. The prayer was heavily publicized during both World War I and World War II. It has been frequently set to music by notable songwriters and quoted by prominent leaders, and its broadly inclusive language has found appeal with many faiths encouraging service to others.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/University_of_Saint_Francis",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Basilica_of_Saint_Francis_of_Assisi",
+    "https://en.wikipedia.org/wiki/Saint_Francis_Academy",
+    "https://en.wikipedia.org/wiki/Prayer_of_Saint_Francis"
+  ]
 }

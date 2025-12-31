@@ -3,8 +3,12 @@
   "name": "Saint Martha",
   "mmdd": "07-29",
   "feast": "The Twenty-Ninth Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "Martha is a biblical figure described in the Gospels of Luke and John. Together with her siblings Lazarus and Mary of Bethany, she is described as living in the village of Bethany near Jerusalem and witnessing Jesus resurrecting her brother, Lazarus.",
+  "biography": "Martha is a biblical figure described in the Gospels of Luke and John. Together with her siblings Lazarus and Mary of Bethany, she is described as living in the village of Bethany near Jerusalem and witnessing Jesus resurrecting her brother, Lazarus.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marius%2C_Martha%2C_Audifax%2C_and_Abachum",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Martha"
+  ]
 }

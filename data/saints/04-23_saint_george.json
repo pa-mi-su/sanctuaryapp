@@ -3,8 +3,13 @@
   "name": "Saint George",
   "mmdd": "04-23",
   "feast": "The Twenty-Third Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint George, also George of Lydda, was an early Christian martyr, born in Cappadocia in Anatolia, who is venerated as a saint. According to holy tradition, he was a soldier in the Roman army.",
+  "biography": "Saint George, also George of Lydda, was an early Christian martyr, born in Cappadocia in Anatolia, who is venerated as a saint. According to holy tradition, he was a soldier in the Roman army. Saint George’s mother Saint Polychronia is believed to have come from Syria Palaestina and his father Saint Gerontios is believed to be of Syrian Cappadocian origin. He became a member of the Praetorian Guard for Roman emperor Diocletian, but was executed as part of the Diocletianic persecution. He is one of the most venerated saints, heroes, and megalomartyrs in Christianity, and he has been especially venerated as a military saint since the Crusades. He is also prominently venerated by the Druze, and by some Muslim groups, as a martyr of monotheistic faith.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_George",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_George's_Day",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

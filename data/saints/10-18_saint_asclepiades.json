@@ -3,8 +3,11 @@
   "name": "Saint Asclepiades",
   "mmdd": "10-18",
   "feast": "The Eighteenth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "Asclepiades of Antioch called the Confessor, was Patriarch of Antioch from 211 until his death. He succeeded Serapion as Patriarch of Antioch in 211.",
+  "biography": "Asclepiades of Antioch called the Confessor, was Patriarch of Antioch from 211 until his death. He succeeded Serapion as Patriarch of Antioch in 211. He was given the title of martyr, due to the trials he endured during Roman persecution.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Asclepiades_of_Antioch",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

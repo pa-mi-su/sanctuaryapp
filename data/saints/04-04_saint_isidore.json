@@ -3,8 +3,13 @@
   "name": "Saint Isidore",
   "mmdd": "04-04",
   "feast": "The Fourth Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Isidore the Laborer, born Isidro de Merlo y Quintana, also known as Isidore the Farmer, was a Mozarab farmworker who lived in medieval Madrid. Known for his piety toward the poor and animals, he is venerated as a Catholic patron saint of farmers, and of Madrid; El Gobernador, Jalisco; Condiro Jalisco, La Ceiba, Honduras; and of Tocoa, Honduras.",
+  "biography": "Isidore the Laborer, born Isidro de Merlo y Quintana, also known as Isidore the Farmer, was a Mozarab farmworker who lived in medieval Madrid. Known for his piety toward the poor and animals, he is venerated as a Catholic patron saint of farmers, and of Madrid; El Gobernador, Jalisco; Condiro Jalisco, La Ceiba, Honduras; and of Tocoa, Honduras. His feast day is celebrated on 15 May.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isidore",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Isidore_the_Laborer",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

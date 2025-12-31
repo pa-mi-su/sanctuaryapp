@@ -3,8 +3,11 @@
   "name": "Saint Eusebius",
   "mmdd": "12-02",
   "feast": "The Second Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Eusebius of Caesarea, also known as Eusebius Pamphilius, was a historian of Christianity, exegete, and Christian polemicist from the Roman province of Syria Palaestina. In about AD 314 he became the bishop of Caesarea Maritima.",
+  "biography": "Eusebius of Caesarea, also known as Eusebius Pamphilius, was a historian of Christianity, exegete, and Christian polemicist from the Roman province of Syria Palaestina. In about AD 314 he became the bishop of Caesarea Maritima.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eusebius",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

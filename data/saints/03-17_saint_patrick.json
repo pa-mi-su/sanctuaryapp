@@ -3,8 +3,12 @@
   "name": "Saint Patrick",
   "mmdd": "03-17",
   "feast": "The Seventeenth Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Patrick was a fifth-century Romano-British Christian missionary and bishop in Ireland. Known as the \"Apostle of Ireland\", he is the primary patron saint of Ireland, the other patron saints being Brigid of Kildare and Columba.",
+  "biography": "Saint Patrick was a fifth-century Romano-British Christian missionary and bishop in Ireland. Known as the \"Apostle of Ireland\", he is the primary patron saint of Ireland, the other patron saints being Brigid of Kildare and Columba. He is also the patron saint of Nigeria. Patrick was never formally canonised by the Catholic Church, having lived before the current laws were established for such matters. He is venerated as a saint in the Catholic Church, the Lutheran Church, the Church of Ireland, and in the Eastern Orthodox Church, where he is regarded as equal-to-the-apostles and Enlightener of Ireland.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Patrick",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

@@ -3,8 +3,13 @@
   "name": "Saint Scholastica",
   "mmdd": "02-10",
   "feast": "The Tenth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Scholastica was an Italian Christian consecrated virgin and the sister of Benedict of Nursia. She is traditionally regarded as the foundress of the Benedictine nuns.",
+  "biography": "Scholastica was an Italian Christian consecrated virgin and the sister of Benedict of Nursia. She is traditionally regarded as the foundress of the Benedictine nuns. Scholastica is honored as a saint of the Catholic Church, Eastern Orthodox Church and Anglican Communion. She was born in Italy, and a ninth-century tradition makes her the twin sister of Benedict. Her feast day is 10 February.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scholastica",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

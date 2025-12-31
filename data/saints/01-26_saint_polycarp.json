@@ -3,8 +3,13 @@
   "name": "Saint Polycarp",
   "mmdd": "01-26",
   "feast": "The Twenty-Sixth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Polycarp was a Christian bishop of Smyrna. According to the Martyrdom of Polycarp, he died a martyr, bound and burned at the stake, then stabbed when the fire failed to consume his body.",
+  "biography": "Polycarp was a Christian bishop of Smyrna. According to the Martyrdom of Polycarp, he died a martyr, bound and burned at the stake, then stabbed when the fire failed to consume his body. Polycarp is regarded as a saint and Church Father in the Eastern Orthodox Church, the Catholic Church, Oriental Orthodox Churches, Lutheranism, and Anglicanism.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polycarp",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

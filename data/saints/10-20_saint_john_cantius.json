@@ -3,8 +3,12 @@
   "name": "Saint John Cantius",
   "mmdd": "10-20",
   "feast": "The Twentieth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "John Cantius was a Polish Catholic priest, scholastic philosopher, physicist and theologian.",
+  "biography": "John Cantius was a Polish Catholic priest, scholastic philosopher, physicist and theologian.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._John_Cantius_Church_(Chicago)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/John_Cantius"
+  ]
 }

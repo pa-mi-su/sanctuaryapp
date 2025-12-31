@@ -3,8 +3,12 @@
   "name": "Saint Almachius",
   "mmdd": "01-01",
   "feast": "The First Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Telemachus was a monk who, according to the Church historian Theodoret, tried to stop a gladiatorial fight in a Roman amphitheatre, and was stoned to death by the crowd. The Christian Emperor Honorius, however, was impressed by the monk's martyrdom and it spurred him to issue a historic ban on gladiatorial fights.",
+  "biography": "Saint Telemachus was a monk who, according to the Church historian Theodoret, tried to stop a gladiatorial fight in a Roman amphitheatre, and was stoned to death by the crowd. The Christian Emperor Honorius, however, was impressed by the monk's martyrdom and it spurred him to issue a historic ban on gladiatorial fights. Frederick George Holweck gives the year of his death as 391.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Telemachus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity validation and disambiguation."
+  ]
 }

@@ -3,8 +3,12 @@
   "name": "Saint Caius",
   "mmdd": "03-10",
   "feast": "The Tenth Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "In Latin, Caius is an archaic spelling of the Latin praenomen Gaius, pronounced /ga:ius/. In early Latin, the letter C was used for both /g/ and /k/; and the names Gaius and Gnaeus were spelt Caius and Cnaius and continued to be so in inscriptions, after the letter G was introduced, and C was confined to the /k/ sound.",
+  "biography": "In Latin, Caius is an archaic spelling of the Latin praenomen Gaius, pronounced /ga:ius/. In early Latin, the letter C was used for both /g/ and /k/; and the names Gaius and Gnaeus were spelt Caius and Cnaius and continued to be so in inscriptions, after the letter G was introduced, and C was confined to the /k/ sound. Notably, the name of Gaius Iulius Caesar is abbreviated CIC.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Pope_Caius"
+  ]
 }

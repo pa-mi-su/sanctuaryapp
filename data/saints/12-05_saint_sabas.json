@@ -3,8 +3,13 @@
   "name": "Saint Sabas",
   "mmdd": "12-05",
   "feast": "The Fifth Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Julian Sabas was a hermit who spent most of his life in deserted parts of Syria, but left his cell for a short period to denounce Arianism. His feast day is 14 January or 18 October in the Roman Church.",
+  "biography": "Saint Julian Sabas was a hermit who spent most of his life in deserted parts of Syria, but left his cell for a short period to denounce Arianism.\nHis feast day is 14 January or 18 October in the Roman Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/War_of_Saint_Sabas",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Sabas",
+    "https://en.wikipedia.org/wiki/Julian_Sabas"
+  ]
 }

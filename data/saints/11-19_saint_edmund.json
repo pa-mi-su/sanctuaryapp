@@ -3,8 +3,12 @@
   "name": "Saint Edmund",
   "mmdd": "11-19",
   "feast": "The Nineteenth Day of November",
-  "summary": "",
-  "biography": "",
+  "summary": "Edmund is a masculine given name in the English language. The name is derived from the Old English elements ēad, meaning \"prosperity\" or \"riches\", and mund, meaning \"protector\".",
+  "biography": "Edmund is a masculine given name in the English language. The name is derived from the Old English elements ēad, meaning \"prosperity\" or \"riches\", and mund, meaning \"protector\".",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bury_St_Edmunds",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Edmund"
+  ]
 }

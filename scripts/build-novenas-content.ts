@@ -8,13 +8,16 @@ type Rule =
   | { type: "fixed"; month: number; day: number }
   | { type: "anchor"; anchor: string }
   | { type: "relative"; anchor: string; offsetDays: number; weekday?: number }
+  | { type: "nth_weekday_after"; anchor: string; weekday: number; n: number }
+  | { type: "before_feast"; daysBefore: number }
   | { type: "raw"; text: string };
 
 type NovenaIndexEntry = {
   id: string;
   title: string;
-  startRule: Rule;
+  startRule?: Rule;
   feastRule: Rule;
+  durationDays?: number;
   category: string;
   tags: string[];
   description: string | null;
@@ -38,8 +41,14 @@ type NovenaContent = {
   description: string | null;
   category?: string;
   tags?: string[];
+
+  // optional now
   startRule?: Rule;
   feastRule?: Rule;
+
+  // inclusive duration (optional; runtime can default to 9)
+  durationDays?: number;
+
   source?: { url: string; pageUrl?: string };
   days: NovenaDay[];
 };
@@ -100,11 +109,8 @@ function buildTitleToPageUrlMap(listHtml: string): Map<string, string> {
     if (!href || !text) return;
 
     const url = absUrl(href);
-
-    // We only want the content pages
     if (!url.includes("catholicnovenaapp.com/novenas/")) return;
 
-    // Many nav links exist; we want actual novena titles (not menus)
     if (text.toLowerCase().includes("permalink")) return;
     if (text.toLowerCase().includes("browse")) return;
     if (text.toLowerCase().includes("quick links")) return;
@@ -112,7 +118,6 @@ function buildTitleToPageUrlMap(listHtml: string): Map<string, string> {
     const key = normalizeTitleForMatch(text);
     if (!key) return;
 
-    // First win is fine; you can log collisions later if needed
     if (!map.has(key)) map.set(key, url);
   });
 
@@ -123,7 +128,6 @@ function buildTitleToPageUrlMap(listHtml: string): Map<string, string> {
  * Extract days from a novena page:
  * - find headings like "Day 1", "Day 2", ...
  * - collect text until next "Day N" heading
- * We store the full block as prayer text (still real content).
  */
 function parseNovenaPage(
   pageUrl: string,
@@ -135,7 +139,6 @@ function parseNovenaPage(
   const description =
     $("h1").first().nextAll("p").first().text().trim() || null;
 
-  // Find headings that match Day N
   const dayHeadings = $("h2, h3")
     .toArray()
     .filter((el) => {
@@ -151,7 +154,6 @@ function parseNovenaPage(
     const dayNum = Number(hText.match(/\d+/)?.[0] ?? NaN);
     if (!Number.isFinite(dayNum)) continue;
 
-    // Collect content nodes until the next day heading
     const start = $(h);
     const endEl = i + 1 < dayHeadings.length ? dayHeadings[i + 1] : null;
 
@@ -161,7 +163,6 @@ function parseNovenaPage(
     while (cursor.length) {
       if (endEl && cursor[0] === endEl) break;
 
-      // Skip empty/nav-ish items
       const text = cursor.text().replace(/\s+/g, " ").trim();
       if (text) chunkParts.push(text);
 
@@ -170,13 +171,11 @@ function parseNovenaPage(
 
     const block = chunkParts
       .join("\n\n")
-      // Remove some obvious page chrome lines if present
       .replace(/Continue this novena.*OPEN\s*→/gi, "")
       .replace(/Today's prayer complete!\s*/gi, "")
       .replace(/Share this novena.*$/gim, "")
       .trim();
 
-    // If block is empty, skip (don’t create fake days)
     if (!block) continue;
 
     days.push({
@@ -227,15 +226,13 @@ async function main() {
 
     const outPath = path.join(outDir, `${e.id}.json`);
     if (fs.existsSync(outPath)) {
-      // already scraped/curated; keep it
-      continue;
+      continue; // keep curated
     }
 
     try {
       const pageHtml = await fetchHtml(pageUrl);
       const parsed = parseNovenaPage(pageUrl, pageHtml);
 
-      // No days parsed? don’t write junk.
       if (!parsed.days.length) {
         skippedParse++;
         continue;
@@ -247,8 +244,12 @@ async function main() {
         description: parsed.description ?? e.description ?? null,
         category: e.category,
         tags: e.tags,
+
+        // New model fields
+        durationDays: e.durationDays,
         startRule: e.startRule,
         feastRule: e.feastRule,
+
         source: { url: LIST_URL, pageUrl },
         days: parsed.days.sort((a, b) => a.day - b.day),
       };
@@ -256,7 +257,6 @@ async function main() {
       safeAtomicWrite(outPath, JSON.stringify(doc, null, 2));
       wrote++;
 
-      // be polite to their server
       await sleep(150);
     } catch (err) {
       skippedParse++;

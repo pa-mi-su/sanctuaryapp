@@ -3,8 +3,12 @@
   "name": "Saint Bonosa",
   "mmdd": "07-08",
   "feast": "The Eighth Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Magnus of Trani, also known as Magnus of Anagni, Magnus Episcopus or Magnus of Fabrateria Vetus, is venerated by Catholics as the patron saint of Anagni in the Province of Frosinone (Lazio), together with his apprentice Saint Secundina. According to the legend, he is also associated with the church of Santi Michele e Magno in Rome, from where a skull and an arm were translated to St.",
+  "biography": "Saint Magnus of Trani, also known as Magnus of Anagni, Magnus Episcopus or Magnus of Fabrateria Vetus, is venerated by Catholics as the patron saint of Anagni in the Province of Frosinone (Lazio), together with his apprentice Saint Secundina. According to the legend, he is also associated with the church of Santi Michele e Magno in Rome, from where a skull and an arm were translated to St. Peter's Basilica. Since 1901 the saint is venerated in Louisville, Kentucky, after a set of relics – including a skull – from Anagni were sent to the St. Martin of Tours Catholic Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Martin_of_Tours_Catholic_Church_(Louisville%2C_Kentucky)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Magnus_of_Trani"
+  ]
 }

@@ -3,8 +3,15 @@
   "name": "Saint Macarius",
   "mmdd": "02-28",
   "feast": "The Twenty-Eighth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Macarius I was Bishop of Jerusalem from 312 to shortly before 335, according to Sozomen. He is venerated as a saint within the Eastern Orthodox Church and Roman Catholic Church.",
+  "biography": "Macarius I was Bishop of Jerusalem from 312 to shortly before 335, according to Sozomen. He is venerated as a saint within the Eastern Orthodox Church and Roman Catholic Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macarius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Monastery_of_Saint_Macarius_the_Great",
+    "https://en.wikipedia.org/wiki/Macarius_of_Jerusalem",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

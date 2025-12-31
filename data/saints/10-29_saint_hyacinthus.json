@@ -3,8 +3,13 @@
   "name": "Saint Hyacinthus",
   "mmdd": "10-29",
   "feast": "The Twenty-Ninth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "A list of people, who died during the 2nd century, who have received recognition as Saints from the Catholic Church:",
+  "biography": "A list of people, who died during the 2nd century, who have received recognition as Saints from the Catholic Church:",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hyacinth_of_Caesarea",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Hyacinth",
+    "https://en.wikipedia.org/wiki/Chronological_list_of_saints_in_the_2nd_century"
+  ]
 }

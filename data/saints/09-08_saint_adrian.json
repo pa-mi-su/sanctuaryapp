@@ -3,8 +3,12 @@
   "name": "Saint Adrian",
   "mmdd": "09-08",
   "feast": "The Eighth Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "Adrian is a form of the Latin given name Adrianus or Hadrianus. Its ultimate origin is most likely via the former river Adria from the Venetic and Illyrian word adur, meaning \"sea\" or \"water\".",
+  "biography": "Adrian is a form of the Latin given name Adrianus or Hadrianus. Its ultimate origin is most likely via the former river Adria from the Venetic and Illyrian word adur, meaning \"sea\" or \"water\".",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Adrian_IV",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Adrian"
+  ]
 }

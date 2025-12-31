@@ -3,8 +3,11 @@
   "name": "Saint Alban",
   "mmdd": "06-22",
   "feast": "The Twenty-Second day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Alban is venerated as the first-recorded British Christian martyr, for which reason he is considered to be the protomartyr of Britain. Along with fellow Saints Julius and Aaron, Alban is one of three named martyrs recorded at an early date from Roman Britain.",
+  "biography": "Saint Alban is venerated as the first-recorded British Christian martyr, for which reason he is considered to be the protomartyr of Britain. Along with fellow Saints Julius and Aaron, Alban is one of three named martyrs recorded at an early date from Roman Britain. He is traditionally believed to have been beheaded in Verulamium sometime during the 3rd or 4th century, and has been celebrated there since ancient times.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Alban",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

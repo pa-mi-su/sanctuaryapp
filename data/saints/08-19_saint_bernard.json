@@ -3,8 +3,12 @@
   "name": "Saint Bernard",
   "mmdd": "08-19",
   "feast": "The Nineteenth Day of August",
-  "summary": "",
-  "biography": "",
+  "summary": "Bernard (Bernhard) is a French and West Germanic masculine given name. It has West Germanic origin and is also a surname.",
+  "biography": "Bernard (Bernhard) is a French and West Germanic masculine given name. It has West Germanic origin and is also a surname.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Bernard_(dog_breed)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Bernard"
+  ]
 }

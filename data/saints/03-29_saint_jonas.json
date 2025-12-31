@@ -3,8 +3,14 @@
   "name": "Saint Jonas",
   "mmdd": "03-29",
   "feast": "The Twenty-Ninth Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Saints Jonas and Barachisius, two brothers, were Persian martyrs during the persecutions of King Shapur II.",
+  "biography": "Saints Jonas and Barachisius, two brothers, were Persian martyrs during the persecutions of King Shapur II.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Jonas's_Festival",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Jonas_Sanker",
+    "https://en.wikipedia.org/wiki/Jonas_and_Barachisius",
+    "https://en.wikipedia.org/wiki/Jonas_of_Bobbio"
+  ]
 }

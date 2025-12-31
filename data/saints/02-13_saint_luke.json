@@ -3,8 +3,15 @@
   "name": "Saint Luke",
   "mmdd": "02-13",
   "feast": "The Thirteenth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Luke the Evangelist was one of the Four Evangelists—the four traditionally ascribed authors of the canonical gospels. The Early Church Fathers ascribed to him authorship of both the Gospel of Luke and the Acts of the Apostles.",
+  "biography": "Luke the Evangelist was one of the Four Evangelists—the four traditionally ascribed authors of the canonical gospels. The Early Church Fathers ascribed to him authorship of both the Gospel of Luke and the Acts of the Apostles. Prominent figures in early Christianity such as Jerome and Eusebius later reaffirmed his authorship, although a lack of conclusive evidence as to the identity of the author of the works has led to discussion in scholarly circles, both secular and religious.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Luke_painting_the_Virgin",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Luke_the_Evangelist",
+    "https://en.wikipedia.org/wiki/Luke_Voyno-Yasenetsky",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

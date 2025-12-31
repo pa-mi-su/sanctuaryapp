@@ -3,8 +3,12 @@
   "name": "Saint Serapia",
   "mmdd": "09-03",
   "feast": "The Third Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "Serapia was a Roman saint, a slave and martyr, also called Seraphia or Seraphima of Syria.",
+  "biography": "Serapia was a Roman saint, a slave and martyr, also called Seraphia or Seraphima of Syria.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Sabina",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Serapia"
+  ]
 }

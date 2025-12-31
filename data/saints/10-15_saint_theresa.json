@@ -3,8 +3,12 @@
   "name": "Saint Theresa",
   "mmdd": "10-15",
   "feast": "The Fifteenth Day of October",
-  "summary": "",
-  "biography": "",
+  "summary": "The Ecstasy of Saint Theresa is a Czech alternative rock band formed in 1990 by Jan Muchow, Jan Gregar, Petr Wegner, and Irna Libowitz.",
+  "biography": "The Ecstasy of Saint Theresa is a Czech alternative rock band formed in 1990 by Jan Muchow, Jan Gregar, Petr Wegner, and Irna Libowitz.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Co-Cathedral_of_Saint_Theresa_of_the_Child_Jesus_(Honolulu)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/The_Ecstasy_of_Saint_Theresa"
+  ]
 }

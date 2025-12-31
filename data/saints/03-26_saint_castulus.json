@@ -3,8 +3,11 @@
   "name": "Saint Castulus",
   "mmdd": "03-26",
   "feast": "The Twenty-Sixth Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Castulus is venerated as a martyr and saint. According to tradition, he was the chamberlain of Emperor Diocletian and the husband of Irene of Rome.",
+  "biography": "Castulus is venerated as a martyr and saint. According to tradition, he was the chamberlain of Emperor Diocletian and the husband of Irene of Rome.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Castulus",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

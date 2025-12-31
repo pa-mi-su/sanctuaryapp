@@ -3,8 +3,13 @@
   "name": "Saint Heraclius",
   "mmdd": "03-11",
   "feast": "The Eleventh Day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Heraclius was Bishop of Angoulême. The main source about his life is the Historia Francorum of Gregory of Tours.",
+  "biography": "Heraclius was Bishop of Angoulême. The main source about his life is the Historia Francorum of Gregory of Tours.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Heraclius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Alban",
+    "https://en.wikipedia.org/wiki/Heraclius_(bishop_of_Angoul%C3%AAme)"
+  ]
 }

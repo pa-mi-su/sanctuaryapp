@@ -3,8 +3,14 @@
   "name": "Saint Agatha",
   "mmdd": "02-05",
   "feast": "The Fifth Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "Agatha of Sicily is an early Christian virgin and martyr. Her feast is on 5 February; traditionally, it is considered the last date by which one can send New Year's greetings.",
+  "biography": "Agatha of Sicily is an early Christian virgin and martyr. Her feast is on 5 February; traditionally, it is considered the last date by which one can send New Year's greetings.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Feast_of_Saint_Agatha",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Agatha_of_Sicily",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

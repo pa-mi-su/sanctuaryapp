@@ -3,8 +3,12 @@
   "name": "Saint Manahen",
   "mmdd": "05-24",
   "feast": "The Twenty-Fourth Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "Silas or Silvanus was a leading member of the Early Christian community, who according to the New Testament accompanied Paul the Apostle on his second missionary journey.",
+  "biography": "Silas or Silvanus was a leading member of the Early Christian community, who according to the New Testament accompanied Paul the Apostle on his second missionary journey.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Manahen",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Silas"
+  ]
 }

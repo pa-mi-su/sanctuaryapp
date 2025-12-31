@@ -3,8 +3,13 @@
   "name": "Saint Venantius",
   "mmdd": "05-18",
   "feast": "The Eighteenth Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "Venantius Honorius Clementianus Fortunatus, known as Saint Venantius Fortunatus, was a Latin poet and hymnographer in the Merovingian Court, and a Christian bishop who has been venerated since the Middle Ages.",
+  "biography": "Venantius Honorius Clementianus Fortunatus, known as Saint Venantius Fortunatus, was a Latin poet and hymnographer in the Merovingian Court, and a Christian bishop who has been venerated since the Middle Ages.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Venantius_of_Camerino",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Venantius_of_Salona",
+    "https://en.wikipedia.org/wiki/Venantius_Fortunatus"
+  ]
 }

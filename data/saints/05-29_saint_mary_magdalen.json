@@ -3,8 +3,13 @@
   "name": "Saint Mary Magdalen",
   "mmdd": "05-29",
   "feast": "The Twenty-Nineth Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "Mary Magdalene de' Pazzi, OCarm, was an Italian Carmelite nun and mystic. She has been declared a saint by the Catholic Church.",
+  "biography": "Mary Magdalene de' Pazzi, OCarm, was an Italian Carmelite nun and mystic. She has been declared a saint by the Catholic Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saints_Jerome_and_Mary_Magdalen_(Bernini)",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/St._Mary_Magdalen_Church",
+    "https://en.wikipedia.org/wiki/Mary_Magdalene_de'_Pazzi"
+  ]
 }

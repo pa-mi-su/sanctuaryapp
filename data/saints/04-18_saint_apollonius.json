@@ -3,8 +3,12 @@
   "name": "Saint Apollonius",
   "mmdd": "04-18",
   "feast": "The Eighteenth Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Apollonius the Apologist or Saint Apollonius of Rome was a 2nd-century Christian martyr and apologist who was martyred in 185 under the Emperor Commodus (161–192).",
+  "biography": "Saint Apollonius the Apologist or Saint Apollonius of Rome was a 2nd-century Christian martyr and apologist who was martyred in 185 under the Emperor Commodus (161–192).",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apollonius_the_Apologist",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

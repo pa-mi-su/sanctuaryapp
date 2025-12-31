@@ -3,8 +3,13 @@
   "name": "Saint Marcian",
   "mmdd": "06-05",
   "feast": "The Fifth Day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "Marcian, or Marcianus, was a bishop and martyr, venerated as a saint by the Catholic Church and the Orthodox Church.",
+  "biography": "Marcian, or Marcianus, was a bishop and martyr, venerated as a saint by the Catholic Church and the Orthodox Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marcian",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Marcian_of_Tortona",
+    "https://en.wikipedia.org/wiki/Marcian_of_Syracuse"
+  ]
 }

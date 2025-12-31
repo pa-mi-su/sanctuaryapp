@@ -3,8 +3,12 @@
   "name": "Saint Barbara",
   "mmdd": "12-04",
   "feast": "The Fourth Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Barbara, known in the Eastern Orthodox Church as the Great Martyr Barbara, was an early Christian Greek saint and martyr.",
+  "biography": "Saint Barbara, known in the Eastern Orthodox Church as the Great Martyr Barbara, was an early Christian Greek saint and martyr.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Barbara_Church%2C_Vevey",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Barbara"
+  ]
 }

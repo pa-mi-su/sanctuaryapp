@@ -1,79 +1,69 @@
 // data/calendar.ts
 //
-// Runtime calendar generator (NO precomputed calendar_YYYY.json files)
+// Canonical calendar builder for Novenas
+// - Uses data/novenas_index.json (rules)
+// - Uses utils/liturgicalDates.ts to build anchors per year
+// - Uses utils/novenasRules.ts to resolve instances
 //
-// - Uses data/novenas_index.json (rules) + utils/liturgicalDates.ts (engine)
-// - Computes start/feast for any requested year
-// - Handles cross-year novenas (e.g. start 2025-12-25, feast 2026-01-03)
+// Provides:
+//   - NOVENAS (raw defs)
+//   - getNovenasForYear(year)
+//   - buildCalendarMapsForYear(year)  ✅ used by app/(tabs)/novenas.tsx
 
 import novenasIndex from "./novenas_index.json";
-import {
-  computeNovenaDatesForYearStrict,
-  type NovenaIndexEntry,
-} from "../utils/liturgicalDates";
+import { resolveNovenasForYear } from "../utils/novenasRules";
+import type { NovenaDef, NovenaInstance } from "../utils/novenasRules";
+import { buildNovenaAnchorsForYear } from "../utils/liturgicalDates";
 
-export type CalendarEntry = {
-  id: string;
-  title: string;
-  category: string;
-  tags: string[];
-  startDate: string; // YYYY-MM-DD (may be in previous year for cross-year)
-  feastDate: string; // YYYY-MM-DD
-};
+// Raw novena definitions (rules + metadata)
+export const NOVENAS: NovenaDef[] = novenasIndex as unknown as NovenaDef[];
 
-function isoDateOnly(d: Date): string {
+// --- small helpers ---
+function toYmdUTC(d: Date): string {
+  // novenasRules.ts normalizes to UTC midnight; ISO slice is stable.
   return d.toISOString().slice(0, 10);
 }
 
-/**
- * Build a full-year calendar for `year`.
- * NOTE: Some entries will have startDate in (year-1) for January feasts.
- */
-export function buildCalendarForYear(year: number): CalendarEntry[] {
-  const idx = novenasIndex as unknown as NovenaIndexEntry[];
-
-  const out: CalendarEntry[] = idx.map((e) => {
-    const r = computeNovenaDatesForYearStrict(e, year);
-    return {
-      id: e.id,
-      title: e.title,
-      category: e.category,
-      tags: e.tags,
-      startDate: isoDateOnly(r.startDate),
-      feastDate: isoDateOnly(r.feastDate),
-    };
-  });
-
-  // Sort by start date then title for stable UI
-  out.sort((a, b) => {
-    const c = a.startDate.localeCompare(b.startDate);
-    if (c !== 0) return c;
-    return a.title.localeCompare(b.title);
-  });
-
-  return out;
+export function getNovenasForYear(year: number): NovenaInstance[] {
+  const anchors = buildNovenaAnchorsForYear(year);
+  return resolveNovenasForYear(NOVENAS, year, anchors);
 }
 
 /**
- * Convenience: build lookup maps for fast rendering.
+ * Builds maps used by the Novenas tab UI:
+ * - startsMap: Map(YYYY-MM-DD -> novenas starting that day)
+ * - feastsMap: Map(YYYY-MM-DD -> novenas ending/feast that day)
+ *
+ * IMPORTANT:
+ * Your UI code (old novenas.tsx) calls src.entries() so these MUST be Maps.
  */
 export function buildCalendarMapsForYear(year: number): {
-  startsMap: Map<string, CalendarEntry[]>;
-  feastsMap: Map<string, CalendarEntry[]>;
-  entries: CalendarEntry[];
+  startsMap: Map<string, NovenaInstance[]>;
+  feastsMap: Map<string, NovenaInstance[]>;
 } {
-  const entries = buildCalendarForYear(year);
+  const instances = getNovenasForYear(year);
 
-  const startsMap = new Map<string, CalendarEntry[]>();
-  const feastsMap = new Map<string, CalendarEntry[]>();
+  const startsMap = new Map<string, NovenaInstance[]>();
+  const feastsMap = new Map<string, NovenaInstance[]>();
 
-  for (const e of entries) {
-    if (!startsMap.has(e.startDate)) startsMap.set(e.startDate, []);
-    startsMap.get(e.startDate)!.push(e);
+  for (const n of instances) {
+    const startKey = toYmdUTC(n.startDate);
+    const feastKey = toYmdUTC(n.feastDate);
 
-    if (!feastsMap.has(e.feastDate)) feastsMap.set(e.feastDate, []);
-    feastsMap.get(e.feastDate)!.push(e);
+    if (!startsMap.has(startKey)) startsMap.set(startKey, []);
+    startsMap.get(startKey)!.push(n);
+
+    if (!feastsMap.has(feastKey)) feastsMap.set(feastKey, []);
+    feastsMap.get(feastKey)!.push(n);
   }
 
-  return { startsMap, feastsMap, entries };
+  // Stable ordering (nice UI + deterministic)
+  for (const arr of startsMap.values()) {
+    arr.sort((a, b) => a.title.localeCompare(b.title));
+  }
+  for (const arr of feastsMap.values()) {
+    arr.sort((a, b) => a.title.localeCompare(b.title));
+  }
+
+  return { startsMap, feastsMap };
 }

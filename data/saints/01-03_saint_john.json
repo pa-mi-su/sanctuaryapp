@@ -3,8 +3,15 @@
   "name": "Saint John",
   "mmdd": "01-03",
   "feast": "The Third Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "John of Nepomuk \nwas a saint of Bohemia. He was executed by King Wenceslaus IV of Bohemia for disobedience. John was thrown into the Vltava river.",
+  "biography": "John of Nepomuk \nwas a saint of Bohemia. He was executed by King Wenceslaus IV of Bohemia for disobedience. John was thrown into the Vltava river.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_John%2C_U.S._Virgin_Islands",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/John_the_Apostle",
+    "https://en.wikipedia.org/wiki/John_of_Nepomuk",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

@@ -3,8 +3,12 @@
   "name": "Saint Jeremias",
   "mmdd": "05-01",
   "feast": "The First Day of May",
-  "summary": "",
-  "biography": "",
+  "summary": "The Patriarchal Cathedral Church of St. George is the principal Eastern Orthodox cathedral located in Istanbul, Turkey, formerly Constantinople.",
+  "biography": "The Patriarchal Cathedral Church of St. George is the principal Eastern Orthodox cathedral located in Istanbul, Turkey, formerly Constantinople. Since about 1600, it has been the seat of the Ecumenical Patriarchate of Constantinople whose leader is regarded as the primus inter pares in the Eastern Orthodox Church, and is frequently looked upon as the spiritual leader of the 300 million Orthodox Christians worldwide.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jeremias_II_of_Constantinople",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/St._George's_Cathedral%2C_Istanbul"
+  ]
 }

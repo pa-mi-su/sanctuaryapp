@@ -3,8 +3,14 @@
   "name": "Saint Titus",
   "mmdd": "01-04",
   "feast": "The Fourth Day of January",
-  "summary": "",
-  "biography": "",
+  "summary": "Titus was an early Christian missionary and church leader, a companion and disciple of Paul the Apostle, mentioned in several of the Pauline epistles including the Epistle to Titus. He is believed to be a Gentile converted to Christianity by Paul and, according to tradition, he was consecrated as Bishop of the Island of Crete.",
+  "biography": "Titus was an early Christian missionary and church leader, a companion and disciple of Paul the Apostle, mentioned in several of the Pauline epistles including the Epistle to Titus. He is believed to be a Gentile converted to Christianity by Paul and, according to tradition, he was consecrated as Bishop of the Island of Crete.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Titus",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Revolt_of_Saint_Titus",
+    "Wikidata (CC0) — used for entity validation and disambiguation.",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

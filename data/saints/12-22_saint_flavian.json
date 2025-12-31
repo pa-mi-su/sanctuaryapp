@@ -3,8 +3,12 @@
   "name": "Saint Flavian",
   "mmdd": "12-22",
   "feast": "The Twenty-Second Day of December",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Flavian of Ricina is venerated as a martyr and bishop by the Catholic Church. Tradition holds that he was a bishop of \nHelvia Ricina (Macerata), during the 3rd century, martyred on November 24.",
+  "biography": "Saint Flavian of Ricina is venerated as a martyr and bishop by the Catholic Church. Tradition holds that he was a bishop of \nHelvia Ricina (Macerata), during the 3rd century, martyred on November 24. His cult is ancient and widespread in the Marche and Umbria, with many churches and abbeys dedicated to him, but historical information on his life is limited to a few details and traditions.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flavian_of_Ricina",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Flavian"
+  ]
 }

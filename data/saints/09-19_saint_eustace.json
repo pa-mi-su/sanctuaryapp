@@ -3,8 +3,11 @@
   "name": "Saint Eustace",
   "mmdd": "09-19",
   "feast": "The Nineteenth Day of September",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Eustace is revered as a Christian martyr. According to legend, he was martyred in AD 118, at the command of emperor Hadrian.",
+  "biography": "Saint Eustace is revered as a Christian martyr. According to legend, he was martyred in AD 118, at the command of emperor Hadrian. Eustace was a pagan Roman general, who converted to Christianity after he had a vision of the cross while hunting. He lost all his wealth, was separated from his wife and sons, and went into exile in Egypt. Called back to lead the Roman army by emperor Trajan, Eustace was happily reunited with his family and restored to high social standing, but after the death of Trajan, he and his family were martyred under Hadrian for refusing to sacrifice to pagan Roman gods.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Eustace",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

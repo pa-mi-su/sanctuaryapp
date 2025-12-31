@@ -3,8 +3,12 @@
   "name": "Saint Tiburtius",
   "mmdd": "06-02",
   "feast": "The Second Day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "Tiburtius, according to Christian legend, was a Christian martyr and saint. His feast day is 11 August which is the same as Saint Susanna.",
+  "biography": "Tiburtius, according to Christian legend, was a Christian martyr and saint. His feast day is 11 August which is the same as Saint Susanna. The two were not related, but are sometimes associated because they are venerated on the same day.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Tiburtius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Tiburtius"
+  ]
 }

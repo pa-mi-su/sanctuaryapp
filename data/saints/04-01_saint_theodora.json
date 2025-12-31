@@ -3,8 +3,15 @@
   "name": "Saint Theodora",
   "mmdd": "04-01",
   "feast": "The First Day of April",
-  "summary": "",
-  "biography": "",
+  "summary": "Anne Thérèse Guérin, designated by the Vatican as Saint Theodora, was a French-American saint and the foundress of the Sisters of Providence of Saint Mary-of-the-Woods, a congregation of Catholic sisters at Saint Mary-of-the-Woods, Indiana. Pope John Paul II beatified Guérin on 25 October 1998, and Pope Benedict XVI canonized her a saint of the Catholic Church on 15 October 2006.",
+  "biography": "Anne Thérèse Guérin, designated by the Vatican as Saint Theodora, was a French-American saint and the foundress of the Sisters of Providence of Saint Mary-of-the-Woods, a congregation of Catholic sisters at Saint Mary-of-the-Woods, Indiana. Pope John Paul II beatified Guérin on 25 October 1998, and Pope Benedict XVI canonized her a saint of the Catholic Church on 15 October 2006. Mother Guérin's feast day is 3 October, although some calendars list it in the Roman Martyrology as 14 May, her day of death.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodora",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Theodora_and_Didymus",
+    "https://en.wikipedia.org/wiki/Saint_Theodora",
+    "https://en.wikipedia.org/wiki/Th%C3%A9odore_Gu%C3%A9rin",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

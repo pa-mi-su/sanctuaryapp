@@ -3,8 +3,12 @@
   "name": "Blessed Virgin Mary Immaculate",
   "mmdd": "02-11",
   "feast": "The Eleventh Day of February",
-  "summary": "",
-  "biography": "",
+  "summary": "The Immaculate Conception is the doctrine that the Virgin Mary was free of original sin from the moment of her conception. It is one of the four Marian dogmas of the Catholic Church.",
+  "biography": "The Immaculate Conception is the doctrine that the Virgin Mary was free of original sin from the moment of her conception. It is one of the four Marian dogmas of the Catholic Church. Debated by medieval theologians, it was not defined as a dogma until 1854, by Pope Pius IX in the papal bull Ineffabilis Deus. While the Immaculate Conception asserts Mary's freedom from original sin, the Council of Trent, held between 1545 and 1563, had previously non-dogmatically affirmed her freedom from personal sin.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Feast_of_the_Conception_of_the_Virgin_Mary",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Immaculate_Conception"
+  ]
 }

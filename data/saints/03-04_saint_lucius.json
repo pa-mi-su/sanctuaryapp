@@ -3,8 +3,14 @@
   "name": "Saint Lucius",
   "mmdd": "03-04",
   "feast": "The Fourth day of March",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint Nohra, St. Lucius or Mar Nohra was a Maronite saint and mar. The saint's name derives from Aramaic, meaning \"light\".",
+  "biography": "Saint Nohra, St. Lucius or Mar Nohra was a Maronite saint and mar. The saint's name derives from Aramaic, meaning \"light\". He was born in Persia in the third century, and is not to be confused with Pope Lucius I.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Lucius",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Saint_Lucius%2C_Brugherio",
+    "https://en.wikipedia.org/wiki/Saint_Nohra",
+    "Wikidata (CC0) — used for entity resolution/validation."
+  ]
 }

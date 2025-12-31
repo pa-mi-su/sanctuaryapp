@@ -3,8 +3,11 @@
   "name": "Saint Zeno",
   "mmdd": "07-09",
   "feast": "The Ninth Day of July",
-  "summary": "",
-  "biography": "",
+  "summary": "Zeno of Verona was an Afro-Italian Christian figure believed to have either served as Bishop of Verona or died as a martyr. He is venerated as a saint in the Catholic Church and the Orthodox Church.",
+  "biography": "Zeno of Verona was an Afro-Italian Christian figure believed to have either served as Bishop of Verona or died as a martyr. He is venerated as a saint in the Catholic Church and the Orthodox Church.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zeno_of_Verona",
+    "Wikipedia (CC BY-SA) — text attribution required."
+  ]
 }

@@ -3,8 +3,12 @@
   "name": "Saint Maximin",
   "mmdd": "06-08",
   "feast": "The Eighth Day of June",
-  "summary": "",
-  "biography": "",
+  "summary": "Saint-Maximin-la-Sainte-Baume is a commune in the southeastern French department of Var, in the Provence-Alpes-Côte d'Azur region. Located 40 km (25 mi) east of Aix-en-Provence, the town lies at the foot of the Sainte-Baume mountains.",
+  "biography": "Saint-Maximin-la-Sainte-Baume is a commune in the southeastern French department of Var, in the Provence-Alpes-Côte d'Azur region. Located 40 km (25 mi) east of Aix-en-Provence, the town lies at the foot of the Sainte-Baume mountains. Baume or bama is the Provençal equivalent of cave. The town's basilica is dedicated to Mary Magdalene.",
   "prayers": [],
-  "sources": []
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint-Maximin-la-Sainte-Baume",
+    "Wikipedia (CC BY-SA) — text attribution required.",
+    "https://en.wikipedia.org/wiki/Allan_Saint-Maximin"
+  ]
 }
